@@ -1,0 +1,12 @@
+{
+  "release": "20261013T200621564085-a092e3",
+  "generated": "2026-10-13T20:06:21+00:00",
+  "snapshot": "2026-10-13",
+  "sha256": {
+    "incidents.csv": "77da667608488456591f26a55e7bfce5e04bc7e06265637142d9080bca5edb5d",
+    "incidents.json": "39f02d38242ce289c747488ce8871c6bf78321576d415400e63a01c4ddc300ac",
+    "README.md": "3c7c99ebe90f1a19a909b6c0076c392736124b384f0383d0e6b6e83da4b58059",
+    "DATA_DICTIONARY.md": "337a0040faf675a921af3c4acc5079dee89b0c9aa24657007473808a4a51baeb",
+    "CITATION.cff": "fc778a1daff183e37ac31b4853020ae868357b9ae10483148c3671822a45e917"
+  }
+}
