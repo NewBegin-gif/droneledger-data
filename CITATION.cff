@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Cite the exact Zenodo version DOI, snapshot date and file hash for reproducibility."
+title: "DroneLedger: source-traced drone incident dossiers"
+type: dataset
+authors:
+  - name: "DroneLedger"
+version: "2026-10-13"
+date-released: "2026-10-13"
+license: CC-BY-4.0
+url: "https://droneincidents.com"
+abstract: "Selective public-source dossier archive; row counts are not drone or attack totals."
+keywords:
+  - unmanned aerial vehicles
+  - source provenance
+  - incident dossiers
+  - open data
