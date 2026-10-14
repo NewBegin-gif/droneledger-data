@@ -40,11 +40,30 @@ a set of separately located events or exact timestamps. Source-relative requires
 offset. Legacy date/dateKind are retained; do not use the date as an exact event day when a window exists.
 Never backfill a window from an old date or count it once in each covered day.
 
+## Closed automatic impact claims (DI-19)
+impactReports[] contains type (closed enum), n/qual (literal casualty count/comparator or null),
+who (registered actor or coarse official role), via (registered publisher), asOf (original source
+publication timestamp with explicit offset, not event time or final toll), src (sources[] index),
+and state (reported or contested). No quote, free prose, victim, object name or precise place.
+Types: killed, injured, damage_residential, damage_civilian_infrastructure, damage_energy,
+damage_industrial, damage_transport, damage_vehicle, damage_vessel, damage_other, fire,
+power_outage, water_outage, airport_disruption, flight_disruption, no_damage, no_casualties.
+At most 16 eligible claims. Empty means no eligible claim included, never proof of no impact.
+No_damage and no_casualties are different explicit reported absences. Contested claims have no
+count; dossier impactStatus uses the existing inconclusive enum, never automatic confirmed.
+The latest publication from the same speaker/type supersedes older counts; equal-time conflicting
+counts are suppressed. Different speakers remain separate. Never add casualty counts across claims,
+dossiers, days, cities or windows. Earlier published counts stay in dossier revision history.
+Source publishedAt is additive and timestamp-bound; unavailable original offset time means no
+automatic impact claim. Legacy dossiers receive this only at a normal update; no guessed backfill.
+
 ## CSV-only flattened columns
 source_urls: source URLs joined by ` | `; source_families: unique publisher-family slugs in
 encounter order joined by ` | `; sources_json: JSON-encoded sources array (use this rather than
 splitting URLs). ref_lat/ref_lon/ref_level: flattened referencePoint coordinates/level or empty.
-No nested claims, timeline or history are flattened into CSV. Use JSON for those.
+impact_reports_json is the same closed impactReports array serialized as JSON in one quoted CSV
+cell (empty array for legacy/absent). No casualty scalar or aggregate columns. Parse JSON, do not
+sum. Other nested claims, timeline and history remain JSON-only.
 
 ## JSON-only nested dossier fields
 - sources[]: label (publisher/document label), url (HTTPS original), published (source publication
