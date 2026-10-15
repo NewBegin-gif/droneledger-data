@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-14T06:31:41+00:00",
- "release": "20261014T063141822243-3a78a3",
+ "generated": "2026-10-15T06:47:01+00:00",
+ "release": "20261015T064701924898-b021d6",
  "coverage": "Curated archive; not a complete or live record.",
  "license": {
   "name": "CC BY 4.0",
@@ -9,6 +9,201 @@
   "excludes": "Quoted source passages and linked articles remain the copyright of their publishers; they are included as short quotations for verification. Fonts (SIL OFL) and map data (Natural Earth, public domain) keep their own terms. City and region names in automatically published dossiers are checked against GeoNames (geonames.org, CC BY 4.0). Drone drawings and animations are schematic illustrations of a type, not evidence about any incident."
  },
  "incidents": [
+  {
+   "id": "kropyvnytskyi-drone-attack-2026-10-14",
+   "title": "Regional authorities report three dead and six injured after drone attack in Kropyvnytskyi",
+   "place": "Kropyvnytskyi",
+   "country": "Ukraine",
+   "countryCode": "UA",
+   "scope": "wave",
+   "review": "editor",
+   "corroboration": "curated",
+   "dateKind": "event",
+   "date": "2026-10-14",
+   "category": "conflict",
+   "droneStatus": "reported",
+   "impactStatus": "reported",
+   "attributionStatus": "claimed",
+   "lat": 48.51,
+   "lon": 32.27,
+   "locationPrecision": "region",
+   "checkedAt": "2026-10-15",
+   "autoCheckedAt": null,
+   "updatedAt": "2026-10-15",
+   "summary": "Ukrinform and the Kyiv Post report a Russian drone attack on Kropyvnytskyi on 14 October 2026. The Kirovohrad regional military administration reported three deaths and six injuries in the city; these remain claims by an involved party.",
+   "impact": "Ukrinform carried the regional administration's figures at 01:08 local time on 15 October 2026 (UTC+03:00): three dead and six injured in Kropyvnytskyi. The Kyiv Post, relayed by uazmi.com at 01:46, reports the same total, with five injured people treated in city medical facilities and one who refused hospitalisation, and describes damage to the grounds of a multi-storey residential building, windows and parked vehicles in the city. Damage to a transport enterprise and homes elsewhere in Kropyvnytskyi district, and in Oleksandriia district, is excluded from this city record.",
+   "evidence": "Two separate news organisations, Ukrinform and the Kyiv Post, report this event. Both attribute the casualty figures to the regional military administration, so their agreement is not independent verification of the toll. Drone involvement remains reported. No social-media page was used as a source.",
+   "unknown": "The final casualty total and the precise time of each strike are not established. The death toll rose during the night; the figure here is the total as of 15 October 01:08 local time, not a final count.",
+   "attribution": "The cited Ukrainian reports attribute the attack to Russia. This attribution by an involved party has not been independently verified here.",
+   "windowStart": null,
+   "windowEnd": null,
+   "windowBasis": null,
+   "droneTypes": [],
+   "claims": [
+    {
+     "id": "city-drone-casualties",
+     "axis": "drone",
+     "statement": "Ukrinform reports that Russian drone strikes in Kropyvnytskyi killed three people and injured six.",
+     "quote": "Унаслідок ударів російських безпілотників у Кропивницькому загинули троє людей, шестеро зазнали поранень.",
+     "claimant": "Kirovohrad regional military administration",
+     "originId": "kirovohrad-administration-update-2026-10-15",
+     "relay": "relayed",
+     "assessment": "supports",
+     "note": "Party-origin report; Ukrinform attributes the statement to the regional administration.",
+     "sourceIndex": 0,
+     "quoteCheckedAt": "2026-10-15"
+    },
+    {
+     "id": "injured-treatment",
+     "axis": "impact",
+     "statement": "The Kyiv Post reports five injured people treated in city medical facilities and one who refused hospitalisation.",
+     "quote": "Five injured people were receiving treatment at city medical facilities, while another refused hospitalization.",
+     "claimant": "Kirovohrad regional military administration",
+     "originId": "kirovohrad-administration-update-2026-10-15",
+     "relay": "relayed",
+     "assessment": "supports",
+     "note": "Same official update as the death toll; not an independent second casualty source.",
+     "sourceIndex": 1,
+     "quoteCheckedAt": "2026-10-15"
+    },
+    {
+     "id": "city-residential-damage",
+     "axis": "impact",
+     "statement": "The Kyiv Post reports that a strike in the city hit the grounds of a multi-storey residential building, shattering windows and damaging parked vehicles.",
+     "quote": "In Kropyvnytskyi itself, a strike hit the grounds of a multi-story residential building, shattering windows and damaging parked vehicles.",
+     "claimant": "Kirovohrad regional military administration",
+     "originId": "kirovohrad-administration-update-2026-10-15",
+     "relay": "relayed",
+     "assessment": "supports",
+     "note": "City damage only; district damage in the same report is excluded from this record.",
+     "sourceIndex": 1,
+     "quoteCheckedAt": "2026-10-15"
+    }
+   ],
+   "droneStatusSources": [
+    0,
+    1
+   ],
+   "impactStatusSources": [
+    0,
+    1
+   ],
+   "attributionSources": [
+    0,
+    1
+   ],
+   "sources": [
+    {
+     "label": "Ukrinform: regional administration reports three dead and six injured in Kropyvnytskyi",
+     "url": "https://www.ukrinform.ua/rubric-regions/4174536-u-kropivnickomu-kilkist-zagiblih-vid-ataki-rf-zrosla-do-troh-sestero-ludej-postrazdali.html",
+     "published": "2026-10-15",
+     "family": "ukrinform",
+     "publishedAt": "2026-10-15T01:08:00+03:00"
+    },
+    {
+     "label": "Kyiv Post (via uazmi.com): Russian drones pound Kropyvnytskyi, killing three and injuring six",
+     "url": "https://uazmi.com/news/post/b74b9129bb22661482eff1b1d3ae08eb",
+     "published": "2026-10-15",
+     "family": "kyiv-post",
+     "publishedAt": "2026-10-15T01:46:13+03:00"
+    }
+   ],
+   "timeline": [
+    {
+     "date": "2026-10-14",
+     "text": "Drone attack on Kropyvnytskyi and surrounding areas; damage in the city is reported separately from damage in the districts.",
+     "source": 1
+    },
+    {
+     "date": "2026-10-15",
+     "text": "At 01:08 local time Ukrinform publishes the regional administration's figures: three dead and six injured in the city.",
+     "source": 0
+    },
+    {
+     "date": "2026-10-15",
+     "text": "At 01:46 local time the Kyiv Post report (relayed by uazmi.com) gives the same total and describes residential damage in the city.",
+     "source": 1
+    }
+   ],
+   "referencePoint": null,
+   "impactReports": [],
+   "history": [
+    {
+     "revision": 1,
+     "date": "2026-10-15",
+     "at": "2026-10-15T06:10:05.336+00:00",
+     "note": "Curated dossier created after checking the cited sources line by line."
+    }
+   ]
+  },
+  {
+   "id": "auto-ua-2026-10-14-74e72a760f",
+   "title": "Drone wave reported in Ukraine",
+   "place": "Ukraine",
+   "country": "Ukraine",
+   "countryCode": "UA",
+   "scope": "wave",
+   "review": "auto",
+   "corroboration": "single",
+   "dateKind": "event",
+   "date": "2026-10-14",
+   "category": "conflict",
+   "droneStatus": "reported",
+   "impactStatus": "unknown",
+   "attributionStatus": "none",
+   "lat": null,
+   "lon": null,
+   "locationPrecision": "country",
+   "checkedAt": null,
+   "autoCheckedAt": "2026-10-14",
+   "updatedAt": "2026-10-14",
+   "summary": "According to Ukraine's Air Force, drones were reported in Ukraine on 14 October 2026.",
+   "impact": "No eligible attributed impact claim is included; this does not mean no impact occurred.",
+   "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
+   "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
+   "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
+   "windowStart": null,
+   "windowEnd": null,
+   "windowBasis": null,
+   "droneTypes": [],
+   "claims": [],
+   "droneStatusSources": [
+    0
+   ],
+   "impactStatusSources": [],
+   "attributionSources": [],
+   "sources": [
+    {
+     "label": "Interfax-Ukraine (2026-10-14)",
+     "url": "https://en.interfax.com.ua/news/general/1219699.html",
+     "published": "2026-10-14",
+     "family": "interfax",
+     "publishedAt": "2026-10-14T09:21:50.946853+03:00"
+    }
+   ],
+   "timeline": [
+    {
+     "date": "2026-10-14",
+     "text": "Interfax-Ukraine published a report on this incident.",
+     "source": 0
+    }
+   ],
+   "referencePoint": {
+    "lat": 49.72,
+    "lon": 32.14,
+    "level": "country",
+    "name": "Ukraine"
+   },
+   "impactReports": [],
+   "history": [
+    {
+     "revision": 3,
+     "date": "2026-10-14",
+     "at": "2026-10-14T08:31:31.978+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    }
+   ]
+  },
   {
    "id": "auto-ru-2026-10-14-e5dac61977",
    "title": "Drone report in Balakovo, Russia",
@@ -30,7 +225,7 @@
    "checkedAt": null,
    "autoCheckedAt": "2026-10-14",
    "updatedAt": "2026-10-14",
-   "summary": "According to a cited source, drones were reported in Balakovo, Russia on 14 October 2026. According to grodno24.com, drones were reported in Balakovo, Russia on 14 October 2026.",
+   "summary": "According to grodno24.com, drones were reported in Balakovo, Russia on 14 October 2026. According to a cited source, drones were reported in Balakovo, Russia on 14 October 2026.",
    "impact": "According to An official source of an involved party, via Interfax, as of 2026-10-14T04:29+03:00: residential damage.",
    "evidence": "Automatically compiled and published from 2 articles by different publishers that each report drone presence at this place and date. An automatic check found them to describe the same incident and found claims that appear to come from at least two different sources; that independence has not been established by an editor. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
    "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
@@ -45,33 +240,33 @@
     1
    ],
    "impactStatusSources": [
-    0
+    1
    ],
    "attributionSources": [],
    "sources": [
+    {
+     "label": "grodno24.com (2026-10-13)",
+     "url": "https://grodno24.com/2026/10/v-balakove-v-rezultate-ataki-bpla-pogib-chelovek.html",
+     "published": "2026-10-13",
+     "family": "grodno24"
+    },
     {
      "label": "Interfax (2026-10-14)",
      "url": "https://www.interfax.ru/russia/1122245",
      "published": "2026-10-14",
      "family": "interfax",
      "publishedAt": "2026-10-14T04:29+03:00"
-    },
-    {
-     "label": "grodno24.com (2026-10-13)",
-     "url": "https://grodno24.com/2026/10/v-balakove-v-rezultate-ataki-bpla-pogib-chelovek.html",
-     "published": "2026-10-13",
-     "family": "grodno24"
     }
    ],
    "timeline": [
     {
-     "date": "2026-10-14",
-     "text": "Interfax published a report on this incident.",
+     "date": "2026-10-13",
+     "text": "grodno24.com published a report on this incident.",
      "source": 0
     },
     {
-     "date": "2026-10-13",
-     "text": "grodno24.com published a report on this incident.",
+     "date": "2026-10-14",
+     "text": "Interfax published a report on this incident.",
      "source": 1
     }
    ],
@@ -86,7 +281,7 @@
      "asOf": "2026-10-14T04:29+03:00",
      "n": null,
      "qual": null,
-     "src": 0,
+     "src": 1,
      "state": "reported",
      "type": "damage_residential",
      "via": "Interfax",
@@ -97,6 +292,12 @@
     }
    ],
    "history": [
+    {
+     "revision": 6,
+     "date": "2026-10-14",
+     "at": "2026-10-14T07:28:47.795+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    },
     {
      "revision": 4,
      "date": "2026-10-14",
@@ -112,9 +313,9 @@
    ]
   },
   {
-   "id": "auto-ru-2026-10-14-b9c5797788",
-   "title": "Drone report in Russia",
-   "place": "Russia",
+   "id": "auto-ru-2026-10-14-9428b64555",
+   "title": "Drone report in Ryazan Oblast, Russia",
+   "place": "Ryazan Oblast",
    "country": "Russia",
    "countryCode": "RU",
    "scope": "single",
@@ -128,11 +329,11 @@
    "attributionStatus": "none",
    "lat": null,
    "lon": null,
-   "locationPrecision": "country",
+   "locationPrecision": "unknown",
    "checkedAt": null,
    "autoCheckedAt": "2026-10-14",
    "updatedAt": "2026-10-14",
-   "summary": "According to Moscow's mayor (reported by Interfax), drones were reported in Russia on 14 October 2026.",
+   "summary": "According to Russia's Defence Ministry (reported by Kommersant), drones were reported in Ryazan Oblast, Russia on 14 October 2026.",
    "impact": "No eligible attributed impact claim is included; this does not mean no impact occurred.",
    "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
    "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
@@ -149,44 +350,168 @@
    "attributionSources": [],
    "sources": [
     {
-     "label": "Interfax (2026-10-13)",
-     "url": "https://www.interfax.ru/moscow/1122233",
-     "published": "2026-10-13",
-     "family": "interfax",
-     "publishedAt": "2026-10-14T02:20+03:00"
+     "label": "Kommersant (2026-10-14)",
+     "url": "https://www.kommersant.ru/doc/9026709",
+     "published": "2026-10-14",
+     "family": "kommersant",
+     "publishedAt": "2026-10-14T16:45:14Z"
     }
    ],
    "timeline": [
     {
-     "date": "2026-10-13",
-     "text": "Interfax published a report on this incident.",
+     "date": "2026-10-14",
+     "text": "Kommersant published a report on this incident.",
      "source": 0
     }
    ],
    "referencePoint": {
-    "lat": 58.25,
-    "lon": 44.69,
-    "level": "country",
-    "name": "Russia"
+    "lat": 54.63,
+    "lon": 39.7,
+    "level": "region",
+    "name": "Ryazan Oblast"
    },
    "impactReports": [],
    "history": [
     {
-     "revision": 6,
+     "revision": 2,
      "date": "2026-10-14",
-     "at": "2026-10-14T03:25:55.821+00:00",
+     "at": "2026-10-14T17:25:17.227+00:00",
      "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
-    },
+    }
+   ]
+  },
+  {
+   "id": "auto-ru-2026-10-14-4938bcd553",
+   "title": "Drone report in Moscow, Russia",
+   "place": "Moscow",
+   "country": "Russia",
+   "countryCode": "RU",
+   "scope": "single",
+   "review": "auto",
+   "corroboration": "single",
+   "dateKind": "event",
+   "date": "2026-10-14",
+   "category": "conflict",
+   "droneStatus": "reported",
+   "impactStatus": "unknown",
+   "attributionStatus": "none",
+   "lat": null,
+   "lon": null,
+   "locationPrecision": "unknown",
+   "checkedAt": null,
+   "autoCheckedAt": "2026-10-14",
+   "updatedAt": "2026-10-14",
+   "summary": "According to Kommersant, drones were reported in Moscow, Russia on 14 October 2026.",
+   "impact": "No eligible attributed impact claim is included; this does not mean no impact occurred.",
+   "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
+   "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
+   "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
+   "windowStart": null,
+   "windowEnd": null,
+   "windowBasis": null,
+   "droneTypes": [],
+   "claims": [],
+   "droneStatusSources": [
+    0
+   ],
+   "impactStatusSources": [],
+   "attributionSources": [],
+   "sources": [
     {
-     "revision": 4,
+     "label": "Kommersant (2026-10-14)",
+     "url": "https://www.kommersant.ru/doc/9026110",
+     "published": "2026-10-14",
+     "family": "kommersant",
+     "publishedAt": "2026-10-14T07:37:51Z"
+    }
+   ],
+   "timeline": [
+    {
      "date": "2026-10-14",
-     "at": "2026-10-14T02:24:39.483+00:00",
-     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
-    },
+     "text": "Kommersant published a report on this incident.",
+     "source": 0
+    }
+   ],
+   "referencePoint": {
+    "lat": 55.75,
+    "lon": 37.62,
+    "level": "city",
+    "name": "Moscow"
+   },
+   "impactReports": [],
+   "history": [
     {
      "revision": 2,
      "date": "2026-10-14",
-     "at": "2026-10-14T01:25:22.015+00:00",
+     "at": "2026-10-14T10:26:54.867+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    }
+   ]
+  },
+  {
+   "id": "auto-ro-2026-10-14-b8fb4b8bdd",
+   "title": "Drone report in the Black Sea, off Romania",
+   "place": "Black Sea",
+   "country": "Romania",
+   "countryCode": "RO",
+   "scope": "single",
+   "review": "auto",
+   "corroboration": "single",
+   "dateKind": "event",
+   "date": "2026-10-14",
+   "category": "conflict",
+   "droneStatus": "reported",
+   "impactStatus": "unknown",
+   "attributionStatus": "none",
+   "lat": null,
+   "lon": null,
+   "locationPrecision": "unknown",
+   "checkedAt": null,
+   "autoCheckedAt": "2026-10-15",
+   "updatedAt": "2026-10-15",
+   "summary": "According to Militarnyi, drones were reported in the Black Sea, off Romania on 14 October 2026.",
+   "impact": "No eligible attributed impact claim is included; this does not mean no impact occurred.",
+   "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
+   "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
+   "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
+   "windowStart": null,
+   "windowEnd": null,
+   "windowBasis": null,
+   "droneTypes": [],
+   "claims": [],
+   "droneStatusSources": [
+    0
+   ],
+   "impactStatusSources": [],
+   "attributionSources": [],
+   "sources": [
+    {
+     "label": "Militarnyi (2026-10-14)",
+     "url": "https://militarnyi.com/uk/news/u-terytorialnyh-rumuniyi-dron-urazyv-yara-j/",
+     "published": "2026-10-14",
+     "family": "militarnyi",
+     "publishedAt": "2026-10-14T23:46:08+03:00"
+    }
+   ],
+   "timeline": [
+    {
+     "date": "2026-10-14",
+     "text": "Militarnyi published a report on this incident.",
+     "source": 0
+    }
+   ],
+   "referencePoint": {
+    "lat": 43.2,
+    "lon": 34.3,
+    "level": "sea",
+    "name": "Black Sea"
+   },
+   "impactReports": [],
+   "history": [
+    {
+     "revision": 2,
+     "date": "2026-10-15",
+     "at": "2026-10-15T01:23:51.268+00:00",
      "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
     }
    ]
@@ -442,6 +767,74 @@
    ]
   },
   {
+   "id": "auto-ua-2026-10-13-d50cf15922",
+   "title": "Drone report in Lutsk, Ukraine",
+   "place": "Lutsk",
+   "country": "Ukraine",
+   "countryCode": "UA",
+   "scope": "single",
+   "review": "auto",
+   "corroboration": "single",
+   "dateKind": "event",
+   "date": "2026-10-13",
+   "category": "conflict",
+   "droneStatus": "reported",
+   "impactStatus": "unknown",
+   "attributionStatus": "none",
+   "lat": null,
+   "lon": null,
+   "locationPrecision": "unknown",
+   "checkedAt": null,
+   "autoCheckedAt": "2026-10-14",
+   "updatedAt": "2026-10-14",
+   "summary": "According to Ukrinform, drones were reported in Lutsk, Ukraine on 13 October 2026.",
+   "impact": "No eligible attributed impact claim is included; this does not mean no impact occurred.",
+   "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
+   "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
+   "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
+   "windowStart": null,
+   "windowEnd": null,
+   "windowBasis": null,
+   "droneTypes": [],
+   "claims": [],
+   "droneStatusSources": [
+    0
+   ],
+   "impactStatusSources": [],
+   "attributionSources": [],
+   "sources": [
+    {
+     "label": "Ukrinform (2026-10-14)",
+     "url": "https://www.ukrinform.ua/rubric-culture/4174473-ulamki-rosijskogo-drona-poskodili-u-lucku-najbilsu-kartinu-u-sviti-kosmogoniu.html",
+     "published": "2026-10-14",
+     "family": "ukrinform",
+     "publishedAt": "2026-10-14T19:21:00+03:00"
+    }
+   ],
+   "timeline": [
+    {
+     "date": "2026-10-14",
+     "text": "Ukrinform published a report on this incident.",
+     "source": 0
+    }
+   ],
+   "referencePoint": {
+    "lat": 50.76,
+    "lon": 25.35,
+    "level": "city",
+    "name": "Lutsk"
+   },
+   "impactReports": [],
+   "history": [
+    {
+     "revision": 2,
+     "date": "2026-10-14",
+     "at": "2026-10-14T17:24:42.448+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    }
+   ]
+  },
+  {
    "id": "auto-ua-2026-10-13-c2431ef742",
    "title": "Drone report in Kharkiv region, Ukraine",
    "place": "Kharkiv region",
@@ -516,7 +909,7 @@
    "countryCode": "UA",
    "scope": "single",
    "review": "auto",
-   "corroboration": "single",
+   "corroboration": "multiple",
    "dateKind": "event",
    "date": "2026-10-13",
    "category": "conflict",
@@ -527,11 +920,11 @@
    "lon": null,
    "locationPrecision": "unknown",
    "checkedAt": null,
-   "autoCheckedAt": "2026-10-13",
-   "updatedAt": "2026-10-13",
-   "summary": "According to a cited source (reported by TV8), drones were reported in Rivne, Ukraine on 13 October 2026.",
-   "impact": "No impact is included in this automatically published dossier; see the cited sources.",
-   "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
+   "autoCheckedAt": "2026-10-14",
+   "updatedAt": "2026-10-14",
+   "summary": "According to unitel.bo, drones were reported in Rivne, Ukraine on 13 October 2026. According to a cited source (reported by TV8), drones were reported in Rivne, Ukraine on 13 October 2026.",
+   "impact": "No eligible attributed impact claim is included; this does not mean no impact occurred.",
+   "evidence": "Automatically compiled and published from 2 articles by different publishers that each report drone presence at this place and date. An automatic check found them to describe the same incident and found claims that appear to come from at least two different sources; that independence has not been established by an editor. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
    "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
    "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
    "windowStart": null,
@@ -540,11 +933,18 @@
    "droneTypes": [],
    "claims": [],
    "droneStatusSources": [
-    0
+    0,
+    1
    ],
    "impactStatusSources": [],
    "attributionSources": [],
    "sources": [
+    {
+     "label": "unitel.bo (2026-10-13)",
+     "url": "https://unitel.bo/noticias/agencias/mas-de-20-heridos-en-ataque-ruso-con-un-dron-que-alcanzo-la-universidad-ucraniana-de-rivne-NH24102528",
+     "published": "2026-10-13",
+     "family": "unitel"
+    },
     {
      "label": "TV8 (2026-10-13)",
      "url": "https://tv8.md/2026/10/13/video-universitate-din-ucraina-lovita-de-o-drona-ruseasca-cel-putin-20-de-persoane-ranite/310724",
@@ -555,8 +955,13 @@
    "timeline": [
     {
      "date": "2026-10-13",
-     "text": "TV8 published a report on this incident.",
+     "text": "unitel.bo published a report on this incident.",
      "source": 0
+    },
+    {
+     "date": "2026-10-13",
+     "text": "TV8 published a report on this incident.",
+     "source": 1
     }
    ],
    "referencePoint": {
@@ -567,6 +972,12 @@
    },
    "impactReports": [],
    "history": [
+    {
+     "revision": 6,
+     "date": "2026-10-14",
+     "at": "2026-10-14T22:24:59.420+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    },
     {
      "revision": 4,
      "date": "2026-10-13",
@@ -600,10 +1011,10 @@
    "lon": null,
    "locationPrecision": "unknown",
    "checkedAt": null,
-   "autoCheckedAt": "2026-10-13",
-   "updatedAt": "2026-10-13",
+   "autoCheckedAt": "2026-10-14",
+   "updatedAt": "2026-10-14",
    "summary": "According to dsnews.ua, drones were reported in Kyiv, Ukraine on 13 October 2026.",
-   "impact": "No impact is included in this automatically published dossier; see the cited sources.",
+   "impact": "No eligible attributed impact claim is included; this does not mean no impact occurred.",
    "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
    "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
    "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
@@ -640,6 +1051,12 @@
    },
    "impactReports": [],
    "history": [
+    {
+     "revision": 10,
+     "date": "2026-10-14",
+     "at": "2026-10-14T12:25:49.266+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    },
     {
      "revision": 8,
      "date": "2026-10-13",
@@ -1212,159 +1629,6 @@
    ]
   },
   {
-   "id": "auto-ru-2026-10-13-310da5da0e",
-   "title": "Drone wave reported in Russia",
-   "place": "Russia",
-   "country": "Russia",
-   "countryCode": "RU",
-   "scope": "wave",
-   "review": "auto",
-   "corroboration": "single",
-   "dateKind": "event",
-   "date": "2026-10-13",
-   "category": "conflict",
-   "droneStatus": "reported",
-   "impactStatus": "unknown",
-   "attributionStatus": "none",
-   "lat": null,
-   "lon": null,
-   "locationPrecision": "country",
-   "checkedAt": null,
-   "autoCheckedAt": "2026-10-14",
-   "updatedAt": "2026-10-14",
-   "summary": "According to Moscow's mayor (reported by UA.News), drones were reported in Russia on 13 October 2026.",
-   "impact": "No eligible attributed impact claim is included; this does not mean no impact occurred.",
-   "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
-   "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
-   "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
-   "windowStart": null,
-   "windowEnd": null,
-   "windowBasis": null,
-   "droneTypes": [],
-   "claims": [],
-   "droneStatusSources": [
-    0
-   ],
-   "impactStatusSources": [],
-   "attributionSources": [],
-   "sources": [
-    {
-     "label": "UA.News (2026-10-12)",
-     "url": "https://ua.news/en/war-vs-rf/masovana-ataka-droniv-porushila-robotu-moskovskikh-aeroportiv-i-zminila-reisi",
-     "published": "2026-10-12",
-     "family": "ua"
-    }
-   ],
-   "timeline": [
-    {
-     "date": "2026-10-12",
-     "text": "UA.News published a report on this incident.",
-     "source": 0
-    }
-   ],
-   "referencePoint": {
-    "lat": 58.25,
-    "lon": 44.69,
-    "level": "country",
-    "name": "Russia"
-   },
-   "impactReports": [],
-   "history": [
-    {
-     "revision": 6,
-     "date": "2026-10-14",
-     "at": "2026-10-14T05:23:28.608+00:00",
-     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
-    },
-    {
-     "revision": 4,
-     "date": "2026-10-13",
-     "at": "2026-10-13T07:55:09.747+00:00",
-     "note": "Place refined from country to city level: the cited reports describe an attack on Moscow itself (falling debris in the city, a refinery hit in Kapotnya), not only drones heading towards it. City level only."
-    },
-    {
-     "revision": 3,
-     "date": "2026-10-13",
-     "at": "2026-10-13T06:30:53.652+00:00",
-     "note": "Removed a drone count: the source gives several running figures from the same speaker (or a partial 'another N'), so a single number would misstate the total."
-    },
-    {
-     "revision": 2,
-     "date": "2026-10-13",
-     "at": "2026-10-13T06:25:09.370+00:00",
-     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
-    }
-   ]
-  },
-  {
-   "id": "auto-in-2026-10-13-fa27618700",
-   "title": "Drone report in Sri Ganganagar, India",
-   "place": "Sri Ganganagar",
-   "country": "India",
-   "countryCode": "IN",
-   "scope": "single",
-   "review": "auto",
-   "corroboration": "single",
-   "dateKind": "event",
-   "date": "2026-10-13",
-   "category": "conflict",
-   "droneStatus": "reported",
-   "impactStatus": "unknown",
-   "attributionStatus": "none",
-   "lat": null,
-   "lon": null,
-   "locationPrecision": "unknown",
-   "checkedAt": null,
-   "autoCheckedAt": "2026-10-13",
-   "updatedAt": "2026-10-13",
-   "summary": "According to whalesbook.com, drones were reported in Sri Ganganagar, India on 13 October 2026.",
-   "impact": "No eligible attributed impact claim is included; this does not mean no impact occurred.",
-   "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
-   "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
-   "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
-   "windowStart": null,
-   "windowEnd": null,
-   "windowBasis": null,
-   "droneTypes": [],
-   "claims": [],
-   "droneStatusSources": [
-    0
-   ],
-   "impactStatusSources": [],
-   "attributionSources": [],
-   "sources": [
-    {
-     "label": "whalesbook.com (2026-10-13)",
-     "url": "https://www.whalesbook.com/news/English/other/Rajasthan-Border-Security-Massive-Drone-Dropped-Arms-Cache-Found/6ace8f9779a16deaeaf054b9",
-     "published": "2026-10-13",
-     "family": "whalesbook",
-     "publishedAt": "2026-10-13T20:07:51.875Z"
-    }
-   ],
-   "timeline": [
-    {
-     "date": "2026-10-13",
-     "text": "whalesbook.com published a report on this incident.",
-     "source": 0
-    }
-   ],
-   "referencePoint": {
-    "lat": 29.92,
-    "lon": 73.87,
-    "level": "city",
-    "name": "Sri Ganganagar"
-   },
-   "impactReports": [],
-   "history": [
-    {
-     "revision": 2,
-     "date": "2026-10-13",
-     "at": "2026-10-13T23:24:11.263+00:00",
-     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
-    }
-   ]
-  },
-  {
    "id": "saudi-airports-weekend-attacks-2026-10-12",
    "title": "Coalition reports incoming drones and cruise missiles over Saudi Arabia after weekend airport strikes",
    "place": "Saudi Arabia (coalition threat report)",
@@ -1848,6 +2112,79 @@
      "revision": 2,
      "date": "2026-10-13",
      "at": "2026-10-13T01:22:12.782+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    }
+   ]
+  },
+  {
+   "id": "auto-ua-2026-10-12-afd4395444",
+   "title": "Drone report in Chernihiv Oblast, Ukraine",
+   "place": "Chernihiv Oblast",
+   "country": "Ukraine",
+   "countryCode": "UA",
+   "scope": "single",
+   "review": "auto",
+   "corroboration": "single",
+   "dateKind": "event",
+   "date": "2026-10-12",
+   "category": "conflict",
+   "droneStatus": "reported",
+   "impactStatus": "unknown",
+   "attributionStatus": "none",
+   "lat": null,
+   "lon": null,
+   "locationPrecision": "unknown",
+   "checkedAt": null,
+   "autoCheckedAt": "2026-10-14",
+   "updatedAt": "2026-10-14",
+   "summary": "According to a cited source (reported by cheline.com.ua), drones were reported in Chernihiv Oblast, Ukraine on 12 October 2026.",
+   "impact": "No eligible attributed impact claim is included; this does not mean no impact occurred.",
+   "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
+   "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
+   "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
+   "windowStart": null,
+   "windowEnd": null,
+   "windowBasis": null,
+   "droneTypes": [],
+   "claims": [],
+   "droneStatusSources": [
+    0
+   ],
+   "impactStatusSources": [],
+   "attributionSources": [],
+   "sources": [
+    {
+     "label": "cheline.com.ua (2026-10-12)",
+     "url": "https://cheline.com.ua/news/vijna/na-chernigivshhini-ulamki-drona-poshkodili-40-vikon-v-11-budinkah-foto-522819",
+     "published": "2026-10-12",
+     "family": "cheline"
+    }
+   ],
+   "timeline": [
+    {
+     "date": "2026-10-12",
+     "text": "cheline.com.ua published a report on this incident.",
+     "source": 0
+    }
+   ],
+   "referencePoint": {
+    "lat": 51.51,
+    "lon": 31.29,
+    "level": "region",
+    "name": "Chernihiv Oblast"
+   },
+   "impactReports": [],
+   "history": [
+    {
+     "revision": 4,
+     "date": "2026-10-14",
+     "at": "2026-10-14T11:01:04.890+00:00",
+     "note": "Place corrected: the source reports this incident in Chernihiv region (drone debris damaged windows in 11 houses on 12 October). It was first published at country level and briefly withdrawn; restored with the correct region."
+    },
+    {
+     "revision": 2,
+     "date": "2026-10-14",
+     "at": "2026-10-14T10:25:51.269+00:00",
      "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
     }
    ]
@@ -2945,76 +3282,9 @@
    ]
   },
   {
-   "id": "auto-ro-2026-10-11-0abbaa60dd",
-   "title": "Drone report in Romania",
-   "place": "Romania",
-   "country": "Romania",
-   "countryCode": "RO",
-   "scope": "single",
-   "review": "auto",
-   "corroboration": "single",
-   "dateKind": "event",
-   "date": "2026-10-11",
-   "category": "conflict",
-   "droneStatus": "reported",
-   "impactStatus": "unknown",
-   "attributionStatus": "none",
-   "lat": null,
-   "lon": null,
-   "locationPrecision": "country",
-   "checkedAt": null,
-   "autoCheckedAt": "2026-10-13",
-   "updatedAt": "2026-10-13",
-   "summary": "According to euronews.ro, drones were reported in Romania on 11 October 2026.",
-   "impact": "No eligible attributed impact claim is included; this does not mean no impact occurred.",
-   "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
-   "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
-   "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
-   "windowStart": null,
-   "windowEnd": null,
-   "windowBasis": null,
-   "droneTypes": [],
-   "claims": [],
-   "droneStatusSources": [
-    0
-   ],
-   "impactStatusSources": [],
-   "attributionSources": [],
-   "sources": [
-    {
-     "label": "euronews.ro (2026-10-11)",
-     "url": "https://www.euronews.ro/articole/bucati-de-drona-descoperite-la-plajele-din-eforie-si-vama-veche-oamenii-legii-au",
-     "published": "2026-10-11",
-     "family": "euronews"
-    }
-   ],
-   "timeline": [
-    {
-     "date": "2026-10-11",
-     "text": "euronews.ro published a report on this incident.",
-     "source": 0
-    }
-   ],
-   "referencePoint": {
-    "lat": 45.73,
-    "lon": 24.97,
-    "level": "country",
-    "name": "Romania"
-   },
-   "impactReports": [],
-   "history": [
-    {
-     "revision": 3,
-     "date": "2026-10-13",
-     "at": "2026-10-13T21:26:42.545+00:00",
-     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
-    }
-   ]
-  },
-  {
    "id": "auto-in-2026-10-11-82c4462bf6",
-   "title": "Drone report in India",
-   "place": "India",
+   "title": "Drone report in Amritsar, India",
+   "place": "Amritsar",
    "country": "India",
    "countryCode": "IN",
    "scope": "single",
@@ -3028,11 +3298,11 @@
    "attributionStatus": "none",
    "lat": null,
    "lon": null,
-   "locationPrecision": "country",
+   "locationPrecision": "unknown",
    "checkedAt": null,
    "autoCheckedAt": "2026-10-12",
-   "updatedAt": "2026-10-12",
-   "summary": "According to newindianexpress.com, drones were reported in India on 11 October 2026. According to a cited source (reported by newindianexpress.com), drones were reported in India on 11 October 2026.",
+   "updatedAt": "2026-10-14",
+   "summary": "According to newindianexpress.com, drones were reported in Amritsar, India on 11 October 2026. According to a cited source (reported by newindianexpress.com), drones were reported in Amritsar, India on 11 October 2026.",
    "impact": "No impact is included in this automatically published dossier; see the cited sources.",
    "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
    "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
@@ -3063,13 +3333,19 @@
     }
    ],
    "referencePoint": {
-    "lat": 22.69,
-    "lon": 79.36,
-    "level": "country",
-    "name": "India"
+    "lat": 31.62,
+    "lon": 74.88,
+    "level": "city",
+    "name": "Amritsar"
    },
    "impactReports": [],
    "history": [
+    {
+     "revision": 4,
+     "date": "2026-10-14",
+     "at": "2026-10-14T11:01:38.857+00:00",
+     "note": "Place corrected: the source reports drone activity near Amritsar airport on 11 October that diverted three flights. It was first published at country level and briefly withdrawn; restored with the correct city."
+    },
     {
      "revision": 2,
      "date": "2026-10-12",
@@ -3142,6 +3418,74 @@
      "revision": 2,
      "date": "2026-10-14",
      "at": "2026-10-14T06:24:18.786+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    }
+   ]
+  },
+  {
+   "id": "auto-ua-2026-10-10-e26936ec70",
+   "title": "Drone report in Ivano-Frankivsk, Ukraine",
+   "place": "Ivano-Frankivsk",
+   "country": "Ukraine",
+   "countryCode": "UA",
+   "scope": "single",
+   "review": "auto",
+   "corroboration": "single",
+   "dateKind": "event",
+   "date": "2026-10-10",
+   "category": "conflict",
+   "droneStatus": "reported",
+   "impactStatus": "unknown",
+   "attributionStatus": "none",
+   "lat": null,
+   "lon": null,
+   "locationPrecision": "unknown",
+   "checkedAt": null,
+   "autoCheckedAt": "2026-10-14",
+   "updatedAt": "2026-10-14",
+   "summary": "According to TSN, drones were reported in Ivano-Frankivsk, Ukraine on 10 October 2026.",
+   "impact": "No eligible attributed impact claim is included; this does not mean no impact occurred.",
+   "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
+   "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
+   "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
+   "windowStart": null,
+   "windowEnd": null,
+   "windowBasis": null,
+   "droneTypes": [],
+   "claims": [],
+   "droneStatusSources": [
+    0
+   ],
+   "impactStatusSources": [],
+   "attributionSources": [],
+   "sources": [
+    {
+     "label": "TSN (2026-10-10)",
+     "url": "https://tsn.ua/ukrayina/zahid-ukrayini-pid-novoyu-zagrozoyu-reaktivni-shahedi-prorvalisya-do-lvova-ta-ivano-frankivska-3186091.html",
+     "published": "2026-10-10",
+     "family": "tsn",
+     "publishedAt": "2026-10-10T10:15:25+03:00"
+    }
+   ],
+   "timeline": [
+    {
+     "date": "2026-10-10",
+     "text": "TSN published a report on this incident.",
+     "source": 0
+    }
+   ],
+   "referencePoint": {
+    "lat": 48.92,
+    "lon": 24.71,
+    "level": "city",
+    "name": "Ivano-Frankivsk"
+   },
+   "impactReports": [],
+   "history": [
+    {
+     "revision": 2,
+     "date": "2026-10-14",
+     "at": "2026-10-14T08:29:57.658+00:00",
      "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
     }
    ]
