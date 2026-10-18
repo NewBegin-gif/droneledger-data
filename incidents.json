@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-17T06:47:02+00:00",
- "release": "20261017T064702363285-b28530",
+ "generated": "2026-10-18T06:47:02+00:00",
+ "release": "20261018T064702661681-a89324",
  "coverage": "Curated archive; not a complete or live record.",
  "license": {
   "name": "CC BY 4.0",
@@ -9,6 +9,178 @@
   "excludes": "Quoted source passages and linked articles remain the copyright of their publishers; they are included as short quotations for verification. Linked media and satellite images remain the rights holders' property; no image or video licence is granted by this dataset. Fonts (SIL OFL) and map data (Natural Earth, public domain) keep their own terms. City and region names in automatically published dossiers are checked against GeoNames (geonames.org, CC BY 4.0). Drone drawings and animations are schematic illustrations of a type, not evidence about any incident."
  },
  "incidents": [
+  {
+   "id": "sulina-two-drones-intercepted-offshore-2026-10-17",
+   "title": "Romania reports two drones intercepted at sea off Sulina",
+   "place": "Black Sea off Sulina (Romanian territorial waters)",
+   "country": "Romania",
+   "countryCode": "RO",
+   "scope": "single",
+   "review": "editor",
+   "corroboration": "curated",
+   "dateKind": "event",
+   "date": "2026-10-17",
+   "category": "conflict",
+   "droneStatus": "reported",
+   "impactStatus": "reported",
+   "attributionStatus": "none",
+   "lat": 45.15,
+   "lon": 29.67,
+   "locationPrecision": "region",
+   "checkedAt": "2026-10-18",
+   "autoCheckedAt": null,
+   "updatedAt": "2026-10-18",
+   "summary": "Romania’s Defence Ministry reports two drones shot down by F-16 aircraft over Romanian territorial waters in the Black Sea off Sulina on 17 October 2026.",
+   "impact": "Two interceptions reported; no ship involvement established.",
+   "evidence": "Ministry reports 336 and 337 share one official origin. Agerpres relays the update. Geran-family jet-powered attack drones are an officially reported identification.",
+   "unknown": "No independent technical confirmation or operator established. The marker references Sulina, not an interception position.",
+   "attribution": "No operator established.",
+   "windowStart": null,
+   "windowEnd": null,
+   "windowBasis": null,
+   "droneTypes": [],
+   "claims": [
+    {
+     "id": "sulina17-geran",
+     "axis": "drone",
+     "statement": "The ministry identifies the downed targets as jet-powered Geran-family attack drones.",
+     "quote": "Țintele neutralizate erau drone de atac din familia Geran, cu propulsie cu reacție.",
+     "claimant": "Romanian Defence Ministry",
+     "originId": "mapn-337-20261017",
+     "relay": "direct",
+     "assessment": "supports",
+     "note": "Official identification; no independent technical confirmation.",
+     "sourceIndex": 0,
+     "quoteCheckedAt": null,
+     "quoteTranslation": {}
+    },
+    {
+     "id": "sulina17-drones-336",
+     "axis": "drone",
+     "statement": "The earlier ministry report says both targets were identified as drones.",
+     "quote": "Ambele ținte aeriene au fost identificate ca fiind drone",
+     "claimant": "Romanian Defence Ministry",
+     "originId": "mapn-336-20261017",
+     "relay": "direct",
+     "assessment": "supports",
+     "note": "Same official source chain as report 337.",
+     "sourceIndex": 1,
+     "quoteCheckedAt": null,
+     "quoteTranslation": {}
+    },
+    {
+     "id": "sulina17-shotdown",
+     "axis": "impact",
+     "statement": "The ministry reports two aerial targets shot down over Romanian territorial waters.",
+     "quote": "au doborât două ținte aeriene deasupra apelor teritoriale ale României",
+     "claimant": "Romanian Defence Ministry",
+     "originId": "mapn-337-20261017",
+     "relay": "direct",
+     "assessment": "supports",
+     "note": "Official account; no damage or casualties reported.",
+     "sourceIndex": 0,
+     "quoteCheckedAt": null,
+     "quoteTranslation": {}
+    }
+   ],
+   "droneStatusSources": [
+    0,
+    1
+   ],
+   "impactStatusSources": [
+    0,
+    1
+   ],
+   "attributionSources": [],
+   "sources": [
+    {
+     "label": "Romanian Defence Ministry: press information 337, update",
+     "url": "https://www.mapn.ro/cpresa/19446_informa%C8%9Bie-de-presa-%E2%80%93-update",
+     "published": "2026-10-17",
+     "family": "romanian-defence-ministry"
+    },
+    {
+     "label": "Romanian Defence Ministry: press information 336",
+     "url": "https://www.mapn.ro/cpresa/19445_informa%C8%9Bie-de-presa",
+     "published": "2026-10-17",
+     "family": "romanian-defence-ministry"
+    },
+    {
+     "label": "Agerpres: relay of the ministry update",
+     "url": "https://agerpres.ro/social/2026/10/17/mapn-tintele-neutralizate-in-spatiul-aerian-national-erau-drone-de-atac-din-familia-geran--1604129",
+     "published": "2026-10-17",
+     "family": "romanian-defence-ministry"
+    }
+   ],
+   "timeline": [
+    {
+     "date": "2026-10-17",
+     "text": "The ministry reports interceptions on 17 October 2026 at 18:01+03:00 and 18:05+03:00 (EEST).",
+     "source": 0
+    }
+   ],
+   "referencePoint": null,
+   "impactReports": [],
+   "series": [],
+   "plainSummary": {
+    "ar": [
+     "تقول وزارة الدفاع الرومانية إن مقاتلات F-16 أسقطت طائرتين مسيّرتين فوق المياه الإقليمية الرومانية في البحر الأسود قبالة سولينا في 17 أكتوبر 2026.",
+     "أُبلغ عن اعتراضين؛ لم تثبت صلة سفن بالحادث.",
+     "لا يوجد تأكيد تقني مستقل، ولم تُحدّد الجهة المشغّلة. تشير علامة الخريطة إلى سولينا وليس إلى موقع اعتراض."
+    ],
+    "en": [
+     "Romania’s Defence Ministry reports two drones shot down by F-16 aircraft over Romanian territorial waters in the Black Sea off Sulina on 17 October 2026.",
+     "Two interceptions reported; no ship involvement established.",
+     "No independent technical confirmation or operator established. The marker references Sulina, not an interception position."
+    ],
+    "fa": [
+     "وزارت دفاع رومانی می‌گوید جنگنده‌های F-16 در 17 اکتبر 2026 دو پهپاد را بر فراز آب‌های سرزمینی رومانی در دریای سیاه در نزدیکی سولینا سرنگون کرده‌اند.",
+     "دو رهگیری گزارش شده است؛ ارتباط کشتی‌ها با این رویداد ثابت نشده است.",
+     "تأیید فنی مستقل وجود ندارد و بهره‌بردار مشخص نشده است. نشانگر نقشه به سولینا اشاره دارد، نه محل رهگیری."
+    ],
+    "ru": [
+     "Министерство обороны Румынии сообщает о сбитии двух дронов самолётами F-16 над румынскими территориальными водами Чёрного моря у Сулины 17 октября 2026 года.",
+     "Сообщается о двух перехватах; участие судов не установлено.",
+     "Независимого технического подтверждения нет; оператор не установлен. Маркер указывает на Сулину, а не на место перехвата."
+    ],
+    "uk": [
+     "Міністерство оборони Румунії повідомляє про збиття двох дронів літаками F-16 над румунськими територіальними водами Чорного моря біля Суліни 17 жовтня 2026 року.",
+     "Повідомлено про два перехоплення; причетність суден не встановлена.",
+     "Незалежного технічного підтвердження немає; оператора не встановлено. Позначка вказує на Суліну, а не на місце перехоплення."
+    ]
+   },
+   "media": [],
+   "operationalEffects": [],
+   "followUp": [],
+   "archiveEntity": null,
+   "namedLocation": null,
+   "publisherMedia": [],
+   "reportTiming": null,
+   "archivePattern": null,
+   "assessment": null,
+   "outcome": [],
+   "assessment_scale_version": null,
+   "assessment_operator_subject": null,
+   "assessment_operator_level": null,
+   "assessment_operator_range_low": null,
+   "assessment_operator_range_high": null,
+   "assessment_target_subject": null,
+   "assessment_target_level": null,
+   "assessment_target_range_low": null,
+   "assessment_target_range_high": null,
+   "assessment_droneType_subject": null,
+   "assessment_droneType_level": null,
+   "assessment_droneType_range_low": null,
+   "assessment_droneType_range_high": null,
+   "history": [
+    {
+     "revision": 1,
+     "date": "2026-10-18",
+     "at": "2026-10-18T01:30:58.903+00:00",
+     "note": "Curated dossier created after checking the cited sources line by line."
+    }
+   ]
+  },
   {
    "id": "auto-ua-2026-10-17-595b0ef7cb",
    "title": "Drone report in Kyiv, Ukraine",
@@ -98,6 +270,326 @@
      "revision": 2,
      "date": "2026-10-17",
      "at": "2026-10-17T02:23:43.564+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    }
+   ]
+  },
+  {
+   "id": "auto-ru-2026-10-17-b14a99476a",
+   "title": "Drone report in St.-Petersburg region, Russia",
+   "place": "St.-Petersburg region",
+   "country": "Russia",
+   "countryCode": "RU",
+   "scope": "single",
+   "review": "auto",
+   "corroboration": "single",
+   "dateKind": "event",
+   "date": "2026-10-17",
+   "category": "conflict",
+   "droneStatus": "reported",
+   "impactStatus": "reported",
+   "attributionStatus": "none",
+   "lat": null,
+   "lon": null,
+   "locationPrecision": "unknown",
+   "checkedAt": null,
+   "autoCheckedAt": "2026-10-17",
+   "updatedAt": "2026-10-17",
+   "summary": "According to Fontanka, drones were reported in St.-Petersburg region, Russia on 17 October 2026.",
+   "impact": "According to the operator of the affected site, via Fontanka, as of 2026-10-17T10:50:00+03:00: flight disruption. According to the operator of the affected site, via Fontanka, as of 2026-10-17T10:50:00+03:00: flight disruption.",
+   "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
+   "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
+   "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
+   "windowStart": null,
+   "windowEnd": null,
+   "windowBasis": null,
+   "droneTypes": [],
+   "claims": [],
+   "droneStatusSources": [
+    0
+   ],
+   "impactStatusSources": [
+    0
+   ],
+   "attributionSources": [],
+   "sources": [
+    {
+     "label": "Fontanka (2026-10-17)",
+     "url": "https://www.fontanka.ru/2026/10/17/76707454/",
+     "published": "2026-10-17",
+     "family": "fontanka",
+     "publishedAt": "2026-10-17T10:50:00+03:00"
+    }
+   ],
+   "timeline": [
+    {
+     "date": "2026-10-17",
+     "text": "Fontanka published a report on this incident.",
+     "source": 0
+    }
+   ],
+   "referencePoint": {
+    "lat": 59.94,
+    "lon": 30.31,
+    "level": "region",
+    "name": "St.-Petersburg region"
+   },
+   "impactReports": [
+    {
+     "asOf": "2026-10-17T10:50:00+03:00",
+     "n": null,
+     "qual": null,
+     "src": 0,
+     "state": "reported",
+     "type": "flight_disruption",
+     "via": "Fontanka",
+     "who": {
+      "kind": "role",
+      "id": "own-facility"
+     }
+    },
+    {
+     "asOf": "2026-10-17T10:50:00+03:00",
+     "n": null,
+     "qual": null,
+     "src": 0,
+     "state": "reported",
+     "type": "flight_disruption",
+     "via": "Fontanka",
+     "who": {
+      "kind": "role",
+      "id": "own-facility"
+     }
+    }
+   ],
+   "series": [],
+   "plainSummary": {},
+   "media": [],
+   "operationalEffects": [],
+   "followUp": [],
+   "archiveEntity": null,
+   "namedLocation": null,
+   "publisherMedia": [],
+   "reportTiming": null,
+   "archivePattern": null,
+   "assessment": null,
+   "outcome": [],
+   "assessment_scale_version": null,
+   "assessment_operator_subject": null,
+   "assessment_operator_level": null,
+   "assessment_operator_range_low": null,
+   "assessment_operator_range_high": null,
+   "assessment_target_subject": null,
+   "assessment_target_level": null,
+   "assessment_target_range_low": null,
+   "assessment_target_range_high": null,
+   "assessment_droneType_subject": null,
+   "assessment_droneType_level": null,
+   "assessment_droneType_range_low": null,
+   "assessment_droneType_range_high": null,
+   "history": [
+    {
+     "revision": 2,
+     "date": "2026-10-17",
+     "at": "2026-10-17T08:26:23.368+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    }
+   ]
+  },
+  {
+   "id": "auto-ru-2026-10-17-ab635e66c5",
+   "title": "Drone report in Moscow, Russia",
+   "place": "Moscow",
+   "country": "Russia",
+   "countryCode": "RU",
+   "scope": "single",
+   "review": "auto",
+   "corroboration": "single",
+   "dateKind": "event",
+   "date": "2026-10-17",
+   "category": "conflict",
+   "droneStatus": "reported",
+   "impactStatus": "unknown",
+   "attributionStatus": "none",
+   "lat": null,
+   "lon": null,
+   "locationPrecision": "unknown",
+   "checkedAt": null,
+   "autoCheckedAt": "2026-10-17",
+   "updatedAt": "2026-10-17",
+   "summary": "According to Moscow's mayor (reported by h.ua), drones were reported in Moscow, Russia on 17 October 2026. According to Russia's Defence Ministry (reported by h.ua), 610 drones were reported intercepted or shot down.",
+   "impact": "No eligible attributed impact claim is included; this does not mean no impact occurred.",
+   "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
+   "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
+   "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
+   "windowStart": null,
+   "windowEnd": null,
+   "windowBasis": null,
+   "droneTypes": [],
+   "claims": [],
+   "droneStatusSources": [
+    0
+   ],
+   "impactStatusSources": [],
+   "attributionSources": [],
+   "sources": [
+    {
+     "label": "h.ua (2026-10-17)",
+     "url": "https://h.ua/2026/10/17/dronova-ataka-na-moskvu-17-zhovtnya",
+     "published": "2026-10-17",
+     "family": "h",
+     "publishedAt": "2026-10-17T08:16:33+00:00"
+    }
+   ],
+   "timeline": [
+    {
+     "date": "2026-10-17",
+     "text": "h.ua published a report on this incident.",
+     "source": 0
+    }
+   ],
+   "referencePoint": {
+    "lat": 55.75,
+    "lon": 37.62,
+    "level": "city",
+    "name": "Moscow"
+   },
+   "impactReports": [],
+   "series": [],
+   "plainSummary": {},
+   "media": [],
+   "operationalEffects": [],
+   "followUp": [],
+   "archiveEntity": null,
+   "namedLocation": null,
+   "publisherMedia": [],
+   "reportTiming": null,
+   "archivePattern": null,
+   "assessment": null,
+   "outcome": [],
+   "assessment_scale_version": null,
+   "assessment_operator_subject": null,
+   "assessment_operator_level": null,
+   "assessment_operator_range_low": null,
+   "assessment_operator_range_high": null,
+   "assessment_target_subject": null,
+   "assessment_target_level": null,
+   "assessment_target_range_low": null,
+   "assessment_target_range_high": null,
+   "assessment_droneType_subject": null,
+   "assessment_droneType_level": null,
+   "assessment_droneType_range_low": null,
+   "assessment_droneType_range_high": null,
+   "history": [
+    {
+     "revision": 8,
+     "date": "2026-10-17",
+     "at": "2026-10-17T20:25:10.458+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    },
+    {
+     "revision": 6,
+     "date": "2026-10-17",
+     "at": "2026-10-17T17:27:24.146+00:00",
+     "note": "The source only says the mayor acknowledged falling debris; no concrete damage is stated. Debris claim removed as damage."
+    },
+    {
+     "revision": 5,
+     "date": "2026-10-17",
+     "at": "2026-10-17T15:24:39.248+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    }
+   ]
+  },
+  {
+   "id": "auto-ru-2026-10-17-7e868201b4",
+   "title": "Drone report in Oryol oblast, Russia",
+   "place": "Oryol oblast",
+   "country": "Russia",
+   "countryCode": "RU",
+   "scope": "single",
+   "review": "auto",
+   "corroboration": "single",
+   "dateKind": "event",
+   "date": "2026-10-17",
+   "category": "conflict",
+   "droneStatus": "reported",
+   "impactStatus": "unknown",
+   "attributionStatus": "none",
+   "lat": null,
+   "lon": null,
+   "locationPrecision": "unknown",
+   "checkedAt": null,
+   "autoCheckedAt": "2026-10-17",
+   "updatedAt": "2026-10-17",
+   "summary": "According to a cited source (reported by Interfax), drones were reported in Oryol oblast, Russia on 17 October 2026.",
+   "impact": "No eligible attributed impact claim is included; this does not mean no impact occurred.",
+   "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
+   "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
+   "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
+   "windowStart": null,
+   "windowEnd": null,
+   "windowBasis": null,
+   "droneTypes": [],
+   "claims": [],
+   "droneStatusSources": [
+    0
+   ],
+   "impactStatusSources": [],
+   "attributionSources": [],
+   "sources": [
+    {
+     "label": "Interfax (2026-10-17)",
+     "url": "https://www.interfax.ru/russia/1123152",
+     "published": "2026-10-17",
+     "family": "interfax",
+     "publishedAt": "2026-10-17T10:14+03:00"
+    }
+   ],
+   "timeline": [
+    {
+     "date": "2026-10-17",
+     "text": "Interfax published a report on this incident.",
+     "source": 0
+    }
+   ],
+   "referencePoint": {
+    "lat": 52.97,
+    "lon": 36.08,
+    "level": "region",
+    "name": "Oryol oblast"
+   },
+   "impactReports": [],
+   "series": [],
+   "plainSummary": {},
+   "media": [],
+   "operationalEffects": [],
+   "followUp": [],
+   "archiveEntity": null,
+   "namedLocation": null,
+   "publisherMedia": [],
+   "reportTiming": null,
+   "archivePattern": null,
+   "assessment": null,
+   "outcome": [],
+   "assessment_scale_version": null,
+   "assessment_operator_subject": null,
+   "assessment_operator_level": null,
+   "assessment_operator_range_low": null,
+   "assessment_operator_range_high": null,
+   "assessment_target_subject": null,
+   "assessment_target_level": null,
+   "assessment_target_range_low": null,
+   "assessment_target_range_high": null,
+   "assessment_droneType_subject": null,
+   "assessment_droneType_level": null,
+   "assessment_droneType_range_low": null,
+   "assessment_droneType_range_high": null,
+   "history": [
+    {
+     "revision": 2,
+     "date": "2026-10-17",
+     "at": "2026-10-17T08:26:18.837+00:00",
      "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
     }
    ]
@@ -1475,8 +1967,8 @@
    "lon": null,
    "locationPrecision": "unknown",
    "checkedAt": null,
-   "autoCheckedAt": "2026-10-16",
-   "updatedAt": "2026-10-16",
+   "autoCheckedAt": "2026-10-17",
+   "updatedAt": "2026-10-17",
    "summary": "According to glavred.info, drones were reported in Surgut, Russia on 16 October 2026.",
    "impact": "According to an official source of an involved party, via glavred.info, as of 2026-10-16T16:56:00+03:00: fire.",
    "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
@@ -1557,6 +2049,12 @@
    "assessment_droneType_range_low": null,
    "assessment_droneType_range_high": null,
    "history": [
+    {
+     "revision": 8,
+     "date": "2026-10-17",
+     "at": "2026-10-17T08:27:18.037+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    },
     {
      "revision": 6,
      "date": "2026-10-16",
@@ -4568,7 +5066,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "nuremberg-airport",
     "windows": [
      {
@@ -9620,7 +10118,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "yandex-kaluga-data-centre",
     "windows": [
      {
@@ -11359,7 +11857,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "taiba-power-distribution-station",
     "windows": [
      {
@@ -11726,7 +12224,7 @@
     ]
    },
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "berlin-brandenburg-airport",
     "windows": [
      {
@@ -11903,7 +12401,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "san-diego-international-airport",
     "windows": [
      {
@@ -12196,7 +12694,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "munich-airport",
     "windows": [
      {
@@ -12384,7 +12882,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "helsinki-airport",
     "windows": [
      {
@@ -12574,7 +13072,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "el-paso-international-airport",
     "windows": [
      {
@@ -12774,7 +13272,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "hannover-airport",
     "windows": [
      {
@@ -12968,7 +13466,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "eindhoven-airport",
     "windows": [
      {
@@ -13124,7 +13622,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "doel-nuclear-power-station",
     "windows": [
      {
@@ -13289,7 +13787,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "liege-airport",
     "windows": [
      {
@@ -13461,7 +13959,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "gothenburg-landvetter-airport",
     "windows": [
      {
@@ -13656,7 +14154,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "hannover-airport",
     "windows": [
      {
@@ -13906,7 +14404,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "brussels-airport",
     "windows": [
      {
@@ -14086,7 +14584,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "bremen-airport",
     "windows": [
      {
@@ -14495,7 +14993,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "berlin-brandenburg-airport",
     "windows": [
      {
@@ -14888,7 +15386,7 @@
    ],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "munich-airport",
     "windows": [
      {
@@ -15083,7 +15581,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "borris-military-camp",
     "windows": [
      {
@@ -15276,7 +15774,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "billund-airport",
     "windows": [
      {
@@ -15494,7 +15992,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "billund-airport",
     "windows": [
      {
@@ -15689,7 +16187,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "aalborg-airport",
     "windows": [
      {
@@ -15869,7 +16367,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "sonderborg-airport",
     "windows": [
      {
@@ -16140,7 +16638,7 @@
    ],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "oslo-gardermoen-airport",
     "windows": [
      {
@@ -16426,7 +16924,7 @@
    ],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "airport-ekch",
     "windows": [
      {
@@ -16924,7 +17422,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "ramon-airport",
     "windows": [
      {
@@ -17386,7 +17884,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "olenya-air-base",
     "windows": [
      {
@@ -17532,7 +18030,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "belaya-air-base",
     "windows": [
      {
@@ -18239,7 +18737,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "chornobyl-nuclear-power-plant",
     "windows": [
      {
@@ -18401,7 +18899,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "mt-bank-stadium",
     "windows": [
      {
@@ -19222,7 +19720,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "boston-logan-airport",
     "windows": [
      {
@@ -19407,7 +19905,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "wright-patterson-air-force-base",
     "windows": [
      {
@@ -19603,7 +20101,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "stewart-international-airport",
     "windows": [
      {
@@ -19905,7 +20403,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "vandenberg-space-force-base",
     "windows": [
      {
@@ -20943,7 +21441,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "stockholm-arlanda-airport",
     "windows": [
      {
@@ -22240,7 +22738,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "auckland-airport",
     "windows": [
      {
@@ -22455,7 +22953,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "tower-22",
     "windows": [
      {
@@ -22612,7 +23110,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "mt-bank-stadium",
     "windows": [
      {
@@ -23328,7 +23826,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "moscow-city-business-district",
     "windows": [
      {
@@ -23490,7 +23988,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "moscow-city-business-district",
     "windows": [
      {
@@ -23664,7 +24162,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "crimean-bridge",
     "windows": [
      {
@@ -23967,7 +24465,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "pittsburgh-international-airport",
     "windows": [
      {
@@ -24128,7 +24626,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "moscow-kremlin",
     "windows": [
      {
@@ -24314,7 +24812,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "dublin-airport",
     "windows": [
      {
@@ -24498,7 +24996,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "dublin-airport",
     "windows": [
      {
@@ -24813,7 +25311,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "engels-air-base",
     "windows": [
      {
@@ -24975,7 +25473,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "engels-air-base",
     "windows": [
      {
@@ -25130,7 +25628,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "sevastopol-naval-base",
     "windows": [
      {
@@ -25289,7 +25787,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "bergen-airport-flesland",
     "windows": [
      {
@@ -25450,7 +25948,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "stavanger-airport",
     "windows": [
      {
@@ -25750,7 +26248,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "ronald-reagan-washington-national-airport",
     "windows": [
      {
@@ -26388,7 +26886,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "jammu-air-force-station",
     "windows": [
      {
@@ -26570,7 +27068,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "riga-airport",
     "windows": [
      {
@@ -26772,7 +27270,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "frankfurt-airport",
     "windows": [
      {
@@ -27102,7 +27600,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "dubai-international-airport",
     "windows": [
      {
@@ -27450,7 +27948,7 @@
    ],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "abqaiq-processing-facility",
     "windows": [
      {
@@ -27678,7 +28176,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "changi-airport",
     "windows": [
      {
@@ -27837,7 +28335,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "changi-airport",
     "windows": [
      {
@@ -28017,7 +28515,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "dubai-international-airport",
     "windows": [
      {
@@ -28203,7 +28701,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "newark-liberty-airport",
     "windows": [
      {
@@ -28354,7 +28852,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "heathrow-airport",
     "windows": [
      {
@@ -28656,7 +29154,7 @@
    ],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "airport-egkk",
     "windows": [
      {
@@ -28851,7 +29349,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "auckland-airport",
     "windows": [
      {
@@ -29028,7 +29526,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "quebec-jean-lesage-airport",
     "windows": [
      {
@@ -29378,7 +29876,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "indira-gandhi-international-airport",
     "windows": [
      {
@@ -29529,7 +30027,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "cork-airport",
     "windows": [
      {
@@ -29688,7 +30186,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "louis-armstrong-stadium",
     "windows": [
      {
@@ -29830,7 +30328,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-17T06:47:02+00:00",
+    "asOf": "2026-10-18T06:47:02+00:00",
     "entityKey": "jfk-airport",
     "windows": [
      {
