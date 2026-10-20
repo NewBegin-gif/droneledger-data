@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-19T06:47:01+00:00",
- "release": "20261019T064701814787-9ab45a",
+ "generated": "2026-10-20T06:47:01+00:00",
+ "release": "20261020T064702281176-142bb8",
  "coverage": "Curated archive; not a complete or live record.",
  "license": {
   "name": "CC BY 4.0",
@@ -98,6 +98,121 @@
      "revision": 2,
      "date": "2026-10-19",
      "at": "2026-10-19T06:26:11.230+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    }
+   ]
+  },
+  {
+   "id": "auto-ua-2026-10-19-11c77116ba",
+   "title": "Drone report in Mykolaiv region, Ukraine",
+   "place": "Mykolaiv region",
+   "country": "Ukraine",
+   "countryCode": "UA",
+   "scope": "single",
+   "review": "auto",
+   "corroboration": "single",
+   "dateKind": "event",
+   "date": "2026-10-19",
+   "category": "conflict",
+   "droneStatus": "reported",
+   "impactStatus": "reported",
+   "attributionStatus": "none",
+   "lat": null,
+   "lon": null,
+   "locationPrecision": "unknown",
+   "checkedAt": null,
+   "autoCheckedAt": "2026-10-19",
+   "updatedAt": "2026-10-19",
+   "summary": "According to a cited source (reported by Ukrinform), drones were reported in Mykolaiv region, Ukraine on 19 October 2026.",
+   "impact": "According to an official source of an involved party, via Ukrinform, as of 2026-10-19T14:51:00+03:00: residential damage.",
+   "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
+   "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
+   "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
+   "windowStart": null,
+   "windowEnd": null,
+   "windowBasis": null,
+   "droneTypes": [],
+   "claims": [],
+   "droneStatusSources": [
+    0
+   ],
+   "impactStatusSources": [
+    0
+   ],
+   "attributionSources": [],
+   "sources": [
+    {
+     "label": "Ukrinform (2026-10-19)",
+     "url": "https://www.ukrinform.ua/rubric-regions/4175928-zagarbniki-vdarili-dronom-po-mikolaevu-poskodzeni-cotiri-privatni-budinki.html",
+     "published": "2026-10-19",
+     "family": "ukrinform",
+     "publishedAt": "2026-10-19T14:51:00+03:00"
+    }
+   ],
+   "timeline": [
+    {
+     "date": "2026-10-19",
+     "text": "Ukrinform published a report on this incident.",
+     "source": 0
+    }
+   ],
+   "referencePoint": {
+    "lat": 46.98,
+    "lon": 31.99,
+    "level": "region",
+    "name": "Mykolaiv region"
+   },
+   "impactReports": [
+    {
+     "asOf": "2026-10-19T14:51:00+03:00",
+     "n": null,
+     "qual": null,
+     "src": 0,
+     "state": "reported",
+     "type": "damage_residential",
+     "via": "Ukrinform",
+     "who": {
+      "kind": "role",
+      "id": "party"
+     }
+    }
+   ],
+   "series": [],
+   "plainSummary": {},
+   "media": [],
+   "operationalEffects": [],
+   "followUp": [],
+   "archiveEntity": null,
+   "namedLocation": null,
+   "publisherMedia": [],
+   "reportTiming": null,
+   "archivePattern": null,
+   "assessment": null,
+   "outcome": [],
+   "assessment_scale_version": null,
+   "assessment_operator_subject": null,
+   "assessment_operator_level": null,
+   "assessment_operator_range_low": null,
+   "assessment_operator_range_high": null,
+   "assessment_target_subject": null,
+   "assessment_target_level": null,
+   "assessment_target_range_low": null,
+   "assessment_target_range_high": null,
+   "assessment_droneType_subject": null,
+   "assessment_droneType_level": null,
+   "assessment_droneType_range_low": null,
+   "assessment_droneType_range_high": null,
+   "history": [
+    {
+     "revision": 3,
+     "date": "2026-10-19",
+     "at": "2026-10-19T19:58:22.128+00:00",
+     "note": "Removed a duplicated impact line; no change to the reported facts."
+    },
+    {
+     "revision": 2,
+     "date": "2026-10-19",
+     "at": "2026-10-19T12:27:02.131+00:00",
      "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
     }
    ]
@@ -1691,9 +1806,9 @@
    "locationPrecision": "unknown",
    "checkedAt": null,
    "autoCheckedAt": "2026-10-17",
-   "updatedAt": "2026-10-17",
+   "updatedAt": "2026-10-19",
    "summary": "According to Fontanka, drones were reported in St.-Petersburg region, Russia on 17 October 2026.",
-   "impact": "According to the operator of the affected site, via Fontanka, as of 2026-10-17T10:50:00+03:00: flight disruption. According to the operator of the affected site, via Fontanka, as of 2026-10-17T10:50:00+03:00: flight disruption.",
+   "impact": "According to the operator of the affected site, via Fontanka, as of 2026-10-17T10:50:00+03:00: flight disruption.",
    "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
    "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
    "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
@@ -1744,19 +1859,6 @@
       "kind": "role",
       "id": "own-facility"
      }
-    },
-    {
-     "asOf": "2026-10-17T10:50:00+03:00",
-     "n": null,
-     "qual": null,
-     "src": 0,
-     "state": "reported",
-     "type": "flight_disruption",
-     "via": "Fontanka",
-     "who": {
-      "kind": "role",
-      "id": "own-facility"
-     }
     }
    ],
    "series": [],
@@ -1785,6 +1887,12 @@
    "assessment_droneType_range_low": null,
    "assessment_droneType_range_high": null,
    "history": [
+    {
+     "revision": 3,
+     "date": "2026-10-19",
+     "at": "2026-10-19T19:58:22.143+00:00",
+     "note": "Removed a duplicated impact line; no change to the reported facts."
+    },
     {
      "revision": 2,
      "date": "2026-10-17",
@@ -2638,9 +2746,9 @@
    "locationPrecision": "unknown",
    "checkedAt": null,
    "autoCheckedAt": "2026-10-16",
-   "updatedAt": "2026-10-16",
+   "updatedAt": "2026-10-19",
    "summary": "According to Radio Dabanga, drones were reported in Nyala, Sudan on 16 October 2026.",
-   "impact": "According to an official source of an involved party, via Radio Dabanga, as of 2026-10-16T21:04:32+00:00: other damage. According to an official source of an involved party, via Radio Dabanga, as of 2026-10-16T21:04:32+00:00: other damage. According to an official source of an involved party, via Radio Dabanga, as of 2026-10-16T21:04:32+00:00: 43 people injured. According to an official source of an involved party, via Radio Dabanga, as of 2026-10-16T21:04:32+00:00: 30 people killed.",
+   "impact": "According to an official source of an involved party, via Radio Dabanga, as of 2026-10-16T21:04:32+00:00: other damage. According to an official source of an involved party, via Radio Dabanga, as of 2026-10-16T21:04:32+00:00: 43 people injured. According to an official source of an involved party, via Radio Dabanga, as of 2026-10-16T21:04:32+00:00: 30 people killed.",
    "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
    "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
    "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
@@ -2679,19 +2787,6 @@
     "name": "Nyala"
    },
    "impactReports": [
-    {
-     "asOf": "2026-10-16T21:04:32+00:00",
-     "n": null,
-     "qual": null,
-     "src": 0,
-     "state": "reported",
-     "type": "damage_other",
-     "via": "Radio Dabanga",
-     "who": {
-      "kind": "role",
-      "id": "party"
-     }
-    },
     {
      "asOf": "2026-10-16T21:04:32+00:00",
      "n": null,
@@ -2758,6 +2853,12 @@
    "assessment_droneType_range_low": null,
    "assessment_droneType_range_high": null,
    "history": [
+    {
+     "revision": 4,
+     "date": "2026-10-19",
+     "at": "2026-10-19T19:58:22.145+00:00",
+     "note": "Removed a duplicated impact line; no change to the reported facts."
+    },
     {
      "revision": 3,
      "date": "2026-10-16",
@@ -6562,7 +6663,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "nuremberg-airport",
     "windows": [
      {
@@ -11614,7 +11715,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "yandex-kaluga-data-centre",
     "windows": [
      {
@@ -13353,7 +13454,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "taiba-power-distribution-station",
     "windows": [
      {
@@ -13720,7 +13821,7 @@
     ]
    },
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "berlin-brandenburg-airport",
     "windows": [
      {
@@ -13897,7 +13998,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "san-diego-international-airport",
     "windows": [
      {
@@ -14190,7 +14291,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "munich-airport",
     "windows": [
      {
@@ -14378,7 +14479,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "helsinki-airport",
     "windows": [
      {
@@ -14568,7 +14669,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "el-paso-international-airport",
     "windows": [
      {
@@ -14768,7 +14869,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "hannover-airport",
     "windows": [
      {
@@ -14962,7 +15063,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "eindhoven-airport",
     "windows": [
      {
@@ -15118,7 +15219,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "doel-nuclear-power-station",
     "windows": [
      {
@@ -15283,7 +15384,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "liege-airport",
     "windows": [
      {
@@ -15455,7 +15556,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "gothenburg-landvetter-airport",
     "windows": [
      {
@@ -15650,7 +15751,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "hannover-airport",
     "windows": [
      {
@@ -15900,7 +16001,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "brussels-airport",
     "windows": [
      {
@@ -16080,7 +16181,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "bremen-airport",
     "windows": [
      {
@@ -16489,7 +16590,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "berlin-brandenburg-airport",
     "windows": [
      {
@@ -16882,7 +16983,7 @@
    ],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "munich-airport",
     "windows": [
      {
@@ -17077,7 +17178,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "borris-military-camp",
     "windows": [
      {
@@ -17270,7 +17371,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "billund-airport",
     "windows": [
      {
@@ -17488,7 +17589,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "billund-airport",
     "windows": [
      {
@@ -17683,7 +17784,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "aalborg-airport",
     "windows": [
      {
@@ -17863,7 +17964,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "sonderborg-airport",
     "windows": [
      {
@@ -18134,7 +18235,7 @@
    ],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "oslo-gardermoen-airport",
     "windows": [
      {
@@ -18420,7 +18521,7 @@
    ],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "airport-ekch",
     "windows": [
      {
@@ -18918,7 +19019,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "ramon-airport",
     "windows": [
      {
@@ -19380,7 +19481,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "olenya-air-base",
     "windows": [
      {
@@ -19526,7 +19627,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "belaya-air-base",
     "windows": [
      {
@@ -20233,7 +20334,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "chornobyl-nuclear-power-plant",
     "windows": [
      {
@@ -20395,7 +20496,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "mt-bank-stadium",
     "windows": [
      {
@@ -21216,7 +21317,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "boston-logan-airport",
     "windows": [
      {
@@ -21401,7 +21502,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "wright-patterson-air-force-base",
     "windows": [
      {
@@ -21597,7 +21698,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "stewart-international-airport",
     "windows": [
      {
@@ -21899,7 +22000,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "vandenberg-space-force-base",
     "windows": [
      {
@@ -22937,7 +23038,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "stockholm-arlanda-airport",
     "windows": [
      {
@@ -24234,7 +24335,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "auckland-airport",
     "windows": [
      {
@@ -24449,7 +24550,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "tower-22",
     "windows": [
      {
@@ -24606,7 +24707,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "mt-bank-stadium",
     "windows": [
      {
@@ -25322,7 +25423,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "moscow-city-business-district",
     "windows": [
      {
@@ -25484,7 +25585,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "moscow-city-business-district",
     "windows": [
      {
@@ -25658,7 +25759,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "crimean-bridge",
     "windows": [
      {
@@ -25961,7 +26062,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "pittsburgh-international-airport",
     "windows": [
      {
@@ -26122,7 +26223,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "moscow-kremlin",
     "windows": [
      {
@@ -26308,7 +26409,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "dublin-airport",
     "windows": [
      {
@@ -26492,7 +26593,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "dublin-airport",
     "windows": [
      {
@@ -26807,7 +26908,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "engels-air-base",
     "windows": [
      {
@@ -26969,7 +27070,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "engels-air-base",
     "windows": [
      {
@@ -27124,7 +27225,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "sevastopol-naval-base",
     "windows": [
      {
@@ -27283,7 +27384,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "bergen-airport-flesland",
     "windows": [
      {
@@ -27444,7 +27545,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "stavanger-airport",
     "windows": [
      {
@@ -27744,7 +27845,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "ronald-reagan-washington-national-airport",
     "windows": [
      {
@@ -28382,7 +28483,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "jammu-air-force-station",
     "windows": [
      {
@@ -28564,7 +28665,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "riga-airport",
     "windows": [
      {
@@ -28766,7 +28867,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "frankfurt-airport",
     "windows": [
      {
@@ -29096,7 +29197,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "dubai-international-airport",
     "windows": [
      {
@@ -29444,7 +29545,7 @@
    ],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "abqaiq-processing-facility",
     "windows": [
      {
@@ -29672,7 +29773,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "changi-airport",
     "windows": [
      {
@@ -29831,7 +29932,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "changi-airport",
     "windows": [
      {
@@ -30011,7 +30112,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "dubai-international-airport",
     "windows": [
      {
@@ -30197,7 +30298,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "newark-liberty-airport",
     "windows": [
      {
@@ -30348,7 +30449,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "heathrow-airport",
     "windows": [
      {
@@ -30650,7 +30751,7 @@
    ],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "airport-egkk",
     "windows": [
      {
@@ -30845,7 +30946,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "auckland-airport",
     "windows": [
      {
@@ -31022,7 +31123,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "quebec-jean-lesage-airport",
     "windows": [
      {
@@ -31372,7 +31473,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "indira-gandhi-international-airport",
     "windows": [
      {
@@ -31523,7 +31624,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "cork-airport",
     "windows": [
      {
@@ -31682,7 +31783,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "louis-armstrong-stadium",
     "windows": [
      {
@@ -31824,7 +31925,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-19T06:47:01+00:00",
+    "asOf": "2026-10-20T06:47:01+00:00",
     "entityKey": "jfk-airport",
     "windows": [
      {
