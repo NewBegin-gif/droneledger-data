@@ -63,7 +63,9 @@ encounter order joined by ` | `; sources_json: JSON-encoded sources array (use t
 splitting URLs). ref_lat/ref_lon/ref_level: flattened referencePoint coordinates/level or empty.
 impact_reports_json is the same closed impactReports array serialized as JSON in one quoted CSV
 cell (empty array for legacy/absent). No casualty scalar or aggregate columns. Parse JSON, do not
-sum. Other nested claims, timeline and history remain JSON-only.
+sum. revision: the published dossier revision (cite it with the dossier id). droneStatusSources_json,
+impactStatusSources_json, attributionSources_json, claims_json and timeline_json carry the same arrays
+as the JSON fields below, serialized as JSON in one quoted cell. History remains JSON-only.
 
 ## JSON-only nested dossier fields
 - sources[]: label (publisher/document label), url (HTTPS original), published (source publication
