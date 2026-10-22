@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-21T06:47:01+00:00",
- "release": "20261021T064702667922-186570",
+ "generated": "2026-10-22T06:47:01+00:00",
+ "release": "20261022T064702590735-ec7a2c",
  "coverage": "Curated archive; not a complete or live record.",
  "license": {
   "name": "CC BY 4.0",
@@ -9,6 +9,769 @@
   "excludes": "Quoted source passages and linked articles remain the copyright of their publishers; they are included as short quotations for verification. Linked media and satellite images remain the rights holders' property; no image or video licence is granted by this dataset. Fonts (SIL OFL) and map data (Natural Earth, public domain) keep their own terms. City and region names in automatically published dossiers are checked against GeoNames (geonames.org, CC BY 4.0). Drone drawings and animations are schematic illustrations of a type, not evidence about any incident."
  },
  "incidents": [
+  {
+   "id": "auto-ru-2026-10-22-5fd6d7e3b4",
+   "title": "Drone report in Lipetsk, Russia",
+   "place": "Lipetsk",
+   "country": "Russia",
+   "countryCode": "RU",
+   "scope": "single",
+   "review": "auto",
+   "corroboration": "single",
+   "dateKind": "event",
+   "date": "2026-10-22",
+   "category": "conflict",
+   "droneStatus": "reported",
+   "impactStatus": "reported",
+   "attributionStatus": "none",
+   "lat": null,
+   "lon": null,
+   "locationPrecision": "unknown",
+   "checkedAt": null,
+   "autoCheckedAt": "2026-10-22",
+   "updatedAt": "2026-10-22",
+   "summary": "According to uazmi.com, drones were reported in Lipetsk, Russia on 22 October 2026.",
+   "impact": "According to an official source of an involved party, via uazmi.com, as of 2026-10-22T02:46:05+03:00: civilian infrastructure damage. According to an official source of an involved party, via uazmi.com, as of 2026-10-22T02:46:05+03:00: residential damage.",
+   "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
+   "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
+   "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
+   "windowStart": null,
+   "windowEnd": null,
+   "windowBasis": null,
+   "droneTypes": [],
+   "claims": [],
+   "droneStatusSources": [
+    0
+   ],
+   "impactStatusSources": [
+    0
+   ],
+   "attributionSources": [],
+   "sources": [
+    {
+     "label": "uazmi.com (2026-10-22)",
+     "url": "https://uazmi.com/news/post/959ec4b0ce5c528c75eb2814b602beff",
+     "published": "2026-10-22",
+     "family": "uazmi",
+     "publishedAt": "2026-10-22T02:46:05+03:00"
+    }
+   ],
+   "timeline": [
+    {
+     "date": "2026-10-22",
+     "text": "uazmi.com published a report on this incident.",
+     "source": 0
+    }
+   ],
+   "referencePoint": {
+    "lat": 52.59,
+    "lon": 39.55,
+    "level": "city",
+    "name": "Lipetsk"
+   },
+   "impactReports": [
+    {
+     "asOf": "2026-10-22T02:46:05+03:00",
+     "n": null,
+     "qual": null,
+     "src": 0,
+     "state": "reported",
+     "type": "damage_civilian_infrastructure",
+     "via": "uazmi.com",
+     "who": {
+      "kind": "role",
+      "id": "party"
+     }
+    },
+    {
+     "asOf": "2026-10-22T02:46:05+03:00",
+     "n": null,
+     "qual": null,
+     "src": 0,
+     "state": "reported",
+     "type": "damage_residential",
+     "via": "uazmi.com",
+     "who": {
+      "kind": "role",
+      "id": "party"
+     }
+    }
+   ],
+   "series": [],
+   "plainSummary": {},
+   "revision": 4,
+   "media": [],
+   "operationalEffects": [],
+   "followUp": [],
+   "archiveEntity": null,
+   "namedLocation": null,
+   "publisherMedia": [],
+   "reportTiming": null,
+   "archivePattern": null,
+   "assessment": null,
+   "outcome": [],
+   "assessment_scale_version": null,
+   "assessment_operator_subject": null,
+   "assessment_operator_level": null,
+   "assessment_operator_range_low": null,
+   "assessment_operator_range_high": null,
+   "assessment_target_subject": null,
+   "assessment_target_level": null,
+   "assessment_target_range_low": null,
+   "assessment_target_range_high": null,
+   "assessment_droneType_subject": null,
+   "assessment_droneType_level": null,
+   "assessment_droneType_range_low": null,
+   "assessment_droneType_range_high": null,
+   "history": [
+    {
+     "revision": 4,
+     "date": "2026-10-22",
+     "at": "2026-10-22T01:26:08.456+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    }
+   ]
+  },
+  {
+   "id": "auto-ru-2026-10-22-5bf87853bb",
+   "title": "Drone report in Saint Petersburg, Russia",
+   "place": "Saint Petersburg",
+   "country": "Russia",
+   "countryCode": "RU",
+   "scope": "single",
+   "review": "auto",
+   "corroboration": "single",
+   "dateKind": "event",
+   "date": "2026-10-22",
+   "category": "conflict",
+   "droneStatus": "reported",
+   "impactStatus": "unknown",
+   "attributionStatus": "none",
+   "lat": null,
+   "lon": null,
+   "locationPrecision": "unknown",
+   "checkedAt": null,
+   "autoCheckedAt": "2026-10-22",
+   "updatedAt": "2026-10-22",
+   "summary": "According to a cited source (reported by Interfax), drones were reported in Saint Petersburg, Russia on 22 October 2026.",
+   "impact": "No eligible attributed impact claim is included; this does not mean no impact occurred.",
+   "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
+   "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
+   "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
+   "windowStart": null,
+   "windowEnd": null,
+   "windowBasis": null,
+   "droneTypes": [],
+   "claims": [],
+   "droneStatusSources": [
+    0
+   ],
+   "impactStatusSources": [],
+   "attributionSources": [],
+   "sources": [
+    {
+     "label": "Interfax (2026-10-22)",
+     "url": "https://www.interfax.ru/russia/1124131",
+     "published": "2026-10-22",
+     "family": "interfax",
+     "publishedAt": "2026-10-22T04:09+03:00"
+    }
+   ],
+   "timeline": [
+    {
+     "date": "2026-10-22",
+     "text": "Interfax published a report on this incident.",
+     "source": 0
+    }
+   ],
+   "referencePoint": {
+    "lat": 59.94,
+    "lon": 30.31,
+    "level": "city",
+    "name": "Saint Petersburg"
+   },
+   "impactReports": [],
+   "series": [],
+   "plainSummary": {},
+   "revision": 2,
+   "media": [],
+   "operationalEffects": [],
+   "followUp": [],
+   "archiveEntity": null,
+   "namedLocation": null,
+   "publisherMedia": [],
+   "reportTiming": null,
+   "archivePattern": null,
+   "assessment": null,
+   "outcome": [],
+   "assessment_scale_version": null,
+   "assessment_operator_subject": null,
+   "assessment_operator_level": null,
+   "assessment_operator_range_low": null,
+   "assessment_operator_range_high": null,
+   "assessment_target_subject": null,
+   "assessment_target_level": null,
+   "assessment_target_range_low": null,
+   "assessment_target_range_high": null,
+   "assessment_droneType_subject": null,
+   "assessment_droneType_level": null,
+   "assessment_droneType_range_low": null,
+   "assessment_droneType_range_high": null,
+   "history": [
+    {
+     "revision": 2,
+     "date": "2026-10-22",
+     "at": "2026-10-22T01:26:01.759+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    }
+   ]
+  },
+  {
+   "id": "auto-ru-2026-10-22-4ba7c26d88",
+   "title": "Drone report in Moscow, Russia",
+   "place": "Moscow",
+   "country": "Russia",
+   "countryCode": "RU",
+   "scope": "single",
+   "review": "auto",
+   "corroboration": "single",
+   "dateKind": "event",
+   "date": "2026-10-22",
+   "category": "conflict",
+   "droneStatus": "reported",
+   "impactStatus": "unknown",
+   "attributionStatus": "none",
+   "lat": null,
+   "lon": null,
+   "locationPrecision": "unknown",
+   "checkedAt": null,
+   "autoCheckedAt": "2026-10-22",
+   "updatedAt": "2026-10-22",
+   "summary": "According to Moscow's mayor (reported by Interfax), drones were reported in Moscow, Russia on 22 October 2026.",
+   "impact": "No eligible attributed impact claim is included; this does not mean no impact occurred.",
+   "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
+   "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
+   "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
+   "windowStart": null,
+   "windowEnd": null,
+   "windowBasis": null,
+   "droneTypes": [],
+   "claims": [],
+   "droneStatusSources": [
+    0
+   ],
+   "impactStatusSources": [],
+   "attributionSources": [],
+   "sources": [
+    {
+     "label": "Interfax (2026-10-22)",
+     "url": "https://www.interfax.ru/moscow/1124122",
+     "published": "2026-10-22",
+     "family": "interfax",
+     "publishedAt": "2026-10-22T02:53+03:00"
+    }
+   ],
+   "timeline": [
+    {
+     "date": "2026-10-22",
+     "text": "Interfax published a report on this incident.",
+     "source": 0
+    }
+   ],
+   "referencePoint": {
+    "lat": 55.75,
+    "lon": 37.62,
+    "level": "city",
+    "name": "Moscow"
+   },
+   "impactReports": [],
+   "series": [],
+   "plainSummary": {},
+   "revision": 6,
+   "media": [],
+   "operationalEffects": [],
+   "followUp": [],
+   "archiveEntity": null,
+   "namedLocation": null,
+   "publisherMedia": [],
+   "reportTiming": null,
+   "archivePattern": null,
+   "assessment": null,
+   "outcome": [],
+   "assessment_scale_version": null,
+   "assessment_operator_subject": null,
+   "assessment_operator_level": null,
+   "assessment_operator_range_low": null,
+   "assessment_operator_range_high": null,
+   "assessment_target_subject": null,
+   "assessment_target_level": null,
+   "assessment_target_range_low": null,
+   "assessment_target_range_high": null,
+   "assessment_droneType_subject": null,
+   "assessment_droneType_level": null,
+   "assessment_droneType_range_low": null,
+   "assessment_droneType_range_high": null,
+   "history": [
+    {
+     "revision": 6,
+     "date": "2026-10-22",
+     "at": "2026-10-22T02:25:46.081+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    },
+    {
+     "revision": 4,
+     "date": "2026-10-22",
+     "at": "2026-10-22T01:26:43.426+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    },
+    {
+     "revision": 2,
+     "date": "2026-10-22",
+     "at": "2026-10-22T00:27:32.374+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    }
+   ]
+  },
+  {
+   "id": "auto-ua-2026-10-21-cb4afaedab",
+   "title": "Drone report in Mykolaiv region, Ukraine",
+   "place": "Mykolaiv region",
+   "country": "Ukraine",
+   "countryCode": "UA",
+   "scope": "single",
+   "review": "auto",
+   "corroboration": "single",
+   "dateKind": "event",
+   "date": "2026-10-21",
+   "category": "conflict",
+   "droneStatus": "reported",
+   "impactStatus": "unknown",
+   "attributionStatus": "none",
+   "lat": null,
+   "lon": null,
+   "locationPrecision": "unknown",
+   "checkedAt": null,
+   "autoCheckedAt": "2026-10-22",
+   "updatedAt": "2026-10-22",
+   "summary": "According to Obozrevatel, drones were reported in Mykolaiv region, Ukraine on 21 October 2026.",
+   "impact": "No eligible attributed impact claim is included; this does not mean no impact occurred.",
+   "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
+   "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
+   "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
+   "windowStart": null,
+   "windowEnd": null,
+   "windowBasis": null,
+   "droneTypes": [],
+   "claims": [],
+   "droneStatusSources": [
+    0
+   ],
+   "impactStatusSources": [],
+   "attributionSources": [],
+   "sources": [
+    {
+     "label": "Obozrevatel (2026-10-22)",
+     "url": "https://war.obozrevatel.com/ukr/section-war/news-na-mykolayivshchyni-vorozhyy-dron-atakuvav-zhinku-yaka-yikhala-velosypedom-u-yakomu-vona-stani-22-10-2026.html",
+     "published": "2026-10-22",
+     "family": "obozrevatel",
+     "publishedAt": "2026-10-22T00:51:00+03:00"
+    }
+   ],
+   "timeline": [
+    {
+     "date": "2026-10-22",
+     "text": "Obozrevatel published a report on this incident.",
+     "source": 0
+    }
+   ],
+   "referencePoint": {
+    "lat": 46.98,
+    "lon": 31.99,
+    "level": "region",
+    "name": "Mykolaiv region"
+   },
+   "impactReports": [],
+   "series": [],
+   "plainSummary": {},
+   "revision": 2,
+   "media": [],
+   "operationalEffects": [],
+   "followUp": [],
+   "archiveEntity": null,
+   "namedLocation": null,
+   "publisherMedia": [],
+   "reportTiming": null,
+   "archivePattern": null,
+   "assessment": null,
+   "outcome": [],
+   "assessment_scale_version": null,
+   "assessment_operator_subject": null,
+   "assessment_operator_level": null,
+   "assessment_operator_range_low": null,
+   "assessment_operator_range_high": null,
+   "assessment_target_subject": null,
+   "assessment_target_level": null,
+   "assessment_target_range_low": null,
+   "assessment_target_range_high": null,
+   "assessment_droneType_subject": null,
+   "assessment_droneType_level": null,
+   "assessment_droneType_range_low": null,
+   "assessment_droneType_range_high": null,
+   "history": [
+    {
+     "revision": 2,
+     "date": "2026-10-22",
+     "at": "2026-10-22T01:25:41.078+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    }
+   ]
+  },
+  {
+   "id": "auto-ua-2026-10-21-55b6dd30d4",
+   "title": "Drone report in Luhansk, Ukraine",
+   "place": "Luhansk",
+   "country": "Ukraine",
+   "countryCode": "UA",
+   "scope": "single",
+   "review": "auto",
+   "corroboration": "single",
+   "dateKind": "event",
+   "date": "2026-10-21",
+   "category": "conflict",
+   "droneStatus": "reported",
+   "impactStatus": "unknown",
+   "attributionStatus": "none",
+   "lat": null,
+   "lon": null,
+   "locationPrecision": "unknown",
+   "checkedAt": null,
+   "autoCheckedAt": "2026-10-21",
+   "updatedAt": "2026-10-21",
+   "summary": "According to United24 Media, drones were reported in Luhansk, Ukraine on 21 October 2026.",
+   "impact": "No eligible attributed impact claim is included; this does not mean no impact occurred.",
+   "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
+   "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
+   "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
+   "windowStart": null,
+   "windowEnd": null,
+   "windowBasis": null,
+   "droneTypes": [],
+   "claims": [],
+   "droneStatusSources": [
+    0
+   ],
+   "impactStatusSources": [],
+   "attributionSources": [],
+   "sources": [
+    {
+     "label": "United24 Media (2026-10-21)",
+     "url": "https://united24media.com/war-in-ukraine/ukrainian-drones-hit-donetsk-data-center-and-luhansk-telecom-hub-in-back-to-back-strikes-23679",
+     "published": "2026-10-21",
+     "family": "united24media",
+     "publishedAt": "2026-10-21T14:09:19+03:00"
+    }
+   ],
+   "timeline": [
+    {
+     "date": "2026-10-21",
+     "text": "United24 Media published a report on this incident.",
+     "source": 0
+    }
+   ],
+   "referencePoint": {
+    "lat": 48.57,
+    "lon": 39.31,
+    "level": "city",
+    "name": "Luhansk"
+   },
+   "impactReports": [],
+   "series": [],
+   "plainSummary": {},
+   "revision": 2,
+   "media": [],
+   "operationalEffects": [],
+   "followUp": [],
+   "archiveEntity": null,
+   "namedLocation": null,
+   "publisherMedia": [],
+   "reportTiming": null,
+   "archivePattern": null,
+   "assessment": null,
+   "outcome": [],
+   "assessment_scale_version": null,
+   "assessment_operator_subject": null,
+   "assessment_operator_level": null,
+   "assessment_operator_range_low": null,
+   "assessment_operator_range_high": null,
+   "assessment_target_subject": null,
+   "assessment_target_level": null,
+   "assessment_target_range_low": null,
+   "assessment_target_range_high": null,
+   "assessment_droneType_subject": null,
+   "assessment_droneType_level": null,
+   "assessment_droneType_range_low": null,
+   "assessment_droneType_range_high": null,
+   "history": [
+    {
+     "revision": 2,
+     "date": "2026-10-21",
+     "at": "2026-10-21T20:25:00.963+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    }
+   ]
+  },
+  {
+   "id": "auto-ua-2026-10-21-4f86505441",
+   "title": "Drone report in Kyiv, Ukraine",
+   "place": "Kyiv",
+   "country": "Ukraine",
+   "countryCode": "UA",
+   "scope": "single",
+   "review": "auto",
+   "corroboration": "single",
+   "dateKind": "event",
+   "date": "2026-10-21",
+   "category": "conflict",
+   "droneStatus": "reported",
+   "impactStatus": "reported",
+   "attributionStatus": "none",
+   "lat": null,
+   "lon": null,
+   "locationPrecision": "unknown",
+   "checkedAt": null,
+   "autoCheckedAt": "2026-10-21",
+   "updatedAt": "2026-10-21",
+   "summary": "According to a cited source (reported by Espreso), drones were reported in Kyiv, Ukraine on 21 October 2026.",
+   "impact": "According to an official source of an involved party, via Espreso, as of 2026-10-21T07:40:00+03:00: transport infrastructure damage. According to The Kyiv City Military Administration, via Espreso, as of 2026-10-21T07:40:00+03:00: fire.",
+   "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
+   "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
+   "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
+   "windowStart": null,
+   "windowEnd": null,
+   "windowBasis": null,
+   "droneTypes": [],
+   "claims": [],
+   "droneStatusSources": [
+    0
+   ],
+   "impactStatusSources": [
+    0
+   ],
+   "attributionSources": [],
+   "sources": [
+    {
+     "label": "Espreso (2026-10-21)",
+     "url": "https://espreso.tv/viyna-z-rosiyeyu-rosiyski-droni-atakuvali-kiiv-poshkodzheno-bagatopoverkhivku-gorili-priparkovani-avto",
+     "published": "2026-10-21",
+     "family": "espreso",
+     "publishedAt": "2026-10-21T07:40:00+03:00"
+    }
+   ],
+   "timeline": [
+    {
+     "date": "2026-10-21",
+     "text": "Espreso published a report on this incident.",
+     "source": 0
+    }
+   ],
+   "referencePoint": {
+    "lat": 50.45,
+    "lon": 30.52,
+    "level": "city",
+    "name": "Kyiv"
+   },
+   "impactReports": [
+    {
+     "asOf": "2026-10-21T07:40:00+03:00",
+     "n": null,
+     "qual": null,
+     "src": 0,
+     "state": "reported",
+     "type": "damage_transport",
+     "via": "Espreso",
+     "who": {
+      "kind": "role",
+      "id": "party"
+     }
+    },
+    {
+     "asOf": "2026-10-21T07:40:00+03:00",
+     "n": null,
+     "qual": null,
+     "src": 0,
+     "state": "reported",
+     "type": "fire",
+     "via": "Espreso",
+     "who": {
+      "kind": "actor",
+      "id": "kyiv-city-military-administration"
+     }
+    }
+   ],
+   "series": [],
+   "plainSummary": {},
+   "revision": 6,
+   "media": [],
+   "operationalEffects": [],
+   "followUp": [],
+   "archiveEntity": null,
+   "namedLocation": null,
+   "publisherMedia": [],
+   "reportTiming": null,
+   "archivePattern": null,
+   "assessment": null,
+   "outcome": [],
+   "assessment_scale_version": null,
+   "assessment_operator_subject": null,
+   "assessment_operator_level": null,
+   "assessment_operator_range_low": null,
+   "assessment_operator_range_high": null,
+   "assessment_target_subject": null,
+   "assessment_target_level": null,
+   "assessment_target_range_low": null,
+   "assessment_target_range_high": null,
+   "assessment_droneType_subject": null,
+   "assessment_droneType_level": null,
+   "assessment_droneType_range_low": null,
+   "assessment_droneType_range_high": null,
+   "history": [
+    {
+     "revision": 6,
+     "date": "2026-10-21",
+     "at": "2026-10-21T21:24:00.165+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    },
+    {
+     "revision": 4,
+     "date": "2026-10-21",
+     "at": "2026-10-21T10:25:37.437+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    }
+   ]
+  },
+  {
+   "id": "auto-ua-2026-10-21-12503d5887",
+   "title": "Drone report in Uman, Ukraine",
+   "place": "Uman",
+   "country": "Ukraine",
+   "countryCode": "UA",
+   "scope": "single",
+   "review": "auto",
+   "corroboration": "single",
+   "dateKind": "event",
+   "date": "2026-10-21",
+   "category": "conflict",
+   "droneStatus": "reported",
+   "impactStatus": "reported",
+   "attributionStatus": "none",
+   "lat": null,
+   "lon": null,
+   "locationPrecision": "unknown",
+   "checkedAt": null,
+   "autoCheckedAt": "2026-10-21",
+   "updatedAt": "2026-10-21",
+   "summary": "According to a cited source (reported by Ukrainska Pravda), drones were reported in Uman, Ukraine on 21 October 2026.",
+   "impact": "According to an official source of an involved party, via Ukrainska Pravda, as of 2026-10-21T11:53:00+03:00: civilian infrastructure damage. According to an official source of an involved party, via Ukrainska Pravda, as of 2026-10-21T11:53:00+03:00: residential damage.",
+   "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
+   "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
+   "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
+   "windowStart": null,
+   "windowEnd": null,
+   "windowBasis": null,
+   "droneTypes": [],
+   "claims": [],
+   "droneStatusSources": [
+    0
+   ],
+   "impactStatusSources": [
+    0
+   ],
+   "attributionSources": [],
+   "sources": [
+    {
+     "label": "Ukrainska Pravda (2026-10-21)",
+     "url": "https://www.pravda.com.ua/eng/news/2026/10/21/8059039/",
+     "published": "2026-10-21",
+     "family": "pravda",
+     "publishedAt": "2026-10-21T11:53:00+03:00"
+    }
+   ],
+   "timeline": [
+    {
+     "date": "2026-10-21",
+     "text": "Ukrainska Pravda published a report on this incident.",
+     "source": 0
+    }
+   ],
+   "referencePoint": {
+    "lat": 48.75,
+    "lon": 30.22,
+    "level": "city",
+    "name": "Uman"
+   },
+   "impactReports": [
+    {
+     "asOf": "2026-10-21T11:53:00+03:00",
+     "n": null,
+     "qual": null,
+     "src": 0,
+     "state": "reported",
+     "type": "damage_civilian_infrastructure",
+     "via": "Ukrainska Pravda",
+     "who": {
+      "kind": "role",
+      "id": "party"
+     }
+    },
+    {
+     "asOf": "2026-10-21T11:53:00+03:00",
+     "n": null,
+     "qual": null,
+     "src": 0,
+     "state": "reported",
+     "type": "damage_residential",
+     "via": "Ukrainska Pravda",
+     "who": {
+      "kind": "role",
+      "id": "party"
+     }
+    }
+   ],
+   "series": [],
+   "plainSummary": {},
+   "revision": 2,
+   "media": [],
+   "operationalEffects": [],
+   "followUp": [],
+   "archiveEntity": null,
+   "namedLocation": null,
+   "publisherMedia": [],
+   "reportTiming": null,
+   "archivePattern": null,
+   "assessment": null,
+   "outcome": [],
+   "assessment_scale_version": null,
+   "assessment_operator_subject": null,
+   "assessment_operator_level": null,
+   "assessment_operator_range_low": null,
+   "assessment_operator_range_high": null,
+   "assessment_target_subject": null,
+   "assessment_target_level": null,
+   "assessment_target_range_low": null,
+   "assessment_target_range_high": null,
+   "assessment_droneType_subject": null,
+   "assessment_droneType_level": null,
+   "assessment_droneType_range_low": null,
+   "assessment_droneType_range_high": null,
+   "history": [
+    {
+     "revision": 2,
+     "date": "2026-10-21",
+     "at": "2026-10-21T09:27:28.902+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    }
+   ]
+  },
   {
    "id": "auto-ru-undated-d63382c977",
    "title": "Drone report in Tula Oblast, Russia",
@@ -99,6 +862,100 @@
      "revision": 2,
      "date": "2026-10-21",
      "at": "2026-10-21T04:27:15.241+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    }
+   ]
+  },
+  {
+   "id": "auto-ru-undated-a3dc8465dc",
+   "title": "Drone report in Bryansk Oblast, Russia",
+   "place": "Bryansk Oblast",
+   "country": "Russia",
+   "countryCode": "RU",
+   "scope": "single",
+   "review": "auto",
+   "corroboration": "single",
+   "dateKind": "statement",
+   "date": "2026-10-21",
+   "category": "conflict",
+   "droneStatus": "reported",
+   "impactStatus": "unknown",
+   "attributionStatus": "none",
+   "lat": null,
+   "lon": null,
+   "locationPrecision": "unknown",
+   "checkedAt": null,
+   "autoCheckedAt": "2026-10-21",
+   "updatedAt": "2026-10-21",
+   "summary": "According to a cited source (reported by Interfax), drones were reported in Bryansk Oblast, Russia during the reporting window 20 Oct 2026–21 Oct 2026.",
+   "impact": "No eligible attributed impact claim is included; this does not mean no impact occurred.",
+   "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier. This is a reporting period, not an exact incident day.",
+   "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
+   "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
+   "windowStart": "2026-10-20",
+   "windowEnd": "2026-10-21",
+   "windowBasis": "source-relative-24h",
+   "droneTypes": [],
+   "claims": [],
+   "droneStatusSources": [
+    0
+   ],
+   "impactStatusSources": [],
+   "attributionSources": [],
+   "sources": [
+    {
+     "label": "Interfax (2026-10-21)",
+     "url": "https://www.interfax.ru/russia/1123862",
+     "published": "2026-10-21",
+     "family": "interfax",
+     "publishedAt": "2026-10-21T09:25+03:00"
+    }
+   ],
+   "timeline": [
+    {
+     "date": "2026-10-21",
+     "text": "Interfax published a report on this incident.",
+     "source": 0
+    }
+   ],
+   "referencePoint": {
+    "lat": 53.27,
+    "lon": 34.32,
+    "level": "region",
+    "name": "Bryansk Oblast"
+   },
+   "impactReports": [],
+   "series": [],
+   "plainSummary": {},
+   "revision": 2,
+   "media": [],
+   "operationalEffects": [],
+   "followUp": [],
+   "archiveEntity": null,
+   "namedLocation": null,
+   "publisherMedia": [],
+   "reportTiming": null,
+   "archivePattern": null,
+   "assessment": null,
+   "outcome": [],
+   "assessment_scale_version": null,
+   "assessment_operator_subject": null,
+   "assessment_operator_level": null,
+   "assessment_operator_range_low": null,
+   "assessment_operator_range_high": null,
+   "assessment_target_subject": null,
+   "assessment_target_level": null,
+   "assessment_target_range_low": null,
+   "assessment_target_range_high": null,
+   "assessment_droneType_subject": null,
+   "assessment_droneType_level": null,
+   "assessment_droneType_range_low": null,
+   "assessment_droneType_range_high": null,
+   "history": [
+    {
+     "revision": 2,
+     "date": "2026-10-21",
+     "at": "2026-10-21T07:24:49.434+00:00",
      "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
     }
    ]
@@ -328,6 +1185,99 @@
      "revision": 2,
      "date": "2026-10-20",
      "at": "2026-10-20T12:24:50.566+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    }
+   ]
+  },
+  {
+   "id": "auto-ua-2026-10-20-f1d9ad680d",
+   "title": "Drone report in Fastiv, Ukraine",
+   "place": "Fastiv",
+   "country": "Ukraine",
+   "countryCode": "UA",
+   "scope": "single",
+   "review": "auto",
+   "corroboration": "single",
+   "dateKind": "event",
+   "date": "2026-10-20",
+   "category": "conflict",
+   "droneStatus": "reported",
+   "impactStatus": "unknown",
+   "attributionStatus": "none",
+   "lat": null,
+   "lon": null,
+   "locationPrecision": "unknown",
+   "checkedAt": null,
+   "autoCheckedAt": "2026-10-22",
+   "updatedAt": "2026-10-22",
+   "summary": "According to a cited source (reported by ZN.ua), drones were reported in Fastiv, Ukraine on 20 October 2026.",
+   "impact": "No eligible attributed impact claim is included; this does not mean no impact occurred.",
+   "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
+   "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
+   "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
+   "windowStart": null,
+   "windowEnd": null,
+   "windowBasis": null,
+   "droneTypes": [],
+   "claims": [],
+   "droneStatusSources": [
+    0
+   ],
+   "impactStatusSources": [],
+   "attributionSources": [],
+   "sources": [
+    {
+     "label": "ZN.ua (2026-10-19)",
+     "url": "https://zn.ua/war/dron-upal-na-trassu-kiev-odessa-est-pohibshie-i-ranenye.html",
+     "published": "2026-10-19",
+     "family": "zn"
+    }
+   ],
+   "timeline": [
+    {
+     "date": "2026-10-19",
+     "text": "ZN.ua published a report on this incident.",
+     "source": 0
+    }
+   ],
+   "referencePoint": {
+    "lat": 50.08,
+    "lon": 29.92,
+    "level": "city",
+    "name": "Fastiv"
+   },
+   "impactReports": [],
+   "series": [],
+   "plainSummary": {},
+   "revision": 2,
+   "media": [],
+   "operationalEffects": [],
+   "followUp": [],
+   "archiveEntity": null,
+   "namedLocation": null,
+   "publisherMedia": [],
+   "reportTiming": null,
+   "archivePattern": null,
+   "assessment": null,
+   "outcome": [],
+   "assessment_scale_version": null,
+   "assessment_operator_subject": null,
+   "assessment_operator_level": null,
+   "assessment_operator_range_low": null,
+   "assessment_operator_range_high": null,
+   "assessment_target_subject": null,
+   "assessment_target_level": null,
+   "assessment_target_range_low": null,
+   "assessment_target_range_high": null,
+   "assessment_droneType_subject": null,
+   "assessment_droneType_level": null,
+   "assessment_droneType_range_low": null,
+   "assessment_droneType_range_high": null,
+   "history": [
+    {
+     "revision": 2,
+     "date": "2026-10-22",
+     "at": "2026-10-22T06:24:17.725+00:00",
      "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
     }
    ]
@@ -945,6 +1895,100 @@
    ]
   },
   {
+   "id": "auto-ru-2026-10-20-ad121c7a72",
+   "title": "Drone report in Kaluga Oblast, Russia",
+   "place": "Kaluga Oblast",
+   "country": "Russia",
+   "countryCode": "RU",
+   "scope": "single",
+   "review": "auto",
+   "corroboration": "single",
+   "dateKind": "event",
+   "date": "2026-10-20",
+   "category": "conflict",
+   "droneStatus": "reported",
+   "impactStatus": "unknown",
+   "attributionStatus": "none",
+   "lat": null,
+   "lon": null,
+   "locationPrecision": "unknown",
+   "checkedAt": null,
+   "autoCheckedAt": "2026-10-21",
+   "updatedAt": "2026-10-21",
+   "summary": "According to a cited source (reported by vedomosti.ru), drones were reported in Kaluga Oblast, Russia on 20 October 2026.",
+   "impact": "No eligible attributed impact claim is included; this does not mean no impact occurred.",
+   "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
+   "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
+   "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
+   "windowStart": null,
+   "windowEnd": null,
+   "windowBasis": null,
+   "droneTypes": [],
+   "claims": [],
+   "droneStatusSources": [
+    0
+   ],
+   "impactStatusSources": [],
+   "attributionSources": [],
+   "sources": [
+    {
+     "label": "vedomosti.ru (2026-10-21)",
+     "url": "https://www.vedomosti.ru/strana/central/news/2026/10/21/1238748-sili-pvo-sbili",
+     "published": "2026-10-21",
+     "family": "vedomosti",
+     "publishedAt": "2026-10-21T09:17:01+03:00"
+    }
+   ],
+   "timeline": [
+    {
+     "date": "2026-10-21",
+     "text": "vedomosti.ru published a report on this incident.",
+     "source": 0
+    }
+   ],
+   "referencePoint": {
+    "lat": 54.53,
+    "lon": 36.27,
+    "level": "region",
+    "name": "Kaluga Oblast"
+   },
+   "impactReports": [],
+   "series": [],
+   "plainSummary": {},
+   "revision": 3,
+   "media": [],
+   "operationalEffects": [],
+   "followUp": [],
+   "archiveEntity": null,
+   "namedLocation": null,
+   "publisherMedia": [],
+   "reportTiming": null,
+   "archivePattern": null,
+   "assessment": null,
+   "outcome": [],
+   "assessment_scale_version": null,
+   "assessment_operator_subject": null,
+   "assessment_operator_level": null,
+   "assessment_operator_range_low": null,
+   "assessment_operator_range_high": null,
+   "assessment_target_subject": null,
+   "assessment_target_level": null,
+   "assessment_target_range_low": null,
+   "assessment_target_range_high": null,
+   "assessment_droneType_subject": null,
+   "assessment_droneType_level": null,
+   "assessment_droneType_range_low": null,
+   "assessment_droneType_range_high": null,
+   "history": [
+    {
+     "revision": 3,
+     "date": "2026-10-21",
+     "at": "2026-10-21T15:25:18.019+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    }
+   ]
+  },
+  {
    "id": "auto-mx-2026-10-20-3882cf09c1",
    "title": "Drone report in Escuinapa de Hidalgo, Mexico",
    "place": "Escuinapa de Hidalgo",
@@ -1442,7 +2486,7 @@
    ],
    "series": [],
    "plainSummary": {},
-   "revision": 13,
+   "revision": 17,
    "media": [],
    "operationalEffects": [],
    "followUp": [],
@@ -1467,6 +2511,18 @@
    "assessment_droneType_range_low": null,
    "assessment_droneType_range_high": null,
    "history": [
+    {
+     "revision": 17,
+     "date": "2026-10-21",
+     "at": "2026-10-21T11:23:43.581+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    },
+    {
+     "revision": 15,
+     "date": "2026-10-21",
+     "at": "2026-10-21T09:23:23.913+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    },
     {
      "revision": 13,
      "date": "2026-10-21",
@@ -2798,6 +3854,100 @@
      "revision": 2,
      "date": "2026-10-19",
      "at": "2026-10-19T06:28:50.721+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    }
+   ]
+  },
+  {
+   "id": "auto-iq-2026-10-18-f4a08e9099",
+   "title": "Drone report in Erbil, Iraq",
+   "place": "Erbil",
+   "country": "Iraq",
+   "countryCode": "IQ",
+   "scope": "single",
+   "review": "auto",
+   "corroboration": "single",
+   "dateKind": "event",
+   "date": "2026-10-18",
+   "category": "conflict",
+   "droneStatus": "reported",
+   "impactStatus": "unknown",
+   "attributionStatus": "none",
+   "lat": null,
+   "lon": null,
+   "locationPrecision": "unknown",
+   "checkedAt": null,
+   "autoCheckedAt": "2026-10-21",
+   "updatedAt": "2026-10-21",
+   "summary": "According to Entekhab, drones were reported in Erbil, Iraq on 18 October 2026.",
+   "impact": "No eligible attributed impact claim is included; this does not mean no impact occurred.",
+   "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
+   "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
+   "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
+   "windowStart": null,
+   "windowEnd": null,
+   "windowBasis": null,
+   "droneTypes": [],
+   "claims": [],
+   "droneStatusSources": [
+    0
+   ],
+   "impactStatusSources": [],
+   "attributionSources": [],
+   "sources": [
+    {
+     "label": "Entekhab (2026-10-18)",
+     "url": "https://www.entekhab.ir/fa/news/943914/%D8%B5%D8%AF%D8%A7%DB%8C-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D8%AF%D8%B1-%D8%AD%D9%88%D9%85%D9%87-%D8%A7%D8%B1%D8%A8%DB%8C%D9%84-%D8%AF%D8%B1-%DA%A9%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D8%B9%D8%B1%D8%A7%D9%82-%D8%A7%D9%84%D9%85%DB%8C%D8%A7%D8%AF%DB%8C%D9%86-%D8%AD%D9%85%D9%84%D9%87-%D9%BE%D9%87%D9%BE%D8%A7%D8%AF%DB%8C-%D8%A8%D9%87-%D9%85%D9%82%D8%B1-%DA%AF%D8%B1%D9%88%D9%87-%D9%87%D8%A7%DB%8C-%D8%B6%D8%AF%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8-%D8%AF%D8%B1-%D8%AF%D8%B1%D9%87-%D8%A2%D9%84%D8%A7%D9%86%D9%87",
+     "published": "2026-10-18",
+     "family": "entekhab",
+     "publishedAt": "2026-10-18T00:33:59+03:30"
+    }
+   ],
+   "timeline": [
+    {
+     "date": "2026-10-18",
+     "text": "Entekhab published a report on this incident.",
+     "source": 0
+    }
+   ],
+   "referencePoint": {
+    "lat": 36.19,
+    "lon": 44.01,
+    "level": "city",
+    "name": "Erbil"
+   },
+   "impactReports": [],
+   "series": [],
+   "plainSummary": {},
+   "revision": 2,
+   "media": [],
+   "operationalEffects": [],
+   "followUp": [],
+   "archiveEntity": null,
+   "namedLocation": null,
+   "publisherMedia": [],
+   "reportTiming": null,
+   "archivePattern": null,
+   "assessment": null,
+   "outcome": [],
+   "assessment_scale_version": null,
+   "assessment_operator_subject": null,
+   "assessment_operator_level": null,
+   "assessment_operator_range_low": null,
+   "assessment_operator_range_high": null,
+   "assessment_target_subject": null,
+   "assessment_target_level": null,
+   "assessment_target_range_low": null,
+   "assessment_target_range_high": null,
+   "assessment_droneType_subject": null,
+   "assessment_droneType_level": null,
+   "assessment_droneType_range_low": null,
+   "assessment_droneType_range_high": null,
+   "history": [
+    {
+     "revision": 2,
+     "date": "2026-10-21",
+     "at": "2026-10-21T18:24:28.470+00:00",
      "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
     }
    ]
@@ -8337,7 +9487,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "nuremberg-airport",
     "windows": [
      {
@@ -13594,7 +14744,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "yandex-kaluga-data-centre",
     "windows": [
      {
@@ -15404,7 +16554,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "taiba-power-distribution-station",
     "windows": [
      {
@@ -15773,7 +16923,7 @@
     ]
    },
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "berlin-brandenburg-airport",
     "windows": [
      {
@@ -15951,7 +17101,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "san-diego-international-airport",
     "windows": [
      {
@@ -16260,7 +17410,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "munich-airport",
     "windows": [
      {
@@ -16455,7 +17605,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "helsinki-airport",
     "windows": [
      {
@@ -16646,7 +17796,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "el-paso-international-airport",
     "windows": [
      {
@@ -16847,7 +17997,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "hannover-airport",
     "windows": [
      {
@@ -17042,7 +18192,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "eindhoven-airport",
     "windows": [
      {
@@ -17199,7 +18349,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "doel-nuclear-power-station",
     "windows": [
      {
@@ -17365,7 +18515,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "liege-airport",
     "windows": [
      {
@@ -17538,7 +18688,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "gothenburg-landvetter-airport",
     "windows": [
      {
@@ -17740,7 +18890,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "hannover-airport",
     "windows": [
      {
@@ -17991,7 +19141,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "brussels-airport",
     "windows": [
      {
@@ -18172,7 +19322,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "bremen-airport",
     "windows": [
      {
@@ -18589,7 +19739,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "berlin-brandenburg-airport",
     "windows": [
      {
@@ -18984,7 +20134,7 @@
    ],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "munich-airport",
     "windows": [
      {
@@ -19180,7 +20330,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "borris-military-camp",
     "windows": [
      {
@@ -19374,7 +20524,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "billund-airport",
     "windows": [
      {
@@ -19593,7 +20743,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "billund-airport",
     "windows": [
      {
@@ -19789,7 +20939,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "aalborg-airport",
     "windows": [
      {
@@ -19970,7 +21120,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "sonderborg-airport",
     "windows": [
      {
@@ -20262,7 +21412,7 @@
    ],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "oslo-gardermoen-airport",
     "windows": [
      {
@@ -20569,7 +21719,7 @@
    ],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "airport-ekch",
     "windows": [
      {
@@ -21075,7 +22225,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "ramon-airport",
     "windows": [
      {
@@ -21560,7 +22710,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "olenya-air-base",
     "windows": [
      {
@@ -21707,7 +22857,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "belaya-air-base",
     "windows": [
      {
@@ -22437,7 +23587,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "chornobyl-nuclear-power-plant",
     "windows": [
      {
@@ -22600,7 +23750,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "mt-bank-stadium",
     "windows": [
      {
@@ -23458,7 +24608,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "boston-logan-airport",
     "windows": [
      {
@@ -23644,7 +24794,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "wright-patterson-air-force-base",
     "windows": [
      {
@@ -23847,7 +24997,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "stewart-international-airport",
     "windows": [
      {
@@ -24151,7 +25301,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "vandenberg-space-force-base",
     "windows": [
      {
@@ -25213,7 +26363,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "stockholm-arlanda-airport",
     "windows": [
      {
@@ -26522,7 +27672,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "auckland-airport",
     "windows": [
      {
@@ -26738,7 +27888,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "tower-22",
     "windows": [
      {
@@ -26896,7 +28046,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "mt-bank-stadium",
     "windows": [
      {
@@ -27616,7 +28766,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "moscow-city-business-district",
     "windows": [
      {
@@ -27779,7 +28929,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "moscow-city-business-district",
     "windows": [
      {
@@ -27954,7 +29104,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "crimean-bridge",
     "windows": [
      {
@@ -28265,7 +29415,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "pittsburgh-international-airport",
     "windows": [
      {
@@ -28427,7 +29577,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "moscow-kremlin",
     "windows": [
      {
@@ -28614,7 +29764,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "dublin-airport",
     "windows": [
      {
@@ -28799,7 +29949,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "dublin-airport",
     "windows": [
      {
@@ -29116,7 +30266,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "engels-air-base",
     "windows": [
      {
@@ -29279,7 +30429,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "engels-air-base",
     "windows": [
      {
@@ -29435,7 +30585,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "sevastopol-naval-base",
     "windows": [
      {
@@ -29595,7 +30745,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "bergen-airport-flesland",
     "windows": [
      {
@@ -29757,7 +30907,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "stavanger-airport",
     "windows": [
      {
@@ -30065,7 +31215,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "ronald-reagan-washington-national-airport",
     "windows": [
      {
@@ -30713,7 +31863,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "jammu-air-force-station",
     "windows": [
      {
@@ -30902,7 +32052,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "riga-airport",
     "windows": [
      {
@@ -31111,7 +32261,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "frankfurt-airport",
     "windows": [
      {
@@ -31449,7 +32599,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "dubai-international-airport",
     "windows": [
      {
@@ -31798,7 +32948,7 @@
    ],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "abqaiq-processing-facility",
     "windows": [
      {
@@ -32027,7 +33177,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "changi-airport",
     "windows": [
      {
@@ -32187,7 +33337,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "changi-airport",
     "windows": [
      {
@@ -32368,7 +33518,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "dubai-international-airport",
     "windows": [
      {
@@ -32555,7 +33705,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "newark-liberty-airport",
     "windows": [
      {
@@ -32707,7 +33857,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "heathrow-airport",
     "windows": [
      {
@@ -33010,7 +34160,7 @@
    ],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "airport-egkk",
     "windows": [
      {
@@ -33206,7 +34356,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "auckland-airport",
     "windows": [
      {
@@ -33384,7 +34534,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "quebec-jean-lesage-airport",
     "windows": [
      {
@@ -33742,7 +34892,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "indira-gandhi-international-airport",
     "windows": [
      {
@@ -33900,7 +35050,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "cork-airport",
     "windows": [
      {
@@ -34060,7 +35210,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "louis-armstrong-stadium",
     "windows": [
      {
@@ -34209,7 +35359,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-10-21T06:47:01+00:00",
+    "asOf": "2026-10-22T06:47:01+00:00",
     "entityKey": "jfk-airport",
     "windows": [
      {
