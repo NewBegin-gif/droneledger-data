@@ -4,8 +4,8 @@ title: "DroneLedger: source-traced drone incident dossiers"
 type: dataset
 authors:
   - name: "DroneLedger"
-version: "2026-10-21"
-date-released: "2026-10-21"
+version: "2026-10-22"
+date-released: "2026-10-22"
 license: CC-BY-4.0
 url: "https://droneincidents.com"
 abstract: "Selective public-source dossier archive; row counts are not drone or attack totals."
