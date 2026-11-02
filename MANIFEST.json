@@ -1,12 +1,12 @@
 {
-  "release": "20261101T064004757264-0f50a3",
-  "generated": "2026-11-01T06:40:03+00:00",
-  "snapshot": "2026-11-01",
+  "release": "20261102T064004915716-fde07b",
+  "generated": "2026-11-02T06:40:03+00:00",
+  "snapshot": "2026-11-02",
   "sha256": {
-    "incidents.csv": "2d155283b5520eeb0444369c092d6f58f9e90dfc564063253b0aee7e83b019d8",
-    "incidents.json": "b50c7e2fe3277dcf2370655f31c488e29860b7ec9a731c403126c2e417df5d98",
-    "README.md": "afa9ff6fa3eb2c44a7ac32a1564286c3d47b12458dee42b4404ebff38f2eef89",
+    "incidents.csv": "e7efc1e5dce37beca7fa0344e2a5e22523e07d18844049a6f27ac19cc44637ef",
+    "incidents.json": "2d669f4c7571ccb21a771bb2e7592d70126530aa1ecbd2d72520f886ef52a873",
+    "README.md": "3a3e03518b7230b258d5dd5857adc0458882cc31650c73203a56fa32bf4894e0",
     "DATA_DICTIONARY.md": "79fd20358787f04ecb4900bec44cd7b7ba4c0c7c56bbda106174a559d4e1e081",
-    "CITATION.cff": "da187021f0499ef7e453329e935507d1f827af00fa7f47de573c09a1fb7974de"
+    "CITATION.cff": "15f022317c7cb9623654248e990847c6ee0c5b83b72946dcadbdfeb3a08b0381"
   }
 }
