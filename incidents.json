@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-10T06:40:03+00:00",
- "release": "20261110T064005511432-c1e81c",
+ "generated": "2026-11-11T06:26:46+00:00",
+ "release": "20261111T062647940466-bfa41c",
  "coverage": "Curated archive; not a complete or live record.",
  "license": {
   "name": "CC BY 4.0",
@@ -9,6 +9,1125 @@
   "excludes": "Quoted source passages and linked articles remain the copyright of their publishers; they are included as short quotations for verification. Linked media and satellite images remain the rights holders' property; no image or video licence is granted by this dataset. Fonts (SIL OFL) and map data (Natural Earth, public domain) keep their own terms. City and region names in automatically published dossiers are checked against GeoNames (geonames.org, CC BY 4.0). Drone drawings and animations are schematic illustrations of a type, not evidence about any incident."
  },
  "incidents": [
+  {
+   "id": "auto-ru-2026-11-11-ac1994c10c",
+   "title": "Drone report in Leningradskaya Oblast', Russia",
+   "place": "Leningradskaya Oblast'",
+   "country": "Russia",
+   "countryCode": "RU",
+   "scope": "single",
+   "review": "auto",
+   "corroboration": "single",
+   "dateKind": "event",
+   "date": "2026-11-11",
+   "category": "conflict",
+   "droneStatus": "reported",
+   "impactStatus": "unknown",
+   "attributionStatus": "none",
+   "lat": null,
+   "lon": null,
+   "locationPrecision": "unknown",
+   "checkedAt": null,
+   "autoCheckedAt": "2026-11-11",
+   "updatedAt": "2026-11-11",
+   "summary": "According to a cited source (reported by Ukrainska Pravda), drones were reported in Leningradskaya Oblast', Russia on 11 November 2026.",
+   "impact": "No eligible attributed impact claim is included; this does not mean no impact occurred.",
+   "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
+   "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
+   "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
+   "windowStart": null,
+   "windowEnd": null,
+   "windowBasis": null,
+   "droneTypes": [],
+   "claims": [],
+   "droneStatusSources": [
+    0
+   ],
+   "impactStatusSources": [],
+   "attributionSources": [],
+   "sources": [
+    {
+     "label": "Ukrainska Pravda (2026-11-11)",
+     "url": "https://www.pravda.com.ua/news/2026/11/11/8062242/",
+     "published": "2026-11-11",
+     "family": "pravda",
+     "publishedAt": "2026-11-11T00:58:00+02:00"
+    }
+   ],
+   "timeline": [
+    {
+     "date": "2026-11-11",
+     "text": "Ukrainska Pravda published a report on this incident.",
+     "source": 0
+    }
+   ],
+   "referencePoint": {
+    "lat": 59.91,
+    "lon": 30.97,
+    "level": "region",
+    "name": "Leningradskaya Oblast'"
+   },
+   "impactReports": [],
+   "series": [],
+   "plainSummary": {},
+   "autoEnrichments": [],
+   "revision": 4,
+   "media": [],
+   "operationalEffects": [],
+   "followUp": [],
+   "archiveEntity": null,
+   "namedLocation": null,
+   "publisherMedia": [],
+   "reportTiming": null,
+   "archivePattern": null,
+   "assessment": null,
+   "outcome": [],
+   "assessment_scale_version": null,
+   "assessment_operator_subject": null,
+   "assessment_operator_level": null,
+   "assessment_operator_range_low": null,
+   "assessment_operator_range_high": null,
+   "assessment_target_subject": null,
+   "assessment_target_level": null,
+   "assessment_target_range_low": null,
+   "assessment_target_range_high": null,
+   "assessment_droneType_subject": null,
+   "assessment_droneType_level": null,
+   "assessment_droneType_range_low": null,
+   "assessment_droneType_range_high": null,
+   "eventFacts": [],
+   "history": [
+    {
+     "revision": 4,
+     "date": "2026-11-11",
+     "at": "2026-11-11T04:24:00.047+00:00",
+     "note": "Updated automatically after the new revision passed the automatic checks. (Source revision 3.)"
+    },
+    {
+     "revision": 2,
+     "date": "2026-11-10",
+     "at": "2026-11-10T23:22:56.859+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    }
+   ]
+  },
+  {
+   "id": "auto-ru-2026-11-11-77b0a3d5eb",
+   "title": "Drone report in Rostov region, Russia",
+   "place": "Rostov region",
+   "country": "Russia",
+   "countryCode": "RU",
+   "scope": "single",
+   "review": "auto",
+   "corroboration": "single",
+   "dateKind": "event",
+   "date": "2026-11-11",
+   "category": "conflict",
+   "droneStatus": "reported",
+   "impactStatus": "reported",
+   "attributionStatus": "none",
+   "lat": null,
+   "lon": null,
+   "locationPrecision": "unknown",
+   "checkedAt": null,
+   "autoCheckedAt": "2026-11-11",
+   "updatedAt": "2026-11-11",
+   "summary": "According to Kommersant, drones were reported in Rostov region, Russia on 11 November 2026.",
+   "impact": "According to an official source of an involved party, via Kommersant, as of 11 Nov 2026 05:27 UTC+00:00: flight disruption.",
+   "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
+   "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
+   "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
+   "windowStart": null,
+   "windowEnd": null,
+   "windowBasis": null,
+   "droneTypes": [],
+   "claims": [],
+   "droneStatusSources": [
+    0
+   ],
+   "impactStatusSources": [
+    0
+   ],
+   "attributionSources": [],
+   "sources": [
+    {
+     "label": "Kommersant (2026-11-11)",
+     "url": "https://www.kommersant.ru/doc/9094202",
+     "published": "2026-11-11",
+     "family": "kommersant",
+     "publishedAt": "2026-11-11T05:27:47Z"
+    }
+   ],
+   "timeline": [
+    {
+     "date": "2026-11-11",
+     "text": "Kommersant published a report on this incident.",
+     "source": 0
+    }
+   ],
+   "referencePoint": {
+    "lat": 47.22,
+    "lon": 39.71,
+    "level": "region",
+    "name": "Rostov region"
+   },
+   "impactReports": [
+    {
+     "asOf": "2026-11-11T05:27:47Z",
+     "n": null,
+     "qual": null,
+     "src": 0,
+     "state": "reported",
+     "type": "flight_disruption",
+     "via": "Kommersant",
+     "who": {
+      "kind": "role",
+      "id": "party"
+     }
+    }
+   ],
+   "series": [],
+   "plainSummary": {},
+   "autoEnrichments": [],
+   "revision": 2,
+   "media": [],
+   "operationalEffects": [],
+   "followUp": [],
+   "archiveEntity": null,
+   "namedLocation": null,
+   "publisherMedia": [],
+   "reportTiming": null,
+   "archivePattern": null,
+   "assessment": null,
+   "outcome": [],
+   "assessment_scale_version": null,
+   "assessment_operator_subject": null,
+   "assessment_operator_level": null,
+   "assessment_operator_range_low": null,
+   "assessment_operator_range_high": null,
+   "assessment_target_subject": null,
+   "assessment_target_level": null,
+   "assessment_target_range_low": null,
+   "assessment_target_range_high": null,
+   "assessment_droneType_subject": null,
+   "assessment_droneType_level": null,
+   "assessment_droneType_range_low": null,
+   "assessment_droneType_range_high": null,
+   "eventFacts": [],
+   "history": [
+    {
+     "revision": 2,
+     "date": "2026-11-11",
+     "at": "2026-11-11T06:26:35.511+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    }
+   ]
+  },
+  {
+   "id": "auto-ua-2026-11-10-fb43606029",
+   "title": "Drone report in Kryvyy Rih, Ukraine",
+   "place": "Kryvyy Rih",
+   "country": "Ukraine",
+   "countryCode": "UA",
+   "scope": "single",
+   "review": "auto",
+   "corroboration": "single",
+   "dateKind": "event",
+   "date": "2026-11-10",
+   "category": "conflict",
+   "droneStatus": "reported",
+   "impactStatus": "unknown",
+   "attributionStatus": "none",
+   "lat": null,
+   "lon": null,
+   "locationPrecision": "unknown",
+   "checkedAt": null,
+   "autoCheckedAt": "2026-11-10",
+   "updatedAt": "2026-11-10",
+   "summary": "According to a cited source (reported by ukraine-nachrichten.de), drones were reported in Kryvyy Rih, Ukraine on 10 November 2026.",
+   "impact": "No eligible attributed impact claim is included; this does not mean no impact occurred.",
+   "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
+   "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
+   "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
+   "windowStart": null,
+   "windowEnd": null,
+   "windowBasis": null,
+   "droneTypes": [],
+   "claims": [],
+   "droneStatusSources": [
+    0
+   ],
+   "impactStatusSources": [],
+   "attributionSources": [],
+   "sources": [
+    {
+     "label": "ukraine-nachrichten.de (2026-11-10)",
+     "url": "https://ukraine-nachrichten.de/drohnen-haben-krywyj-angegriffen-stadt-teilweise-ohne-strom_33963?mtm_campaign=bs",
+     "published": "2026-11-10",
+     "family": "ukraine-nachrichten"
+    }
+   ],
+   "timeline": [
+    {
+     "date": "2026-11-10",
+     "text": "ukraine-nachrichten.de published a report on this incident.",
+     "source": 0
+    }
+   ],
+   "referencePoint": {
+    "lat": 47.91,
+    "lon": 33.39,
+    "level": "city",
+    "name": "Kryvyy Rih"
+   },
+   "impactReports": [],
+   "series": [],
+   "plainSummary": {},
+   "autoEnrichments": [],
+   "revision": 2,
+   "media": [],
+   "operationalEffects": [],
+   "followUp": [],
+   "archiveEntity": null,
+   "namedLocation": null,
+   "publisherMedia": [],
+   "reportTiming": null,
+   "archivePattern": null,
+   "assessment": null,
+   "outcome": [],
+   "assessment_scale_version": null,
+   "assessment_operator_subject": null,
+   "assessment_operator_level": null,
+   "assessment_operator_range_low": null,
+   "assessment_operator_range_high": null,
+   "assessment_target_subject": null,
+   "assessment_target_level": null,
+   "assessment_target_range_low": null,
+   "assessment_target_range_high": null,
+   "assessment_droneType_subject": null,
+   "assessment_droneType_level": null,
+   "assessment_droneType_range_low": null,
+   "assessment_droneType_range_high": null,
+   "eventFacts": [],
+   "history": [
+    {
+     "revision": 2,
+     "date": "2026-11-10",
+     "at": "2026-11-10T23:22:55.613+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    }
+   ]
+  },
+  {
+   "id": "auto-ua-2026-11-10-d5a7782dcb",
+   "title": "Drone report in Sevastopol, Ukraine",
+   "place": "Sevastopol",
+   "country": "Ukraine",
+   "countryCode": "UA",
+   "scope": "single",
+   "review": "auto",
+   "corroboration": "single",
+   "dateKind": "event",
+   "date": "2026-11-10",
+   "category": "conflict",
+   "droneStatus": "reported",
+   "impactStatus": "unknown",
+   "attributionStatus": "none",
+   "lat": null,
+   "lon": null,
+   "locationPrecision": "unknown",
+   "checkedAt": null,
+   "autoCheckedAt": "2026-11-10",
+   "updatedAt": "2026-11-10T11:30:48+00:00",
+   "summary": "According to UA.News, citing Mikhail Razvozhayev: a drone was reportedly shot down.",
+   "impact": "No eligible attributed impact claim is included; this does not mean no impact occurred.",
+   "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
+   "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
+   "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
+   "windowStart": null,
+   "windowEnd": null,
+   "windowBasis": null,
+   "droneTypes": [],
+   "claims": [],
+   "droneStatusSources": [
+    0
+   ],
+   "impactStatusSources": [],
+   "attributionSources": [],
+   "sources": [
+    {
+     "label": "UA.News (2026-11-10)",
+     "url": "https://ua.news/en/war-vs-rf/droni-atakuvali-okupovani-donetsk-i-lugansk-berdiansk-ta-regioni-rosiyi-ie-masshtabni-vidkliuchennia-svitla",
+     "published": "2026-11-10",
+     "family": "ua",
+     "publishedAt": "2026-11-10T09:12:18+00:00"
+    }
+   ],
+   "timeline": [
+    {
+     "date": "2026-11-10",
+     "text": "UA.News published a report on this incident.",
+     "source": 0
+    }
+   ],
+   "referencePoint": {
+    "lat": 44.61,
+    "lon": 33.52,
+    "level": "city",
+    "name": "Sevastopol"
+   },
+   "impactReports": [],
+   "series": [],
+   "plainSummary": {},
+   "autoEnrichments": [
+    {
+     "field": "eventFacts",
+     "value": {
+      "kind": "shot_down",
+      "sourceIndex": 0,
+      "support": "eight drones had allegedly been destroyed",
+      "frame": {
+       "quote": "On the night of November 10, drones attacked the temporarily occupied territories of Ukraine and a number of regions in Russia. The strikes caused widespread power outages in Donetsk and Luhansk. Residents of Berdyansk, Sevastopol, and the Novgorod region also reported explosions.\nIn Donetsk, after strikes in the Petrovsky district, nearly the entire city was left without power.\nIn the temporarily occupied territory of Luhansk Oblast, a strike on the power grid was reported around 10:22 p.m. Following this, widespread power outages began in Luhansk and other settlements.\nThe occupying administration confirmed disruptions to the power supply as a result of drone attacks.\nHowever, the number of customers left without power, the extent of the damage, and the estimated time for restoring power are currently unknown.\nIn the temporarily occupied city of Berdyansk, local residents reported powerful explosions in the Mayak area. Information regarding possible strikes is being verified.\nIn Sevastopol, Russian air defenses attempted to repel a drone attack. The occupying governor, Mikhail Razvozhayev, claimed that eight drones had allegedly been destroyed.",
+       "place": "Sevastopol",
+       "date": "November 10"
+      }
+     },
+     "sourceUrl": "https://ua.news/en/war-vs-rf/droni-atakuvali-okupovani-donetsk-i-lugansk-berdiansk-ta-regioni-rosiyi-ie-masshtabni-vidkliuchennia-svitla",
+     "quote": "The occupying governor, Mikhail Razvozhayev, claimed that eight drones had allegedly been destroyed.",
+     "speaker": "Mikhail Razvozhayev",
+     "role": "party",
+     "asOf": "2026-11-10T09:12:18+00:00",
+     "method": "ai-assisted-source-check",
+     "eventScope": "same-incident",
+     "check": {
+      "checkedAt": "2026-11-10T11:30:48+00:00",
+      "contentHash": "6a7810bfd0f61f3afdec9c882d20f92c16c9932da1aff41c743913abceddc6a8",
+      "finalUrl": "https://ua.news/en/war-vs-rf/droni-atakuvali-okupovani-donetsk-i-lugansk-berdiansk-ta-regioni-rosiyi-ie-masshtabni-vidkliuchennia-svitla",
+      "matchedIn": "article",
+      "robots": "allowed",
+      "digest": "185a723ef984e413f3ed696dd8a250ee7b10b56227deeb2d43a0c92916bf9f09"
+     }
+    }
+   ],
+   "revision": 2,
+   "media": [],
+   "operationalEffects": [],
+   "followUp": [],
+   "archiveEntity": null,
+   "namedLocation": null,
+   "publisherMedia": [],
+   "reportTiming": null,
+   "archivePattern": null,
+   "assessment": null,
+   "outcome": [],
+   "assessment_scale_version": null,
+   "assessment_operator_subject": null,
+   "assessment_operator_level": null,
+   "assessment_operator_range_low": null,
+   "assessment_operator_range_high": null,
+   "assessment_target_subject": null,
+   "assessment_target_level": null,
+   "assessment_target_range_low": null,
+   "assessment_target_range_high": null,
+   "assessment_droneType_subject": null,
+   "assessment_droneType_level": null,
+   "assessment_droneType_range_low": null,
+   "assessment_droneType_range_high": null,
+   "eventFacts": [
+    {
+     "kind": "shot_down",
+     "sourceIndex": 0,
+     "support": "eight drones had allegedly been destroyed",
+     "frame": {
+      "quote": "On the night of November 10, drones attacked the temporarily occupied territories of Ukraine and a number of regions in Russia. The strikes caused widespread power outages in Donetsk and Luhansk. Residents of Berdyansk, Sevastopol, and the Novgorod region also reported explosions.\nIn Donetsk, after strikes in the Petrovsky district, nearly the entire city was left without power.\nIn the temporarily occupied territory of Luhansk Oblast, a strike on the power grid was reported around 10:22 p.m. Following this, widespread power outages began in Luhansk and other settlements.\nThe occupying administration confirmed disruptions to the power supply as a result of drone attacks.\nHowever, the number of customers left without power, the extent of the damage, and the estimated time for restoring power are currently unknown.\nIn the temporarily occupied city of Berdyansk, local residents reported powerful explosions in the Mayak area. Information regarding possible strikes is being verified.\nIn Sevastopol, Russian air defenses attempted to repel a drone attack. The occupying governor, Mikhail Razvozhayev, claimed that eight drones had allegedly been destroyed.",
+      "place": "Sevastopol",
+      "date": "November 10"
+     },
+     "quote": "The occupying governor, Mikhail Razvozhayev, claimed that eight drones had allegedly been destroyed.",
+     "speaker": "Mikhail Razvozhayev",
+     "role": "party",
+     "sourceUrl": "https://ua.news/en/war-vs-rf/droni-atakuvali-okupovani-donetsk-i-lugansk-berdiansk-ta-regioni-rosiyi-ie-masshtabni-vidkliuchennia-svitla",
+     "asOf": "2026-11-10T09:12:18+00:00",
+     "method": "ai-assisted-source-check",
+     "eventScope": "same-incident",
+     "checkedAt": "2026-11-10T11:30:48+00:00"
+    }
+   ],
+   "history": [
+    {
+     "revision": 2,
+     "date": "2026-11-10",
+     "at": "2026-11-10T10:24:45.530+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    }
+   ]
+  },
+  {
+   "id": "auto-ua-2026-11-10-6c73f21330",
+   "title": "Drone report in Luhansk, Ukraine",
+   "place": "Luhansk",
+   "country": "Ukraine",
+   "countryCode": "UA",
+   "scope": "single",
+   "review": "auto",
+   "corroboration": "single",
+   "dateKind": "event",
+   "date": "2026-11-10",
+   "category": "conflict",
+   "droneStatus": "reported",
+   "impactStatus": "reported",
+   "attributionStatus": "none",
+   "lat": null,
+   "lon": null,
+   "locationPrecision": "unknown",
+   "checkedAt": null,
+   "autoCheckedAt": "2026-11-10",
+   "updatedAt": "2026-11-10",
+   "summary": "According to UA.News, drones were reported in Luhansk, Ukraine on 10 November 2026.",
+   "impact": "According to an official source of an involved party, via UA.News, as of 10 Nov 2026 09:12 UTC+00:00: power outage.",
+   "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
+   "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
+   "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
+   "windowStart": null,
+   "windowEnd": null,
+   "windowBasis": null,
+   "droneTypes": [],
+   "claims": [],
+   "droneStatusSources": [
+    0
+   ],
+   "impactStatusSources": [
+    0
+   ],
+   "attributionSources": [],
+   "sources": [
+    {
+     "label": "UA.News (2026-11-10)",
+     "url": "https://ua.news/en/war-vs-rf/droni-atakuvali-okupovani-donetsk-i-lugansk-berdiansk-ta-regioni-rosiyi-ie-masshtabni-vidkliuchennia-svitla",
+     "published": "2026-11-10",
+     "family": "ua",
+     "publishedAt": "2026-11-10T09:12:18+00:00"
+    }
+   ],
+   "timeline": [
+    {
+     "date": "2026-11-10",
+     "text": "UA.News published a report on this incident.",
+     "source": 0
+    }
+   ],
+   "referencePoint": {
+    "lat": 48.57,
+    "lon": 39.31,
+    "level": "city",
+    "name": "Luhansk"
+   },
+   "impactReports": [
+    {
+     "asOf": "2026-11-10T09:12:18+00:00",
+     "n": null,
+     "qual": null,
+     "src": 0,
+     "state": "reported",
+     "type": "power_outage",
+     "via": "UA.News",
+     "who": {
+      "kind": "role",
+      "id": "party"
+     }
+    }
+   ],
+   "series": [],
+   "plainSummary": {},
+   "autoEnrichments": [
+    {
+     "field": "power_outage",
+     "value": {
+      "n": null,
+      "qual": null
+     },
+     "sourceUrl": "https://ua.news/en/war-vs-rf/droni-atakuvali-okupovani-donetsk-i-lugansk-berdiansk-ta-regioni-rosiyi-ie-masshtabni-vidkliuchennia-svitla",
+     "quote": "In the temporarily occupied territory of Luhansk Oblast, a strike on the power grid was reported around 10:22 p.m. Following this, widespread power outages began in Luhansk and other settlements.",
+     "speaker": "Petro Andriushchenko",
+     "role": "party",
+     "asOf": "2026-11-10T09:12:18+00:00",
+     "method": "ai-assisted-source-check",
+     "eventScope": "same-incident",
+     "check": {
+      "checkedAt": "2026-11-10T11:30:48+00:00",
+      "contentHash": "6a7810bfd0f61f3afdec9c882d20f92c16c9932da1aff41c743913abceddc6a8",
+      "finalUrl": "https://ua.news/en/war-vs-rf/droni-atakuvali-okupovani-donetsk-i-lugansk-berdiansk-ta-regioni-rosiyi-ie-masshtabni-vidkliuchennia-svitla",
+      "matchedIn": "article",
+      "robots": "allowed",
+      "digest": "a89e3c3f833c2d6644fd60835c0e16061fc4d8f7e2757f6ff0d5fdaef0602da0"
+     }
+    }
+   ],
+   "revision": 2,
+   "media": [],
+   "operationalEffects": [],
+   "followUp": [],
+   "archiveEntity": null,
+   "namedLocation": null,
+   "publisherMedia": [],
+   "reportTiming": null,
+   "archivePattern": null,
+   "assessment": null,
+   "outcome": [],
+   "assessment_scale_version": null,
+   "assessment_operator_subject": null,
+   "assessment_operator_level": null,
+   "assessment_operator_range_low": null,
+   "assessment_operator_range_high": null,
+   "assessment_target_subject": null,
+   "assessment_target_level": null,
+   "assessment_target_range_low": null,
+   "assessment_target_range_high": null,
+   "assessment_droneType_subject": null,
+   "assessment_droneType_level": null,
+   "assessment_droneType_range_low": null,
+   "assessment_droneType_range_high": null,
+   "eventFacts": [],
+   "history": [
+    {
+     "revision": 2,
+     "date": "2026-11-10",
+     "at": "2026-11-10T10:24:32.790+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    }
+   ]
+  },
+  {
+   "id": "auto-ua-2026-11-10-65e6e69b38",
+   "title": "Drone report in Ladyzhyn, Ukraine",
+   "place": "Ladyzhyn",
+   "country": "Ukraine",
+   "countryCode": "UA",
+   "scope": "single",
+   "review": "auto",
+   "corroboration": "single",
+   "dateKind": "event",
+   "date": "2026-11-10",
+   "category": "conflict",
+   "droneStatus": "reported",
+   "impactStatus": "reported",
+   "attributionStatus": "none",
+   "lat": null,
+   "lon": null,
+   "locationPrecision": "unknown",
+   "checkedAt": null,
+   "autoCheckedAt": "2026-11-10",
+   "updatedAt": "2026-11-10",
+   "summary": "According to Kyiv Post, drones were reported in Ladyzhyn, Ukraine on 10 November 2026.",
+   "impact": "According to an official source of an involved party, via Kyiv Post, as of 10 Nov 2026 12:55 UTC+02:00: civilian infrastructure damage and energy infrastructure damage.",
+   "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
+   "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
+   "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
+   "windowStart": null,
+   "windowEnd": null,
+   "windowBasis": null,
+   "droneTypes": [],
+   "claims": [],
+   "droneStatusSources": [
+    0
+   ],
+   "impactStatusSources": [
+    0
+   ],
+   "attributionSources": [],
+   "sources": [
+    {
+     "label": "Kyiv Post (2026-11-10)",
+     "url": "https://www.kyivpost.com/post/89668",
+     "published": "2026-11-10",
+     "family": "kyivpost",
+     "publishedAt": "2026-11-10T12:55:41+02:00"
+    }
+   ],
+   "timeline": [
+    {
+     "date": "2026-11-10",
+     "text": "Kyiv Post published a report on this incident.",
+     "source": 0
+    }
+   ],
+   "referencePoint": {
+    "lat": 48.68,
+    "lon": 29.24,
+    "level": "city",
+    "name": "Ladyzhyn"
+   },
+   "impactReports": [
+    {
+     "asOf": "2026-11-10T12:55:41+02:00",
+     "n": null,
+     "qual": null,
+     "src": 0,
+     "state": "reported",
+     "type": "damage_civilian_infrastructure",
+     "via": "Kyiv Post",
+     "who": {
+      "kind": "role",
+      "id": "party"
+     }
+    },
+    {
+     "asOf": "2026-11-10T12:55:41+02:00",
+     "n": null,
+     "qual": null,
+     "src": 0,
+     "state": "reported",
+     "type": "damage_energy",
+     "via": "Kyiv Post",
+     "who": {
+      "kind": "role",
+      "id": "party"
+     }
+    }
+   ],
+   "series": [],
+   "plainSummary": {},
+   "autoEnrichments": [],
+   "revision": 2,
+   "media": [],
+   "operationalEffects": [],
+   "followUp": [],
+   "archiveEntity": null,
+   "namedLocation": null,
+   "publisherMedia": [],
+   "reportTiming": null,
+   "archivePattern": null,
+   "assessment": null,
+   "outcome": [],
+   "assessment_scale_version": null,
+   "assessment_operator_subject": null,
+   "assessment_operator_level": null,
+   "assessment_operator_range_low": null,
+   "assessment_operator_range_high": null,
+   "assessment_target_subject": null,
+   "assessment_target_level": null,
+   "assessment_target_range_low": null,
+   "assessment_target_range_high": null,
+   "assessment_droneType_subject": null,
+   "assessment_droneType_level": null,
+   "assessment_droneType_range_low": null,
+   "assessment_droneType_range_high": null,
+   "eventFacts": [],
+   "history": [
+    {
+     "revision": 2,
+     "date": "2026-11-10",
+     "at": "2026-11-10T12:23:56.094+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    }
+   ]
+  },
+  {
+   "id": "auto-ua-2026-11-10-473a82a175",
+   "title": "Drone report in Donetsk, Ukraine",
+   "place": "Donetsk",
+   "country": "Ukraine",
+   "countryCode": "UA",
+   "scope": "single",
+   "review": "auto",
+   "corroboration": "single",
+   "dateKind": "event",
+   "date": "2026-11-10",
+   "category": "conflict",
+   "droneStatus": "reported",
+   "impactStatus": "reported",
+   "attributionStatus": "none",
+   "lat": null,
+   "lon": null,
+   "locationPrecision": "unknown",
+   "checkedAt": null,
+   "autoCheckedAt": "2026-11-10",
+   "updatedAt": "2026-11-10",
+   "summary": "According to UA.News, drones were reported in Donetsk, Ukraine on 10 November 2026.",
+   "impact": "According to an official source of an involved party, via UA.News, as of 10 Nov 2026 09:12 UTC+00:00: power outage.",
+   "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
+   "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
+   "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
+   "windowStart": null,
+   "windowEnd": null,
+   "windowBasis": null,
+   "droneTypes": [],
+   "claims": [],
+   "droneStatusSources": [
+    0
+   ],
+   "impactStatusSources": [
+    0
+   ],
+   "attributionSources": [],
+   "sources": [
+    {
+     "label": "UA.News (2026-11-10)",
+     "url": "https://ua.news/en/war-vs-rf/droni-atakuvali-okupovani-donetsk-i-lugansk-berdiansk-ta-regioni-rosiyi-ie-masshtabni-vidkliuchennia-svitla",
+     "published": "2026-11-10",
+     "family": "ua",
+     "publishedAt": "2026-11-10T09:12:18+00:00"
+    }
+   ],
+   "timeline": [
+    {
+     "date": "2026-11-10",
+     "text": "UA.News published a report on this incident.",
+     "source": 0
+    }
+   ],
+   "referencePoint": {
+    "lat": 48.02,
+    "lon": 37.8,
+    "level": "city",
+    "name": "Donetsk"
+   },
+   "impactReports": [
+    {
+     "asOf": "2026-11-10T09:12:18+00:00",
+     "n": null,
+     "qual": null,
+     "src": 0,
+     "state": "reported",
+     "type": "power_outage",
+     "via": "UA.News",
+     "who": {
+      "kind": "role",
+      "id": "party"
+     }
+    }
+   ],
+   "series": [],
+   "plainSummary": {},
+   "autoEnrichments": [
+    {
+     "field": "power_outage",
+     "value": {
+      "n": null,
+      "qual": null
+     },
+     "sourceUrl": "https://ua.news/en/war-vs-rf/droni-atakuvali-okupovani-donetsk-i-lugansk-berdiansk-ta-regioni-rosiyi-ie-masshtabni-vidkliuchennia-svitla",
+     "quote": "In Donetsk, after strikes in the Petrovsky district, nearly the entire city was left without power.",
+     "speaker": "Petro Andriushchenko",
+     "role": "party",
+     "asOf": "2026-11-10T09:12:18+00:00",
+     "method": "ai-assisted-source-check",
+     "eventScope": "same-incident",
+     "check": {
+      "checkedAt": "2026-11-10T11:30:48+00:00",
+      "contentHash": "6a7810bfd0f61f3afdec9c882d20f92c16c9932da1aff41c743913abceddc6a8",
+      "finalUrl": "https://ua.news/en/war-vs-rf/droni-atakuvali-okupovani-donetsk-i-lugansk-berdiansk-ta-regioni-rosiyi-ie-masshtabni-vidkliuchennia-svitla",
+      "matchedIn": "article",
+      "robots": "allowed",
+      "digest": "a293d6c2a7572f85e991859209cb689bc19f990fc357ac09f193ca51c45a5530"
+     }
+    }
+   ],
+   "revision": 2,
+   "media": [],
+   "operationalEffects": [],
+   "followUp": [],
+   "archiveEntity": null,
+   "namedLocation": null,
+   "publisherMedia": [],
+   "reportTiming": null,
+   "archivePattern": null,
+   "assessment": null,
+   "outcome": [],
+   "assessment_scale_version": null,
+   "assessment_operator_subject": null,
+   "assessment_operator_level": null,
+   "assessment_operator_range_low": null,
+   "assessment_operator_range_high": null,
+   "assessment_target_subject": null,
+   "assessment_target_level": null,
+   "assessment_target_range_low": null,
+   "assessment_target_range_high": null,
+   "assessment_droneType_subject": null,
+   "assessment_droneType_level": null,
+   "assessment_droneType_range_low": null,
+   "assessment_droneType_range_high": null,
+   "eventFacts": [],
+   "history": [
+    {
+     "revision": 2,
+     "date": "2026-11-10",
+     "at": "2026-11-10T10:24:24.016+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    }
+   ]
+  },
+  {
+   "id": "auto-ua-2026-11-10-3c17bc22e3",
+   "title": "Drone report in Berdyansk, Ukraine",
+   "place": "Berdyansk",
+   "country": "Ukraine",
+   "countryCode": "UA",
+   "scope": "single",
+   "review": "auto",
+   "corroboration": "single",
+   "dateKind": "event",
+   "date": "2026-11-10",
+   "category": "conflict",
+   "droneStatus": "reported",
+   "impactStatus": "unknown",
+   "attributionStatus": "none",
+   "lat": null,
+   "lon": null,
+   "locationPrecision": "unknown",
+   "checkedAt": null,
+   "autoCheckedAt": "2026-11-10",
+   "updatedAt": "2026-11-10T11:30:48+00:00",
+   "summary": "According to UA.News, drones were reported in Berdyansk, Ukraine on 10 Nov 2026. According to UA.News, citing local residents: an explosion was reported.",
+   "impact": "No eligible attributed impact claim is included; this does not mean no impact occurred.",
+   "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
+   "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
+   "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
+   "windowStart": null,
+   "windowEnd": null,
+   "windowBasis": null,
+   "droneTypes": [],
+   "claims": [],
+   "droneStatusSources": [
+    0
+   ],
+   "impactStatusSources": [],
+   "attributionSources": [],
+   "sources": [
+    {
+     "label": "UA.News (2026-11-10)",
+     "url": "https://ua.news/en/war-vs-rf/droni-atakuvali-okupovani-donetsk-i-lugansk-berdiansk-ta-regioni-rosiyi-ie-masshtabni-vidkliuchennia-svitla",
+     "published": "2026-11-10",
+     "family": "ua",
+     "publishedAt": "2026-11-10T09:12:18+00:00"
+    }
+   ],
+   "timeline": [
+    {
+     "date": "2026-11-10",
+     "text": "UA.News published a report on this incident.",
+     "source": 0
+    }
+   ],
+   "referencePoint": {
+    "lat": 46.76,
+    "lon": 36.79,
+    "level": "city",
+    "name": "Berdyansk"
+   },
+   "impactReports": [],
+   "series": [],
+   "plainSummary": {},
+   "autoEnrichments": [
+    {
+     "field": "eventFacts",
+     "value": {
+      "kind": "exploded",
+      "sourceIndex": 0,
+      "support": "local residents reported powerful explosions in the Mayak area.",
+      "frame": {
+       "quote": "On the night of November 10, drones attacked the temporarily occupied territories of Ukraine and a number of regions in Russia. The strikes caused widespread power outages in Donetsk and Luhansk. Residents of Berdyansk, Sevastopol, and the Novgorod region also reported explosions.\nIn Donetsk, after strikes in the Petrovsky district, nearly the entire city was left without power.\nIn the temporarily occupied territory of Luhansk Oblast, a strike on the power grid was reported around 10:22 p.m. Following this, widespread power outages began in Luhansk and other settlements.\nThe occupying administration confirmed disruptions to the power supply as a result of drone attacks.\nHowever, the number of customers left without power, the extent of the damage, and the estimated time for restoring power are currently unknown.\nIn the temporarily occupied city of Berdyansk, local residents reported powerful explosions in the Mayak area.",
+       "place": "Berdyansk",
+       "date": "November 10"
+      }
+     },
+     "sourceUrl": "https://ua.news/en/war-vs-rf/droni-atakuvali-okupovani-donetsk-i-lugansk-berdiansk-ta-regioni-rosiyi-ie-masshtabni-vidkliuchennia-svitla",
+     "quote": "In the temporarily occupied city of Berdyansk, local residents reported powerful explosions in the Mayak area.",
+     "speaker": "Local residents",
+     "role": "witness",
+     "asOf": "2026-11-10T09:12:18+00:00",
+     "method": "ai-assisted-source-check",
+     "eventScope": "same-incident",
+     "check": {
+      "checkedAt": "2026-11-10T11:30:48+00:00",
+      "contentHash": "6a7810bfd0f61f3afdec9c882d20f92c16c9932da1aff41c743913abceddc6a8",
+      "finalUrl": "https://ua.news/en/war-vs-rf/droni-atakuvali-okupovani-donetsk-i-lugansk-berdiansk-ta-regioni-rosiyi-ie-masshtabni-vidkliuchennia-svitla",
+      "matchedIn": "article",
+      "robots": "allowed",
+      "digest": "cc74ce08eb42246ab4637bab3e8e1cd4ee8d00b9ca44c190ac2e1bcb69c945ca"
+     }
+    }
+   ],
+   "revision": 2,
+   "media": [],
+   "operationalEffects": [],
+   "followUp": [],
+   "archiveEntity": null,
+   "namedLocation": null,
+   "publisherMedia": [],
+   "reportTiming": null,
+   "archivePattern": null,
+   "assessment": null,
+   "outcome": [],
+   "assessment_scale_version": null,
+   "assessment_operator_subject": null,
+   "assessment_operator_level": null,
+   "assessment_operator_range_low": null,
+   "assessment_operator_range_high": null,
+   "assessment_target_subject": null,
+   "assessment_target_level": null,
+   "assessment_target_range_low": null,
+   "assessment_target_range_high": null,
+   "assessment_droneType_subject": null,
+   "assessment_droneType_level": null,
+   "assessment_droneType_range_low": null,
+   "assessment_droneType_range_high": null,
+   "eventFacts": [
+    {
+     "kind": "exploded",
+     "sourceIndex": 0,
+     "support": "local residents reported powerful explosions in the Mayak area.",
+     "frame": {
+      "quote": "On the night of November 10, drones attacked the temporarily occupied territories of Ukraine and a number of regions in Russia. The strikes caused widespread power outages in Donetsk and Luhansk. Residents of Berdyansk, Sevastopol, and the Novgorod region also reported explosions.\nIn Donetsk, after strikes in the Petrovsky district, nearly the entire city was left without power.\nIn the temporarily occupied territory of Luhansk Oblast, a strike on the power grid was reported around 10:22 p.m. Following this, widespread power outages began in Luhansk and other settlements.\nThe occupying administration confirmed disruptions to the power supply as a result of drone attacks.\nHowever, the number of customers left without power, the extent of the damage, and the estimated time for restoring power are currently unknown.\nIn the temporarily occupied city of Berdyansk, local residents reported powerful explosions in the Mayak area.",
+      "place": "Berdyansk",
+      "date": "November 10"
+     },
+     "quote": "In the temporarily occupied city of Berdyansk, local residents reported powerful explosions in the Mayak area.",
+     "speaker": "Local residents",
+     "role": "witness",
+     "sourceUrl": "https://ua.news/en/war-vs-rf/droni-atakuvali-okupovani-donetsk-i-lugansk-berdiansk-ta-regioni-rosiyi-ie-masshtabni-vidkliuchennia-svitla",
+     "asOf": "2026-11-10T09:12:18+00:00",
+     "method": "ai-assisted-source-check",
+     "eventScope": "same-incident",
+     "checkedAt": "2026-11-10T11:30:48+00:00"
+    }
+   ],
+   "history": [
+    {
+     "revision": 2,
+     "date": "2026-11-10",
+     "at": "2026-11-10T10:24:21.664+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    }
+   ]
+  },
+  {
+   "id": "auto-ua-2026-11-10-16c7fe2348",
+   "title": "Drone report in Sumy, Ukraine",
+   "place": "Sumy",
+   "country": "Ukraine",
+   "countryCode": "UA",
+   "scope": "single",
+   "review": "auto",
+   "corroboration": "multiple",
+   "dateKind": "event",
+   "date": "2026-11-10",
+   "category": "conflict",
+   "droneStatus": "reported",
+   "impactStatus": "unknown",
+   "attributionStatus": "none",
+   "lat": null,
+   "lon": null,
+   "locationPrecision": "unknown",
+   "checkedAt": null,
+   "autoCheckedAt": "2026-11-10",
+   "updatedAt": "2026-11-10",
+   "summary": "According to a cited source, drones were reported in Sumy, Ukraine on 10 November 2026. According to a cited source (reported by Espreso), drones were reported in Sumy, Ukraine on 10 November 2026.",
+   "impact": "No eligible attributed impact claim is included; this does not mean no impact occurred.",
+   "evidence": "Automatically compiled and published from 2 cited articles that each report drone presence at this place and date. An automatic check found them to describe the same incident and found claims that appear to come from at least two different sources; that independence has not been established by an editor. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
+   "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
+   "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
+   "windowStart": null,
+   "windowEnd": null,
+   "windowBasis": null,
+   "droneTypes": [],
+   "claims": [],
+   "droneStatusSources": [
+    0,
+    1
+   ],
+   "impactStatusSources": [],
+   "attributionSources": [],
+   "sources": [
+    {
+     "label": "Interfax-Ukraine (2026-11-10)",
+     "url": "https://interfax.com.ua/news/general/1233812.html",
+     "published": "2026-11-10",
+     "family": "interfax",
+     "publishedAt": "2026-11-10T09:30:44.424999+02:00"
+    },
+    {
+     "label": "Espreso (2026-11-10)",
+     "url": "https://espreso.tv/viyna-z-rosiyeyu-rf-udarila-po-tsivilniy-infarstrukturi-kropivnitskogo-u-misti-e-poraneni",
+     "published": "2026-11-10",
+     "family": "espreso",
+     "publishedAt": "2026-11-10T10:18:00+02:00"
+    }
+   ],
+   "timeline": [
+    {
+     "date": "2026-11-10",
+     "text": "Interfax-Ukraine published a report on this incident.",
+     "source": 0
+    },
+    {
+     "date": "2026-11-10",
+     "text": "Espreso published a report on this incident.",
+     "source": 1
+    }
+   ],
+   "referencePoint": {
+    "lat": 50.92,
+    "lon": 34.8,
+    "level": "city",
+    "name": "Sumy"
+   },
+   "impactReports": [],
+   "series": [],
+   "plainSummary": {},
+   "autoEnrichments": [],
+   "revision": 8,
+   "media": [],
+   "operationalEffects": [],
+   "followUp": [],
+   "archiveEntity": null,
+   "namedLocation": null,
+   "publisherMedia": [],
+   "reportTiming": null,
+   "archivePattern": null,
+   "assessment": null,
+   "outcome": [],
+   "assessment_scale_version": null,
+   "assessment_operator_subject": null,
+   "assessment_operator_level": null,
+   "assessment_operator_range_low": null,
+   "assessment_operator_range_high": null,
+   "assessment_target_subject": null,
+   "assessment_target_level": null,
+   "assessment_target_range_low": null,
+   "assessment_target_range_high": null,
+   "assessment_droneType_subject": null,
+   "assessment_droneType_level": null,
+   "assessment_droneType_range_low": null,
+   "assessment_droneType_range_high": null,
+   "eventFacts": [],
+   "history": [
+    {
+     "revision": 8,
+     "date": "2026-11-10",
+     "at": "2026-11-10T15:23:43.240+00:00",
+     "note": "Updated automatically after the new revision passed the automatic checks. (Source revision 7.)"
+    },
+    {
+     "revision": 6,
+     "date": "2026-11-10",
+     "at": "2026-11-10T14:24:12.595+00:00",
+     "note": "Updated automatically after the new revision passed the automatic checks. (Source revision 5.)"
+    },
+    {
+     "revision": 4,
+     "date": "2026-11-10",
+     "at": "2026-11-10T13:25:01.270+00:00",
+     "note": "Updated automatically after the new revision passed the automatic checks. (Source revision 3.)"
+    },
+    {
+     "revision": 2,
+     "date": "2026-11-10",
+     "at": "2026-11-10T12:24:17.994+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    }
+   ]
+  },
   {
    "id": "auto-ru-2026-11-10-658ea6c408",
    "title": "Drone report in Staraya Russa, Russia",
@@ -29,8 +1148,8 @@
    "locationPrecision": "unknown",
    "checkedAt": null,
    "autoCheckedAt": "2026-11-10",
-   "updatedAt": "2026-11-10",
-   "summary": "According to The Kyiv Independent, drones were reported in Staraya Russa, Russia on 10 November 2026.",
+   "updatedAt": "2026-11-10T11:30:48+00:00",
+   "summary": "According to The Kyiv Independent, drones were reported in Staraya Russa, Russia on 10 Nov 2026. According to The Kyiv Independent, citing Exilenova+: an explosion was reported.",
    "impact": "No eligible attributed impact claim is included; this does not mean no impact occurred.",
    "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
    "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
@@ -70,6 +1189,156 @@
    "impactReports": [],
    "series": [],
    "plainSummary": {},
+   "autoEnrichments": [
+    {
+     "field": "eventFacts",
+     "value": {
+      "kind": "exploded",
+      "sourceIndex": 0,
+      "support": "A series of explosions was reported in Russia's Novgorod Oblast overnight on Nov. 10",
+      "frame": {
+       "quote": "November 10, 2026 5:36 am • 2 min readPreferon Googleby Olena Goncharova\nA series of explosions was reported in Russia's Novgorod Oblast overnight on Nov. 10, with a military aircraft repair plant potentially targeted in a Ukrainian drone attack, according to the Exilenova+ Telegram monitoring channel.\nThe reported target was the 123rd Aircraft Repair Plant in the town of Staraya Russa, which specializes in repairing and maintaining Russian military transport aircraft, including Il-76, Il-78, and L-410 planes, as well as aircraft engines.",
+       "place": "Staraya Russa",
+       "date": "November 10"
+      }
+     },
+     "sourceUrl": "https://kyivindependent.com/explosions-reported-near-russian-aircraft-repair-plant-in-novgorod-oblast-as-drones-target-occupied-crimea/",
+     "quote": "A series of explosions was reported in Russia's Novgorod Oblast overnight on Nov. 10",
+     "speaker": "Exilenova+",
+     "role": "publisher",
+     "asOf": "2026-11-10T03:36:00.000Z",
+     "method": "ai-assisted-source-check",
+     "eventScope": "same-incident",
+     "check": {
+      "checkedAt": "2026-11-10T11:30:48+00:00",
+      "contentHash": "546e84ac3fe7b19161fa14f94cddc476e3358de47191dfc60fa9c25496abc4eb",
+      "finalUrl": "https://kyivindependent.com/explosions-reported-near-russian-aircraft-repair-plant-in-novgorod-oblast-as-drones-target-occupied-crimea/",
+      "matchedIn": "article",
+      "robots": "allowed",
+      "digest": "15b684fd7f54b77db2ff1c1411d42b3e66b6ec18de47ca777f0754a525993800"
+     }
+    }
+   ],
+   "revision": 4,
+   "media": [],
+   "operationalEffects": [],
+   "followUp": [],
+   "archiveEntity": null,
+   "namedLocation": null,
+   "publisherMedia": [],
+   "reportTiming": null,
+   "archivePattern": null,
+   "assessment": null,
+   "outcome": [],
+   "assessment_scale_version": null,
+   "assessment_operator_subject": null,
+   "assessment_operator_level": null,
+   "assessment_operator_range_low": null,
+   "assessment_operator_range_high": null,
+   "assessment_target_subject": null,
+   "assessment_target_level": null,
+   "assessment_target_range_low": null,
+   "assessment_target_range_high": null,
+   "assessment_droneType_subject": null,
+   "assessment_droneType_level": null,
+   "assessment_droneType_range_low": null,
+   "assessment_droneType_range_high": null,
+   "eventFacts": [
+    {
+     "kind": "exploded",
+     "sourceIndex": 0,
+     "support": "A series of explosions was reported in Russia's Novgorod Oblast overnight on Nov. 10",
+     "frame": {
+      "quote": "November 10, 2026 5:36 am • 2 min readPreferon Googleby Olena Goncharova\nA series of explosions was reported in Russia's Novgorod Oblast overnight on Nov. 10, with a military aircraft repair plant potentially targeted in a Ukrainian drone attack, according to the Exilenova+ Telegram monitoring channel.\nThe reported target was the 123rd Aircraft Repair Plant in the town of Staraya Russa, which specializes in repairing and maintaining Russian military transport aircraft, including Il-76, Il-78, and L-410 planes, as well as aircraft engines.",
+      "place": "Staraya Russa",
+      "date": "November 10"
+     },
+     "quote": "A series of explosions was reported in Russia's Novgorod Oblast overnight on Nov. 10",
+     "speaker": "Exilenova+",
+     "role": "publisher",
+     "sourceUrl": "https://kyivindependent.com/explosions-reported-near-russian-aircraft-repair-plant-in-novgorod-oblast-as-drones-target-occupied-crimea/",
+     "asOf": "2026-11-10T03:36:00.000Z",
+     "method": "ai-assisted-source-check",
+     "eventScope": "same-incident",
+     "checkedAt": "2026-11-10T11:30:48+00:00"
+    }
+   ],
+   "history": [
+    {
+     "revision": 4,
+     "date": "2026-11-10",
+     "at": "2026-11-10T09:24:14.362+00:00",
+     "note": "Updated automatically after the new revision passed the automatic checks. (Source revision 3.)"
+    },
+    {
+     "revision": 2,
+     "date": "2026-11-10",
+     "at": "2026-11-10T04:23:15.632+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    }
+   ]
+  },
+  {
+   "id": "auto-ru-2026-11-10-2a3ffdf745",
+   "title": "Drone report in Yartsevo, Russia",
+   "place": "Yartsevo",
+   "country": "Russia",
+   "countryCode": "RU",
+   "scope": "single",
+   "review": "auto",
+   "corroboration": "single",
+   "dateKind": "event",
+   "date": "2026-11-10",
+   "category": "conflict",
+   "droneStatus": "reported",
+   "impactStatus": "unknown",
+   "attributionStatus": "none",
+   "lat": null,
+   "lon": null,
+   "locationPrecision": "unknown",
+   "checkedAt": null,
+   "autoCheckedAt": "2026-11-10",
+   "updatedAt": "2026-11-10",
+   "summary": "According to tatarstan-news.ru, drones were reported in Yartsevo, Russia on 10 November 2026.",
+   "impact": "No eligible attributed impact claim is included; this does not mean no impact occurred.",
+   "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
+   "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
+   "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
+   "windowStart": null,
+   "windowEnd": null,
+   "windowBasis": null,
+   "droneTypes": [],
+   "claims": [],
+   "droneStatusSources": [
+    0
+   ],
+   "impactStatusSources": [],
+   "attributionSources": [],
+   "sources": [
+    {
+     "label": "tatarstan-news.ru (2026-11-11)",
+     "url": "https://tatarstan-news.ru/society/2026/11/11/59520.html",
+     "published": "2026-11-11",
+     "family": "tatarstan-news",
+     "publishedAt": "2026-11-11T00:30:20+03:00"
+    }
+   ],
+   "timeline": [
+    {
+     "date": "2026-11-11",
+     "text": "tatarstan-news.ru published a report on this incident.",
+     "source": 0
+    }
+   ],
+   "referencePoint": {
+    "lat": 55.06,
+    "lon": 32.7,
+    "level": "city",
+    "name": "Yartsevo"
+   },
+   "impactReports": [],
+   "series": [],
+   "plainSummary": {},
    "autoEnrichments": [],
    "revision": 2,
    "media": [],
@@ -100,7 +1369,103 @@
     {
      "revision": 2,
      "date": "2026-11-10",
-     "at": "2026-11-10T04:23:15.632+00:00",
+     "at": "2026-11-10T22:23:48.889+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    }
+   ]
+  },
+  {
+   "id": "auto-ua-2026-11-09-86901b8504",
+   "title": "Drone report in Kherson, Ukraine",
+   "place": "Kherson",
+   "country": "Ukraine",
+   "countryCode": "UA",
+   "scope": "single",
+   "review": "auto",
+   "corroboration": "single",
+   "dateKind": "event",
+   "date": "2026-11-09",
+   "category": "conflict",
+   "droneStatus": "reported",
+   "impactStatus": "unknown",
+   "attributionStatus": "none",
+   "lat": null,
+   "lon": null,
+   "locationPrecision": "unknown",
+   "checkedAt": null,
+   "autoCheckedAt": "2026-11-10",
+   "updatedAt": "2026-11-10",
+   "summary": "According to Ukrinform, drones were reported in Kherson, Ukraine on 9 November 2026.",
+   "impact": "No eligible attributed impact claim is included; this does not mean no impact occurred.",
+   "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
+   "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
+   "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
+   "windowStart": null,
+   "windowEnd": null,
+   "windowBasis": null,
+   "droneTypes": [],
+   "claims": [],
+   "droneStatusSources": [
+    0
+   ],
+   "impactStatusSources": [],
+   "attributionSources": [],
+   "sources": [
+    {
+     "label": "Ukrinform (2026-11-10)",
+     "url": "https://www.ukrinform.ua/rubric-regions/4183173-dronovij-teror-aviaudari-ta-artobstrili-na-hersonsini-za-dobu-odna-ludina-zaginula-sestero-poraneni.html",
+     "published": "2026-11-10",
+     "family": "ukrinform",
+     "publishedAt": "2026-11-10T08:36:44+02:00"
+    }
+   ],
+   "timeline": [
+    {
+     "date": "2026-11-10",
+     "text": "Ukrinform published a report on this incident.",
+     "source": 0
+    }
+   ],
+   "referencePoint": {
+    "lat": 46.64,
+    "lon": 32.61,
+    "level": "city",
+    "name": "Kherson"
+   },
+   "impactReports": [],
+   "series": [],
+   "plainSummary": {},
+   "autoEnrichments": [],
+   "revision": 2,
+   "media": [],
+   "operationalEffects": [],
+   "followUp": [],
+   "archiveEntity": null,
+   "namedLocation": null,
+   "publisherMedia": [],
+   "reportTiming": null,
+   "archivePattern": null,
+   "assessment": null,
+   "outcome": [],
+   "assessment_scale_version": null,
+   "assessment_operator_subject": null,
+   "assessment_operator_level": null,
+   "assessment_operator_range_low": null,
+   "assessment_operator_range_high": null,
+   "assessment_target_subject": null,
+   "assessment_target_level": null,
+   "assessment_target_range_low": null,
+   "assessment_target_range_high": null,
+   "assessment_droneType_subject": null,
+   "assessment_droneType_level": null,
+   "assessment_droneType_range_low": null,
+   "assessment_droneType_range_high": null,
+   "eventFacts": [],
+   "history": [
+    {
+     "revision": 2,
+     "date": "2026-11-10",
+     "at": "2026-11-10T07:25:21.266+00:00",
      "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
     }
    ]
@@ -125,8 +1490,8 @@
    "locationPrecision": "unknown",
    "checkedAt": null,
    "autoCheckedAt": "2026-11-10",
-   "updatedAt": "2026-11-10",
-   "summary": "According to a cited source (reported by UA.News), drones were reported in Kharkiv region, Ukraine on 9 November 2026.",
+   "updatedAt": "2026-11-10T11:30:48+00:00",
+   "summary": "According to an official source of an involved party (reported by UA.News), drones were reported in Kharkiv region, Ukraine on 09 Nov 2026. According to UA.News, citing Serhiy Starikov: the drone is named as Banderole; damage was reported to a residential building.",
    "impact": "According to an official source of an involved party, via UA.News, as of 09 Nov 2026 17:23 UTC+00:00: civilian infrastructure damage.",
    "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
    "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
@@ -182,7 +1547,66 @@
    ],
    "series": [],
    "plainSummary": {},
-   "autoEnrichments": [],
+   "autoEnrichments": [
+    {
+     "field": "eventFacts",
+     "value": {
+      "kind": "drone_model_named",
+      "sourceIndex": 0,
+      "support": "Russian troops attacked the village of Shevchenkove in the Kharkiv region with “Banderole” rocket-powered drones.",
+      "frame": {
+       "quote": "On Monday, November 9, Russian troops attacked the village of Shevchenkove in the Kharkiv region with “Banderole” rocket-powered drones. The attack left several people wounded and caused damage to a “Nova Poshta” branch and a local store.",
+       "place": "Kharkiv region",
+       "date": "November 9"
+      },
+      "name": "Banderole"
+     },
+     "sourceUrl": "https://ua.news/en/war-vs-rf/rf-vdarila-reaktivnimi-dronami-po-kharkivshchini-poshkodzheno-viddilennia-novoyi-poshti",
+     "quote": "On Monday, November 9, Russian troops attacked the village of Shevchenkove in the Kharkiv region with “Banderole” rocket-powered drones.",
+     "speaker": "Serhiy Starikov",
+     "role": "party",
+     "asOf": "2026-11-09T17:23:27+00:00",
+     "method": "ai-assisted-source-check",
+     "eventScope": "same-incident",
+     "check": {
+      "checkedAt": "2026-11-10T11:30:48+00:00",
+      "contentHash": "70632f03e99c5225470958845ddb19cabe5db8d840070da6fb612d8045a83da8",
+      "finalUrl": "https://ua.news/en/war-vs-rf/rf-vdarila-reaktivnimi-dronami-po-kharkivshchini-poshkodzheno-viddilennia-novoyi-poshti",
+      "matchedIn": "article",
+      "robots": "allowed",
+      "digest": "612b44b8ad76300ea871bdddb3f0bfd09c9488a68cb020a9a77340d738527efd"
+     }
+    },
+    {
+     "field": "eventFacts",
+     "value": {
+      "kind": "damage_material",
+      "sourceIndex": 0,
+      "support": "Adjacent residential buildings were damaged",
+      "frame": {
+       "quote": "On Monday, November 9, Russian troops attacked the village of Shevchenkove in the Kharkiv region with “Banderole” rocket-powered drones. The attack left several people wounded and caused damage to a “Nova Poshta” branch and a local store.\n“Our community has once again suffered an enemy attack. The Russian occupiers continue to terrorize the civilian population, striking the Shevchenkove area, destroying homes and infrastructure, and attempting to sow fear and panic among the people,” he said.\nStarikov reported that between 1:00 p.m. and 2:00 p.m., the Russians struck a store in the center of the village and a “Nova Poshta” branch with several “Banderole” rocket-powered drones. Adjacent residential buildings were damaged, and there are injured people.",
+       "place": "Kharkiv region",
+       "date": "November 9"
+      },
+      "object": "residential_building"
+     },
+     "sourceUrl": "https://ua.news/en/war-vs-rf/rf-vdarila-reaktivnimi-dronami-po-kharkivshchini-poshkodzheno-viddilennia-novoyi-poshti",
+     "quote": "Adjacent residential buildings were damaged, and there are injured people.",
+     "speaker": "Serhiy Starikov",
+     "role": "party",
+     "asOf": "2026-11-09T17:23:27+00:00",
+     "method": "ai-assisted-source-check",
+     "eventScope": "same-incident",
+     "check": {
+      "checkedAt": "2026-11-10T11:30:48+00:00",
+      "contentHash": "70632f03e99c5225470958845ddb19cabe5db8d840070da6fb612d8045a83da8",
+      "finalUrl": "https://ua.news/en/war-vs-rf/rf-vdarila-reaktivnimi-dronami-po-kharkivshchini-poshkodzheno-viddilennia-novoyi-poshti",
+      "matchedIn": "article",
+      "robots": "allowed",
+      "digest": "2f68d484464145ee7c5f47e35653668d53d4fe3f26a10ea69f6bd5dd8f7585d9"
+     }
+    }
+   ],
    "revision": 2,
    "media": [],
    "operationalEffects": [],
@@ -207,7 +1631,46 @@
    "assessment_droneType_level": null,
    "assessment_droneType_range_low": null,
    "assessment_droneType_range_high": null,
-   "eventFacts": [],
+   "eventFacts": [
+    {
+     "kind": "drone_model_named",
+     "sourceIndex": 0,
+     "support": "Russian troops attacked the village of Shevchenkove in the Kharkiv region with “Banderole” rocket-powered drones.",
+     "frame": {
+      "quote": "On Monday, November 9, Russian troops attacked the village of Shevchenkove in the Kharkiv region with “Banderole” rocket-powered drones. The attack left several people wounded and caused damage to a “Nova Poshta” branch and a local store.",
+      "place": "Kharkiv region",
+      "date": "November 9"
+     },
+     "name": "Banderole",
+     "quote": "On Monday, November 9, Russian troops attacked the village of Shevchenkove in the Kharkiv region with “Banderole” rocket-powered drones.",
+     "speaker": "Serhiy Starikov",
+     "role": "party",
+     "sourceUrl": "https://ua.news/en/war-vs-rf/rf-vdarila-reaktivnimi-dronami-po-kharkivshchini-poshkodzheno-viddilennia-novoyi-poshti",
+     "asOf": "2026-11-09T17:23:27+00:00",
+     "method": "ai-assisted-source-check",
+     "eventScope": "same-incident",
+     "checkedAt": "2026-11-10T11:30:48+00:00"
+    },
+    {
+     "kind": "damage_material",
+     "sourceIndex": 0,
+     "support": "Adjacent residential buildings were damaged",
+     "frame": {
+      "quote": "On Monday, November 9, Russian troops attacked the village of Shevchenkove in the Kharkiv region with “Banderole” rocket-powered drones. The attack left several people wounded and caused damage to a “Nova Poshta” branch and a local store.\n“Our community has once again suffered an enemy attack. The Russian occupiers continue to terrorize the civilian population, striking the Shevchenkove area, destroying homes and infrastructure, and attempting to sow fear and panic among the people,” he said.\nStarikov reported that between 1:00 p.m. and 2:00 p.m., the Russians struck a store in the center of the village and a “Nova Poshta” branch with several “Banderole” rocket-powered drones. Adjacent residential buildings were damaged, and there are injured people.",
+      "place": "Kharkiv region",
+      "date": "November 9"
+     },
+     "object": "residential_building",
+     "quote": "Adjacent residential buildings were damaged, and there are injured people.",
+     "speaker": "Serhiy Starikov",
+     "role": "party",
+     "sourceUrl": "https://ua.news/en/war-vs-rf/rf-vdarila-reaktivnimi-dronami-po-kharkivshchini-poshkodzheno-viddilennia-novoyi-poshti",
+     "asOf": "2026-11-09T17:23:27+00:00",
+     "method": "ai-assisted-source-check",
+     "eventScope": "same-incident",
+     "checkedAt": "2026-11-10T11:30:48+00:00"
+    }
+   ],
    "history": [
     {
      "revision": 2,
@@ -380,6 +1843,110 @@
    ]
   },
   {
+   "id": "auto-ua-2026-11-09-16cf844bfd",
+   "title": "Drone report in Kramatorsk, Ukraine",
+   "place": "Kramatorsk",
+   "country": "Ukraine",
+   "countryCode": "UA",
+   "scope": "single",
+   "review": "auto",
+   "corroboration": "single",
+   "dateKind": "event",
+   "date": "2026-11-09",
+   "category": "conflict",
+   "droneStatus": "reported",
+   "impactStatus": "unknown",
+   "attributionStatus": "none",
+   "lat": null,
+   "lon": null,
+   "locationPrecision": "unknown",
+   "checkedAt": null,
+   "autoCheckedAt": "2026-11-11",
+   "updatedAt": "2026-11-11",
+   "summary": "According to a cited source (reported by Ukrinform), drones were reported in Kramatorsk, Ukraine on 9 November 2026.",
+   "impact": "No eligible attributed impact claim is included; this does not mean no impact occurred.",
+   "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
+   "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
+   "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
+   "windowStart": null,
+   "windowEnd": null,
+   "windowBasis": null,
+   "droneTypes": [
+    {
+     "asReported": "fpv",
+     "type": "fpv-quadcopter",
+     "count": null,
+     "countMetric": null,
+     "sourceIndex": 0
+    }
+   ],
+   "claims": [],
+   "droneStatusSources": [
+    0
+   ],
+   "impactStatusSources": [],
+   "attributionSources": [],
+   "sources": [
+    {
+     "label": "Ukrinform (2026-11-10)",
+     "url": "https://www.ukrinform.ua/rubric-regions/4183475-vorozij-dron-atakuvav-avtivku-komunalnikiv-u-kramatorsku-e-zagiblij-i-poranenij.html",
+     "published": "2026-11-10",
+     "family": "ukrinform",
+     "publishedAt": "2026-11-10T18:50:00+02:00"
+    }
+   ],
+   "timeline": [
+    {
+     "date": "2026-11-10",
+     "text": "Ukrinform published a report on this incident.",
+     "source": 0
+    }
+   ],
+   "referencePoint": {
+    "lat": 48.73,
+    "lon": 37.57,
+    "level": "city",
+    "name": "Kramatorsk"
+   },
+   "impactReports": [],
+   "series": [],
+   "plainSummary": {},
+   "autoEnrichments": [],
+   "revision": 2,
+   "media": [],
+   "operationalEffects": [],
+   "followUp": [],
+   "archiveEntity": null,
+   "namedLocation": null,
+   "publisherMedia": [],
+   "reportTiming": null,
+   "archivePattern": null,
+   "assessment": null,
+   "outcome": [],
+   "assessment_scale_version": null,
+   "assessment_operator_subject": null,
+   "assessment_operator_level": null,
+   "assessment_operator_range_low": null,
+   "assessment_operator_range_high": null,
+   "assessment_target_subject": null,
+   "assessment_target_level": null,
+   "assessment_target_range_low": null,
+   "assessment_target_range_high": null,
+   "assessment_droneType_subject": null,
+   "assessment_droneType_level": null,
+   "assessment_droneType_range_low": null,
+   "assessment_droneType_range_high": null,
+   "eventFacts": [],
+   "history": [
+    {
+     "revision": 2,
+     "date": "2026-11-11",
+     "at": "2026-11-11T04:23:54.590+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    }
+   ]
+  },
+  {
    "id": "auto-ua-2026-11-09-02917a8067",
    "title": "Drone report in Kyiv, Ukraine",
    "place": "Kyiv",
@@ -398,9 +1965,9 @@
    "lon": null,
    "locationPrecision": "unknown",
    "checkedAt": null,
-   "autoCheckedAt": "2026-11-09",
-   "updatedAt": "2026-11-09",
-   "summary": "According to TSN, drones were reported in Kyiv, Ukraine on 9 November 2026. According to Glavcom, drones were reported in Kyiv, Ukraine on 9 November 2026.",
+   "autoCheckedAt": "2026-11-10",
+   "updatedAt": "2026-11-10T16:20:06+00:00",
+   "summary": "According to 24 Kanal, citing Kyiv police: drone debris fell.",
    "impact": "According to a non-involved official body, via Glavcom, as of 09 Nov 2026 12:23 UTC+02:00: civilian infrastructure damage. According to an official source of an involved party, via Glavcom, as of 09 Nov 2026 12:23 UTC+02:00: civilian infrastructure damage. According to The Kyiv City Military Administration, via TSN, as of 09 Nov 2026 11:09 UTC+02:00: damage. According to an official source of an involved party, via TSN, as of 09 Nov 2026 11:09 UTC+02:00: fire.",
    "evidence": "Automatically compiled and published from 2 cited articles that each report drone presence at this place and date. An automatic check found them to describe the same incident and found claims that appear to come from at least two different sources; that independence has not been established by an editor. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
    "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
@@ -433,6 +2000,16 @@
      "published": "2026-11-09",
      "family": "glavcom",
      "publishedAt": "2026-11-09T12:23:00+02:00"
+    },
+    {
+     "label": "24 Kanal",
+     "url": "https://24tv.ua/ataka-kiyiv-9-listopada-ulamki-droniv-vpali-bilya-shkoli_n3176719",
+     "published": "2026-11-09",
+     "family": "kyiv-police",
+     "publisher": "24 Kanal",
+     "language": "uk",
+     "role": "additional reporting",
+     "publishedAt": "2026-11-09T13:56:00+02:00"
     }
    ],
    "timeline": [
@@ -509,8 +2086,37 @@
    ],
    "series": [],
    "plainSummary": {},
-   "autoEnrichments": [],
-   "revision": 6,
+   "autoEnrichments": [
+    {
+     "field": "eventFacts",
+     "value": {
+      "kind": "debris_fell",
+      "sourceIndex": 2,
+      "support": "Уламки безпілотників впали у двох районах.",
+      "frame": {
+       "quote": "9 листопада вранці реактивні дрони атакували Київ. Уламки безпілотників впали у двох районах.\nЗокрема, у Деснянському районі частини дрона впали на відкритій території біля школи. Про це повідомляє поліція.",
+       "place": "Київ",
+       "date": "9 листопада"
+      }
+     },
+     "sourceUrl": "https://24tv.ua/ataka-kiyiv-9-listopada-ulamki-droniv-vpali-bilya-shkoli_n3176719",
+     "quote": "Уламки безпілотників впали у двох районах.",
+     "speaker": "Kyiv police",
+     "role": "party",
+     "asOf": "2026-11-09T13:56:00+02:00",
+     "method": "ai-assisted-source-check",
+     "eventScope": "same-incident",
+     "check": {
+      "checkedAt": "2026-11-10T16:20:06+00:00",
+      "contentHash": "b1cb7c468ed3833929efbe6e84d327ba2f7444a8abd27607018231b0999d6edb",
+      "finalUrl": "https://24tv.ua/ataka-kiyiv-9-listopada-ulamki-droniv-vpali-bilya-shkoli_n3176719",
+      "matchedIn": "article",
+      "robots": "allowed",
+      "digest": "6ba93dd920f4230dd7464932e7d1da5917f3d75eaefae6a7c2bdf84d68c6afae"
+     }
+    }
+   ],
+   "revision": 10,
    "media": [],
    "operationalEffects": [],
    "followUp": [],
@@ -534,8 +2140,45 @@
    "assessment_droneType_level": null,
    "assessment_droneType_range_low": null,
    "assessment_droneType_range_high": null,
-   "eventFacts": [],
+   "eventFacts": [
+    {
+     "kind": "debris_fell",
+     "sourceIndex": 2,
+     "support": "Уламки безпілотників впали у двох районах.",
+     "frame": {
+      "quote": "9 листопада вранці реактивні дрони атакували Київ. Уламки безпілотників впали у двох районах.\nЗокрема, у Деснянському районі частини дрона впали на відкритій території біля школи. Про це повідомляє поліція.",
+      "place": "Київ",
+      "date": "9 листопада"
+     },
+     "quote": "Уламки безпілотників впали у двох районах.",
+     "speaker": "Kyiv police",
+     "role": "party",
+     "sourceUrl": "https://24tv.ua/ataka-kiyiv-9-listopada-ulamki-droniv-vpali-bilya-shkoli_n3176719",
+     "asOf": "2026-11-09T13:56:00+02:00",
+     "method": "ai-assisted-source-check",
+     "eventScope": "same-incident",
+     "checkedAt": "2026-11-10T16:20:06+00:00"
+    }
+   ],
    "history": [
+    {
+     "revision": 10,
+     "date": "2026-11-10",
+     "at": "2026-11-10T16:09:46.147+00:00",
+     "note": "Restored previously reviewed additional sources that an automatic update had dropped: 24 Kanal."
+    },
+    {
+     "revision": 9,
+     "date": "2026-11-10",
+     "at": "2026-11-10T13:24:41.990+00:00",
+     "note": "Updated automatically after the new revision passed the automatic checks. (Source revision 8.)"
+    },
+    {
+     "revision": 7,
+     "date": "2026-11-10",
+     "at": "2026-11-10T11:36:48.117+00:00",
+     "note": "Additional sources checked with AI; existing assessments retained. Added: 24 Kanal."
+    },
     {
      "revision": 6,
      "date": "2026-11-09",
@@ -768,8 +2411,8 @@
    "locationPrecision": "unknown",
    "checkedAt": null,
    "autoCheckedAt": "2026-11-09",
-   "updatedAt": "2026-11-09T23:49:01+00:00",
-   "summary": "According to an official source of an involved party, TSN, an official source of an involved party (reported by Ukrainska Pravda) and Espreso, drones were reported in Kirishi, Russia on 09 Nov 2026. According to RBC-Ukraine, citing Alexander Drozdenko, governor: an evacuation was reported. According to RBC-Ukraine: a fire was reported.",
+   "updatedAt": "2026-11-10T16:20:05+00:00",
+   "summary": "According to an official source of an involved party, TSN, an official source of an involved party (reported by Ukrainska Pravda) and Espreso, drones were reported in Kirishi, Russia on 09 Nov 2026. According to RBC-Ukraine, citing Alexander Drozdenko, governor: an evacuation was reported. According to RBC-Ukraine: a fire was reported. According to vedomosti.ru, citing Alexander Drozdenko: an evacuation was reported. According to The Kyiv Independent, citing Aleksandr Drozdenko: a fire was reported. According to Meduza, citing Alexander Drozdenko: a fire was reported. According to politarena.ua, citing Exilenova+: a fire was reported. According to eaworldview.com, citing EA WorldView: a fire was reported.",
    "impact": "According to an official source of an involved party, via RBC-Ukraine, as of 09 Nov 2026 05:15 UTC+02:00: residential damage. According to RBC-Ukraine, as of 09 Nov 2026 05:15 UTC+02:00: fire.",
    "evidence": "Automatically compiled and published from 4 cited articles that each report drone presence at this place and date. An automatic check found them to describe the same incident and found claims that appear to come from at least two different sources; that independence has not been established by an editor. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
    "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
@@ -817,6 +2460,56 @@
      "published": "2026-11-09",
      "family": "espreso",
      "publishedAt": "2026-11-09T08:00:00+02:00"
+    },
+    {
+     "label": "Ведомости Северо-Запад",
+     "url": "https://spb.vedomosti.ru/society/articles/2026/11/09/1243613-v-nebe-nad-lenoblastyu-za-noch-sbili-113-bespilotnikov",
+     "published": "2026-11-09",
+     "family": "leningrad-governor",
+     "publisher": "Ведомости Северо-Запад",
+     "language": "ru",
+     "role": "additional reporting",
+     "publishedAt": "2026-11-09T11:12:55+03:00"
+    },
+    {
+     "label": "The Kyiv Independent",
+     "url": "https://kyivindependent.com/ukrainian-forces-reportedly-strike-russias-second-largest-oil-refinery-in-overnight-drone-attack/",
+     "published": "2026-11-09",
+     "family": "kyiv-independent",
+     "publisher": "The Kyiv Independent",
+     "language": "en",
+     "role": "additional reporting",
+     "publishedAt": "2026-11-09T04:05:17.000Z"
+    },
+    {
+     "label": "Meduza",
+     "url": "https://meduza.io/en/news/2026/11/09/ukrainian-drones-strike-russia-s-leningrad-region-sparking-fire-at-one-of-the-country-s-largest-oil-refineries",
+     "published": "2026-11-09",
+     "family": "leningrad-governor",
+     "publisher": "Meduza",
+     "language": "en",
+     "role": "additional reporting",
+     "publishedAt": "2026-11-09T09:08:01Z"
+    },
+    {
+     "label": "Політарена",
+     "url": "https://politarena.ua/news/u-rf-vnaslidok-ataky-droniv-horyt-kyryshskyy-npz-shcho-vidomo-pro-naslidky/",
+     "published": "2026-11-09",
+     "family": "deutsche-welle",
+     "publisher": "Політарена",
+     "language": "uk",
+     "role": "additional reporting",
+     "publishedAt": "2026-11-09T09:33:36+02:00"
+    },
+    {
+     "label": "EA WorldView",
+     "url": "https://eaworldview.com/2026/11/ukraine-war-kyiv-attacks-russia-2nd-largest-refinery/",
+     "published": "2026-11-09",
+     "family": "eaworldview",
+     "publisher": "EA WorldView",
+     "language": "en",
+     "role": "additional reporting",
+     "publishedAt": "2026-11-09T06:57:37+00:00"
     }
    ],
    "timeline": [
@@ -933,9 +2626,149 @@
       "robots": "allowed",
       "digest": "375b5dce1762dfbf9ed58a7925cadffe3d2ac20a12bc3a2de36faecec1da7be4"
      }
+    },
+    {
+     "field": "eventFacts",
+     "value": {
+      "kind": "evacuation",
+      "sourceIndex": 4,
+      "support": "Семью эвакуировали",
+      "frame": {
+       "quote": "В Ленинградской области в ночь на 9 ноября объявляли опасность атаки БПЛА. Системы ПВО уничтожили 113 дронов. Во Всеволожске в результате падения обломков беспилотников на крышу многоквартирного дома погибла женщина, находившаяся в квартире на верхнем этаже, сообщил губернатор региона Александр Дрозденко в своем канале в Max.\n«Выражаю глубокие соболезнования семье погибшей. Мы окажем семье погибшей всю необходимую помощь», — отметил губернатор. Остальные жители дома были эвакуированы, для них развернут пункт временного размещения. В настоящее время там находятся четыре человека. Глава области сообщил об угрозе БПЛА в 02:16. К 05:29 тревогу сняли.\nГлава районной администрации Лира Бурак сообщила, что с пяти утра находится на месте происшествия. В ближайшее время должен собраться оперативный штаб.\nВ Киришах также зафиксировали повреждение одной из квартир жилого дома. Семью эвакуировали, по предварительным данным, обошлось без пострадавших. Также в Киришском районе зафиксировано попадание БПЛА по территории предприятия КИНЕФ. В настоящее время пожар локализован. Специалисты устраняют последствия.",
+       "place": "Киришах",
+       "date": "9 ноября"
+      }
+     },
+     "sourceUrl": "https://spb.vedomosti.ru/society/articles/2026/11/09/1243613-v-nebe-nad-lenoblastyu-za-noch-sbili-113-bespilotnikov",
+     "quote": "Семью эвакуировали, по предварительным данным, обошлось без пострадавших.",
+     "speaker": "Alexander Drozdenko",
+     "role": "party",
+     "asOf": "2026-11-09T11:12:55+03:00",
+     "method": "ai-assisted-source-check",
+     "eventScope": "same-incident",
+     "check": {
+      "checkedAt": "2026-11-10T16:19:59+00:00",
+      "contentHash": "32002e96c9886750997c58b58a8da0ad7f8385109941cd9fe2dd9fbe057a76d4",
+      "finalUrl": "https://spb.vedomosti.ru/society/articles/2026/11/09/1243613-v-nebe-nad-lenoblastyu-za-noch-sbili-113-bespilotnikov",
+      "matchedIn": "article",
+      "robots": "allowed",
+      "digest": "fff4b7cc702fd3eb0d7ea53e390d3d6088b6ecd7bc185822ab26a74853335f0d"
+     }
+    },
+    {
+     "field": "eventFacts",
+     "value": {
+      "kind": "fire",
+      "sourceIndex": 5,
+      "support": "Fire erupted on the territory of the refinery after the Ukrainian drone strike",
+      "frame": {
+       "quote": "November 9, 2026 6:05 am • 3 min readPreferon GoogleLby Lachlan Hyatt\nEditor's note: This is a developing story and is being updated.\nA Ukrainian drone attack hit Russia's second-largest oil refinery in Kirishi, Leningrad Oblast, in an overnight attack, regional governor Aleksandr Drozdenko confirmed on Nov. 9.\nFire erupted on the territory of the refinery after the Ukrainian drone strike, but has since been extinguished, according to Drozdenko.",
+       "place": "Kirishi",
+       "date": "November 9"
+      }
+     },
+     "sourceUrl": "https://kyivindependent.com/ukrainian-forces-reportedly-strike-russias-second-largest-oil-refinery-in-overnight-drone-attack/",
+     "quote": "Fire erupted on the territory of the refinery after the Ukrainian drone strike, but has since been extinguished, according to Drozdenko.",
+     "speaker": "Aleksandr Drozdenko",
+     "role": "party",
+     "asOf": "2026-11-09T04:05:17.000Z",
+     "method": "ai-assisted-source-check",
+     "eventScope": "same-incident",
+     "check": {
+      "checkedAt": "2026-11-10T16:19:59+00:00",
+      "contentHash": "a161dd57db89f8c96b044096dc1f812602616f4862bb08c5f945e94f7fa02fee",
+      "finalUrl": "https://kyivindependent.com/ukrainian-forces-reportedly-strike-russias-second-largest-oil-refinery-in-overnight-drone-attack/",
+      "matchedIn": "article",
+      "robots": "allowed",
+      "digest": "f922f367c800cc96fc575fd4159791fe1878955f95a39a089df6bfe89f7c3adb"
+     }
+    },
+    {
+     "field": "eventFacts",
+     "value": {
+      "kind": "fire",
+      "sourceIndex": 6,
+      "support": "drones struck an oil refinery in Kirishi, where a fire broke out.",
+      "frame": {
+       "quote": "Ukrainian drones struck the Leningrad region overnight on November 9, and 113 of them were shot down, Governor Alexander Drozdenko said.\nDrozdenko said “there have been instances of drone hits” in an industrial zone in Kirishi. He said “fragments” also hit an apartment in Kirishi and the roof of an apartment building in Vsevolozhsk, without providing further details.\nUpdate. Drozdenko later confirmed that drones struck an oil refinery in Kirishi, where a fire broke out.",
+       "place": "Kirishi",
+       "date": "November 9"
+      }
+     },
+     "sourceUrl": "https://meduza.io/en/news/2026/11/09/ukrainian-drones-strike-russia-s-leningrad-region-sparking-fire-at-one-of-the-country-s-largest-oil-refineries",
+     "quote": "Drozdenko later confirmed that drones struck an oil refinery in Kirishi, where a fire broke out.",
+     "speaker": "Alexander Drozdenko",
+     "role": "party",
+     "asOf": "2026-11-09T09:08:01Z",
+     "method": "ai-assisted-source-check",
+     "eventScope": "same-incident",
+     "check": {
+      "checkedAt": "2026-11-10T16:20:00+00:00",
+      "contentHash": "a7db65b3d84458040fc780267e8b3a51f887cd3ae7ad73252d5329a0e5a6e827",
+      "finalUrl": "https://meduza.io/en/news/2026/11/09/ukrainian-drones-strike-russia-s-leningrad-region-sparking-fire-at-one-of-the-country-s-largest-oil-refineries",
+      "matchedIn": "article",
+      "robots": "allowed",
+      "digest": "faa22e06adcce554e00caee3fddd84a6e09acde6474cf08efae089b2c08918a0"
+     }
+    },
+    {
+     "field": "eventFacts",
+     "value": {
+      "kind": "fire",
+      "sourceIndex": 7,
+      "support": "після серії вибухів на НПЗ почалася пожежа.",
+      "frame": {
+       "quote": "У РФ внаслідок атаки дронів горить Кірішський НПЗ: що відомо про наслідки\nУ Росії, поблизу Петербургу, внаслідок атаки дронів горить Кірішський нафтопереробний завод.\nПро це повідомляє видання DW.\nЗазначається, що в ніч на 9 листопада дрони атакували КІНЕФ. Водночас губернатор Ленінградської області Олександр Дрозденко підтвердив «влучання БпЛА у промзоні міста Кіріші», не називаючи підприємство.\nА за даними українського моніторингового каналу Exilenova+, після серії вибухів на НПЗ почалася пожежа.",
+       "place": "Кіріші",
+       "date": "9 листопада"
+      }
+     },
+     "sourceUrl": "https://politarena.ua/news/u-rf-vnaslidok-ataky-droniv-horyt-kyryshskyy-npz-shcho-vidomo-pro-naslidky/",
+     "quote": "А за даними українського моніторингового каналу Exilenova+, після серії вибухів на НПЗ почалася пожежа.",
+     "speaker": "Exilenova+",
+     "role": "publisher",
+     "asOf": "2026-11-09T09:33:36+02:00",
+     "method": "ai-assisted-source-check",
+     "eventScope": "same-incident",
+     "check": {
+      "checkedAt": "2026-11-10T16:20:02+00:00",
+      "contentHash": "b39b0a8c64f67c8aab93ec34c359039e2078114ad9ced71168b612d0a0d6eb01",
+      "finalUrl": "https://politarena.ua/news/u-rf-vnaslidok-ataky-droniv-horyt-kyryshskyy-npz-shcho-vidomo-pro-naslidky/",
+      "matchedIn": "article",
+      "robots": "allowed",
+      "digest": "046919270bbbf31da0bba7c431c2ab074432af7b66a902d559d4f4c30c01793f"
+     }
+    },
+    {
+     "field": "eventFacts",
+     "value": {
+      "kind": "fire",
+      "sourceIndex": 8,
+      "support": "Fire from the Kirishi refinery in the Leningrad region in northwest Russia following Ukrainian drone strikes, November 9, 2026",
+      "frame": {
+       "quote": "Fire from the Kirishi refinery in the Leningrad region in northwest Russia following Ukrainian drone strikes, November 9, 2026",
+       "place": "Kirishi",
+       "date": "November 9, 2026"
+      }
+     },
+     "sourceUrl": "https://eaworldview.com/2026/11/ukraine-war-kyiv-attacks-russia-2nd-largest-refinery/",
+     "quote": "Fire from the Kirishi refinery in the Leningrad region in northwest Russia following Ukrainian drone strikes, November 9, 2026",
+     "speaker": "EA WorldView",
+     "role": "publisher",
+     "asOf": "2026-11-09T06:57:37+00:00",
+     "method": "ai-assisted-source-check",
+     "eventScope": "same-incident",
+     "check": {
+      "checkedAt": "2026-11-10T16:20:05+00:00",
+      "contentHash": "6d0e2eed712abcd80d4fb4d5f46745104cbed08e435dc2397e1e066773d23e1a",
+      "finalUrl": "https://eaworldview.com/2026/11/ukraine-war-kyiv-attacks-russia-2nd-largest-refinery/",
+      "matchedIn": "article",
+      "robots": "allowed",
+      "digest": "c46aae05aa5a60f6843805b1366249ebb68e46d01083f5fe12deef0d004969c8"
+     }
     }
    ],
-   "revision": 15,
+   "revision": 21,
    "media": [],
    "operationalEffects": [],
    "followUp": [],
@@ -995,9 +2828,129 @@
      "method": "ai-assisted-source-check",
      "eventScope": "same-incident",
      "checkedAt": "2026-11-09T23:49:01+00:00"
+    },
+    {
+     "kind": "evacuation",
+     "sourceIndex": 4,
+     "support": "Семью эвакуировали",
+     "frame": {
+      "quote": "В Ленинградской области в ночь на 9 ноября объявляли опасность атаки БПЛА. Системы ПВО уничтожили 113 дронов. Во Всеволожске в результате падения обломков беспилотников на крышу многоквартирного дома погибла женщина, находившаяся в квартире на верхнем этаже, сообщил губернатор региона Александр Дрозденко в своем канале в Max.\n«Выражаю глубокие соболезнования семье погибшей. Мы окажем семье погибшей всю необходимую помощь», — отметил губернатор. Остальные жители дома были эвакуированы, для них развернут пункт временного размещения. В настоящее время там находятся четыре человека. Глава области сообщил об угрозе БПЛА в 02:16. К 05:29 тревогу сняли.\nГлава районной администрации Лира Бурак сообщила, что с пяти утра находится на месте происшествия. В ближайшее время должен собраться оперативный штаб.\nВ Киришах также зафиксировали повреждение одной из квартир жилого дома. Семью эвакуировали, по предварительным данным, обошлось без пострадавших. Также в Киришском районе зафиксировано попадание БПЛА по территории предприятия КИНЕФ. В настоящее время пожар локализован. Специалисты устраняют последствия.",
+      "place": "Киришах",
+      "date": "9 ноября"
+     },
+     "quote": "Семью эвакуировали, по предварительным данным, обошлось без пострадавших.",
+     "speaker": "Alexander Drozdenko",
+     "role": "party",
+     "sourceUrl": "https://spb.vedomosti.ru/society/articles/2026/11/09/1243613-v-nebe-nad-lenoblastyu-za-noch-sbili-113-bespilotnikov",
+     "asOf": "2026-11-09T11:12:55+03:00",
+     "method": "ai-assisted-source-check",
+     "eventScope": "same-incident",
+     "checkedAt": "2026-11-10T16:19:59+00:00"
+    },
+    {
+     "kind": "fire",
+     "sourceIndex": 5,
+     "support": "Fire erupted on the territory of the refinery after the Ukrainian drone strike",
+     "frame": {
+      "quote": "November 9, 2026 6:05 am • 3 min readPreferon GoogleLby Lachlan Hyatt\nEditor's note: This is a developing story and is being updated.\nA Ukrainian drone attack hit Russia's second-largest oil refinery in Kirishi, Leningrad Oblast, in an overnight attack, regional governor Aleksandr Drozdenko confirmed on Nov. 9.\nFire erupted on the territory of the refinery after the Ukrainian drone strike, but has since been extinguished, according to Drozdenko.",
+      "place": "Kirishi",
+      "date": "November 9"
+     },
+     "quote": "Fire erupted on the territory of the refinery after the Ukrainian drone strike, but has since been extinguished, according to Drozdenko.",
+     "speaker": "Aleksandr Drozdenko",
+     "role": "party",
+     "sourceUrl": "https://kyivindependent.com/ukrainian-forces-reportedly-strike-russias-second-largest-oil-refinery-in-overnight-drone-attack/",
+     "asOf": "2026-11-09T04:05:17.000Z",
+     "method": "ai-assisted-source-check",
+     "eventScope": "same-incident",
+     "checkedAt": "2026-11-10T16:19:59+00:00"
+    },
+    {
+     "kind": "fire",
+     "sourceIndex": 6,
+     "support": "drones struck an oil refinery in Kirishi, where a fire broke out.",
+     "frame": {
+      "quote": "Ukrainian drones struck the Leningrad region overnight on November 9, and 113 of them were shot down, Governor Alexander Drozdenko said.\nDrozdenko said “there have been instances of drone hits” in an industrial zone in Kirishi. He said “fragments” also hit an apartment in Kirishi and the roof of an apartment building in Vsevolozhsk, without providing further details.\nUpdate. Drozdenko later confirmed that drones struck an oil refinery in Kirishi, where a fire broke out.",
+      "place": "Kirishi",
+      "date": "November 9"
+     },
+     "quote": "Drozdenko later confirmed that drones struck an oil refinery in Kirishi, where a fire broke out.",
+     "speaker": "Alexander Drozdenko",
+     "role": "party",
+     "sourceUrl": "https://meduza.io/en/news/2026/11/09/ukrainian-drones-strike-russia-s-leningrad-region-sparking-fire-at-one-of-the-country-s-largest-oil-refineries",
+     "asOf": "2026-11-09T09:08:01Z",
+     "method": "ai-assisted-source-check",
+     "eventScope": "same-incident",
+     "checkedAt": "2026-11-10T16:20:00+00:00"
+    },
+    {
+     "kind": "fire",
+     "sourceIndex": 7,
+     "support": "після серії вибухів на НПЗ почалася пожежа.",
+     "frame": {
+      "quote": "У РФ внаслідок атаки дронів горить Кірішський НПЗ: що відомо про наслідки\nУ Росії, поблизу Петербургу, внаслідок атаки дронів горить Кірішський нафтопереробний завод.\nПро це повідомляє видання DW.\nЗазначається, що в ніч на 9 листопада дрони атакували КІНЕФ. Водночас губернатор Ленінградської області Олександр Дрозденко підтвердив «влучання БпЛА у промзоні міста Кіріші», не називаючи підприємство.\nА за даними українського моніторингового каналу Exilenova+, після серії вибухів на НПЗ почалася пожежа.",
+      "place": "Кіріші",
+      "date": "9 листопада"
+     },
+     "quote": "А за даними українського моніторингового каналу Exilenova+, після серії вибухів на НПЗ почалася пожежа.",
+     "speaker": "Exilenova+",
+     "role": "publisher",
+     "sourceUrl": "https://politarena.ua/news/u-rf-vnaslidok-ataky-droniv-horyt-kyryshskyy-npz-shcho-vidomo-pro-naslidky/",
+     "asOf": "2026-11-09T09:33:36+02:00",
+     "method": "ai-assisted-source-check",
+     "eventScope": "same-incident",
+     "checkedAt": "2026-11-10T16:20:02+00:00"
+    },
+    {
+     "kind": "fire",
+     "sourceIndex": 8,
+     "support": "Fire from the Kirishi refinery in the Leningrad region in northwest Russia following Ukrainian drone strikes, November 9, 2026",
+     "frame": {
+      "quote": "Fire from the Kirishi refinery in the Leningrad region in northwest Russia following Ukrainian drone strikes, November 9, 2026",
+      "place": "Kirishi",
+      "date": "November 9, 2026"
+     },
+     "quote": "Fire from the Kirishi refinery in the Leningrad region in northwest Russia following Ukrainian drone strikes, November 9, 2026",
+     "speaker": "EA WorldView",
+     "role": "publisher",
+     "sourceUrl": "https://eaworldview.com/2026/11/ukraine-war-kyiv-attacks-russia-2nd-largest-refinery/",
+     "asOf": "2026-11-09T06:57:37+00:00",
+     "method": "ai-assisted-source-check",
+     "eventScope": "same-incident",
+     "checkedAt": "2026-11-10T16:20:05+00:00"
     }
    ],
    "history": [
+    {
+     "revision": 21,
+     "date": "2026-11-10",
+     "at": "2026-11-10T11:37:45.845+00:00",
+     "note": "Additional sources checked with AI; existing assessments retained. Added: EA WorldView."
+    },
+    {
+     "revision": 20,
+     "date": "2026-11-10",
+     "at": "2026-11-10T11:37:42.817+00:00",
+     "note": "Additional sources checked with AI; existing assessments retained. Added: Політарена."
+    },
+    {
+     "revision": 19,
+     "date": "2026-11-10",
+     "at": "2026-11-10T11:37:39.710+00:00",
+     "note": "Additional sources checked with AI; existing assessments retained. Added: Meduza."
+    },
+    {
+     "revision": 18,
+     "date": "2026-11-10",
+     "at": "2026-11-10T11:37:36.493+00:00",
+     "note": "Additional sources checked with AI; existing assessments retained. Added: The Kyiv Independent."
+    },
+    {
+     "revision": 17,
+     "date": "2026-11-10",
+     "at": "2026-11-10T11:36:46.833+00:00",
+     "note": "Additional sources checked with AI; existing assessments retained. Added: Ведомости Северо-Запад."
+    },
     {
      "revision": 15,
      "date": "2026-11-09",
@@ -1248,8 +3201,8 @@
    "lon": null,
    "locationPrecision": "unknown",
    "checkedAt": null,
-   "autoCheckedAt": "2026-11-09",
-   "updatedAt": "2026-11-09",
+   "autoCheckedAt": "2026-11-11",
+   "updatedAt": "2026-11-11",
    "summary": "According to a cited source (reported by Kommersant), drones were reported in Vsevolozhsk, Russia on 9 November 2026.",
    "impact": "No eligible attributed impact claim is included; this does not mean no impact occurred.",
    "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
@@ -1291,7 +3244,7 @@
    "series": [],
    "plainSummary": {},
    "autoEnrichments": [],
-   "revision": 10,
+   "revision": 14,
    "media": [],
    "operationalEffects": [],
    "followUp": [],
@@ -1317,6 +3270,18 @@
    "assessment_droneType_range_high": null,
    "eventFacts": [],
    "history": [
+    {
+     "revision": 14,
+     "date": "2026-11-11",
+     "at": "2026-11-11T02:23:39.273+00:00",
+     "note": "Updated automatically after the new revision passed the automatic checks. (Source revision 13.)"
+    },
+    {
+     "revision": 12,
+     "date": "2026-11-10",
+     "at": "2026-11-10T19:25:23.582+00:00",
+     "note": "Updated automatically after the new revision passed the automatic checks. (Source revision 11.)"
+    },
     {
      "revision": 10,
      "date": "2026-11-09",
@@ -1345,6 +3310,118 @@
      "revision": 2,
      "date": "2026-11-09",
      "at": "2026-11-09T08:29:56.869+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    }
+   ]
+  },
+  {
+   "id": "auto-ru-2026-11-09-145b0d2065",
+   "title": "Drone report in Vsevolozhsk, Russia",
+   "place": "Vsevolozhsk",
+   "country": "Russia",
+   "countryCode": "RU",
+   "scope": "single",
+   "review": "auto",
+   "corroboration": "single",
+   "dateKind": "event",
+   "date": "2026-11-09",
+   "category": "conflict",
+   "droneStatus": "reported",
+   "impactStatus": "reported",
+   "attributionStatus": "none",
+   "lat": null,
+   "lon": null,
+   "locationPrecision": "unknown",
+   "checkedAt": null,
+   "autoCheckedAt": "2026-11-10",
+   "updatedAt": "2026-11-10",
+   "summary": "According to Vesti, drones were reported in Vsevolozhsk, Russia on 9 November 2026.",
+   "impact": "According to an official source of an involved party, via Vesti, as of 09 Nov 2026 10:53 UTC+03:00: power outage.",
+   "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
+   "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
+   "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
+   "windowStart": null,
+   "windowEnd": null,
+   "windowBasis": null,
+   "droneTypes": [],
+   "claims": [],
+   "droneStatusSources": [
+    0
+   ],
+   "impactStatusSources": [
+    0
+   ],
+   "attributionSources": [],
+   "sources": [
+    {
+     "label": "Vesti (2026-11-09)",
+     "url": "https://www.vesti.ru/ns/narushennoe-iz-za-ataki-bpla-ehlektrosnabzhenie-v-lenoblasti-vosstanovili",
+     "published": "2026-11-09",
+     "family": "vesti",
+     "publishedAt": "2026-11-09T10:53:10+03:00"
+    }
+   ],
+   "timeline": [
+    {
+     "date": "2026-11-09",
+     "text": "Vesti published a report on this incident.",
+     "source": 0
+    }
+   ],
+   "referencePoint": {
+    "lat": 60.02,
+    "lon": 30.67,
+    "level": "city",
+    "name": "Vsevolozhsk"
+   },
+   "impactReports": [
+    {
+     "asOf": "2026-11-09T10:53:10+03:00",
+     "n": null,
+     "qual": null,
+     "src": 0,
+     "state": "reported",
+     "type": "power_outage",
+     "via": "Vesti",
+     "who": {
+      "kind": "role",
+      "id": "party"
+     }
+    }
+   ],
+   "series": [],
+   "plainSummary": {},
+   "autoEnrichments": [],
+   "revision": 2,
+   "media": [],
+   "operationalEffects": [],
+   "followUp": [],
+   "archiveEntity": null,
+   "namedLocation": null,
+   "publisherMedia": [],
+   "reportTiming": null,
+   "archivePattern": null,
+   "assessment": null,
+   "outcome": [],
+   "assessment_scale_version": null,
+   "assessment_operator_subject": null,
+   "assessment_operator_level": null,
+   "assessment_operator_range_low": null,
+   "assessment_operator_range_high": null,
+   "assessment_target_subject": null,
+   "assessment_target_level": null,
+   "assessment_target_range_low": null,
+   "assessment_target_range_high": null,
+   "assessment_droneType_subject": null,
+   "assessment_droneType_level": null,
+   "assessment_droneType_range_low": null,
+   "assessment_droneType_range_high": null,
+   "eventFacts": [],
+   "history": [
+    {
+     "revision": 2,
+     "date": "2026-11-10",
+     "at": "2026-11-10T07:26:03.551+00:00",
      "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
     }
    ]
@@ -1669,8 +3746,8 @@
    "locationPrecision": "unknown",
    "checkedAt": null,
    "autoCheckedAt": "2026-11-08",
-   "updatedAt": "2026-11-08",
-   "summary": "According to a cited source (reported by ZN.ua), drones were reported in Khmelnytskyi region, Ukraine on 8 November 2026.",
+   "updatedAt": "2026-11-11T03:51:42+00:00",
+   "summary": "According to an official source of an involved party (reported by ZN.ua), drones were reported in Khmelnytskyi region, Ukraine on 08 Nov 2026. According to ZN.ua, citing Serhiy Tiurin: damage was reported to a residential building; the drone is named as Шахед.",
    "impact": "According to an official source of an involved party, via ZN.ua, as of 08 Nov 2026 14:45 UTC+02:00: residential damage.",
    "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
    "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
@@ -1741,7 +3818,66 @@
    ],
    "series": [],
    "plainSummary": {},
-   "autoEnrichments": [],
+   "autoEnrichments": [
+    {
+     "field": "eventFacts",
+     "value": {
+      "kind": "damage_material",
+      "sourceIndex": 0,
+      "support": "Унаслідок ударів зазнав руйнувань будинок у Хмельницькому районі.",
+      "frame": {
+       "quote": "Російські реактивні дрони-камікадзе типу \"Шахед\" у неділю, 8 листопада, атакували Хмельницьку область. Унаслідок ударів зазнав руйнувань будинок у Хмельницькому районі. Двоє мешканців дістали поранення, їх доправили до лікарні, розповів голова Хмельницької обласної військової адміністрації Сергій Тюрін.",
+       "place": "Хмельницьку область",
+       "date": "8 листопада"
+      },
+      "object": "residential_building"
+     },
+     "sourceUrl": "https://zn.ua/ukr/war/reaktivni-shakhedi-atakuvali-khmelnitsku-oblast-je-poraneni-.html",
+     "quote": "Унаслідок ударів зазнав руйнувань будинок у Хмельницькому районі.",
+     "speaker": "Serhiy Tiurin",
+     "role": "party",
+     "asOf": "2026-11-08T14:45:00+02:00",
+     "method": "ai-assisted-source-check",
+     "eventScope": "same-incident",
+     "check": {
+      "checkedAt": "2026-11-11T03:51:42+00:00",
+      "contentHash": "24db1263f41aad52e267976d73744334906d69be8cdf1211bcad521398b887f8",
+      "finalUrl": "https://zn.ua/ukr/war/reaktivni-shakhedi-atakuvali-khmelnitsku-oblast-je-poraneni-.html",
+      "matchedIn": "article",
+      "robots": "allowed",
+      "digest": "d1c588196df989e1f17462ecb1d5d22a6225a95cf5cb10a47e32949ef22e66d7"
+     }
+    },
+    {
+     "field": "eventFacts",
+     "value": {
+      "kind": "drone_model_named",
+      "sourceIndex": 0,
+      "support": "Російські реактивні дрони-камікадзе типу \"Шахед\" у неділю, 8 листопада, атакували Хмельницьку область.",
+      "frame": {
+       "quote": "Російські реактивні дрони-камікадзе типу \"Шахед\" у неділю, 8 листопада, атакували Хмельницьку область. Унаслідок ударів зазнав руйнувань будинок у Хмельницькому районі. Двоє мешканців дістали поранення, їх доправили до лікарні, розповів голова Хмельницької обласної військової адміністрації Сергій Тюрін.",
+       "place": "Хмельницьку область",
+       "date": "8 листопада"
+      },
+      "name": "Шахед"
+     },
+     "sourceUrl": "https://zn.ua/ukr/war/reaktivni-shakhedi-atakuvali-khmelnitsku-oblast-je-poraneni-.html",
+     "quote": "Російські реактивні дрони-камікадзе типу \"Шахед\" у неділю, 8 листопада, атакували Хмельницьку область.",
+     "speaker": "Serhiy Tiurin",
+     "role": "party",
+     "asOf": "2026-11-08T14:45:00+02:00",
+     "method": "ai-assisted-source-check",
+     "eventScope": "same-incident",
+     "check": {
+      "checkedAt": "2026-11-11T03:51:42+00:00",
+      "contentHash": "24db1263f41aad52e267976d73744334906d69be8cdf1211bcad521398b887f8",
+      "finalUrl": "https://zn.ua/ukr/war/reaktivni-shakhedi-atakuvali-khmelnitsku-oblast-je-poraneni-.html",
+      "matchedIn": "article",
+      "robots": "allowed",
+      "digest": "793d3d82df6cc248067c8d994fabdf0af9fd417bb5f1fab9fa68a10dceab6aa0"
+     }
+    }
+   ],
    "revision": 2,
    "media": [],
    "operationalEffects": [],
@@ -1766,7 +3902,46 @@
    "assessment_droneType_level": null,
    "assessment_droneType_range_low": null,
    "assessment_droneType_range_high": null,
-   "eventFacts": [],
+   "eventFacts": [
+    {
+     "kind": "damage_material",
+     "sourceIndex": 0,
+     "support": "Унаслідок ударів зазнав руйнувань будинок у Хмельницькому районі.",
+     "frame": {
+      "quote": "Російські реактивні дрони-камікадзе типу \"Шахед\" у неділю, 8 листопада, атакували Хмельницьку область. Унаслідок ударів зазнав руйнувань будинок у Хмельницькому районі. Двоє мешканців дістали поранення, їх доправили до лікарні, розповів голова Хмельницької обласної військової адміністрації Сергій Тюрін.",
+      "place": "Хмельницьку область",
+      "date": "8 листопада"
+     },
+     "object": "residential_building",
+     "quote": "Унаслідок ударів зазнав руйнувань будинок у Хмельницькому районі.",
+     "speaker": "Serhiy Tiurin",
+     "role": "party",
+     "sourceUrl": "https://zn.ua/ukr/war/reaktivni-shakhedi-atakuvali-khmelnitsku-oblast-je-poraneni-.html",
+     "asOf": "2026-11-08T14:45:00+02:00",
+     "method": "ai-assisted-source-check",
+     "eventScope": "same-incident",
+     "checkedAt": "2026-11-11T03:51:42+00:00"
+    },
+    {
+     "kind": "drone_model_named",
+     "sourceIndex": 0,
+     "support": "Російські реактивні дрони-камікадзе типу \"Шахед\" у неділю, 8 листопада, атакували Хмельницьку область.",
+     "frame": {
+      "quote": "Російські реактивні дрони-камікадзе типу \"Шахед\" у неділю, 8 листопада, атакували Хмельницьку область. Унаслідок ударів зазнав руйнувань будинок у Хмельницькому районі. Двоє мешканців дістали поранення, їх доправили до лікарні, розповів голова Хмельницької обласної військової адміністрації Сергій Тюрін.",
+      "place": "Хмельницьку область",
+      "date": "8 листопада"
+     },
+     "name": "Шахед",
+     "quote": "Російські реактивні дрони-камікадзе типу \"Шахед\" у неділю, 8 листопада, атакували Хмельницьку область.",
+     "speaker": "Serhiy Tiurin",
+     "role": "party",
+     "sourceUrl": "https://zn.ua/ukr/war/reaktivni-shakhedi-atakuvali-khmelnitsku-oblast-je-poraneni-.html",
+     "asOf": "2026-11-08T14:45:00+02:00",
+     "method": "ai-assisted-source-check",
+     "eventScope": "same-incident",
+     "checkedAt": "2026-11-11T03:51:42+00:00"
+    }
+   ],
    "history": [
     {
      "revision": 2,
@@ -3838,6 +6013,131 @@
    ]
   },
   {
+   "id": "auto-ru-2026-11-07-94be35aae3",
+   "title": "Drone report in Belgorod, Russia",
+   "place": "Belgorod",
+   "country": "Russia",
+   "countryCode": "RU",
+   "scope": "single",
+   "review": "auto",
+   "corroboration": "single",
+   "dateKind": "event",
+   "date": "2026-11-07",
+   "category": "conflict",
+   "droneStatus": "reported",
+   "impactStatus": "reported",
+   "attributionStatus": "none",
+   "lat": null,
+   "lon": null,
+   "locationPrecision": "unknown",
+   "checkedAt": null,
+   "autoCheckedAt": "2026-11-11",
+   "updatedAt": "2026-11-11",
+   "summary": "According to a cited source (reported by Interfax), drones were reported in Belgorod, Russia on 7 November 2026.",
+   "impact": "According to an official source of an involved party, via Interfax, as of 07 Nov 2026 05:00 UTC+03:00: residential damage and fire.",
+   "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
+   "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
+   "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
+   "windowStart": null,
+   "windowEnd": null,
+   "windowBasis": null,
+   "droneTypes": [],
+   "claims": [],
+   "droneStatusSources": [
+    0
+   ],
+   "impactStatusSources": [
+    0
+   ],
+   "attributionSources": [],
+   "sources": [
+    {
+     "label": "Interfax (2026-11-07)",
+     "url": "https://www.interfax.ru/russia/1127518",
+     "published": "2026-11-07",
+     "family": "interfax",
+     "publishedAt": "2026-11-07T05:00+03:00"
+    }
+   ],
+   "timeline": [
+    {
+     "date": "2026-11-07",
+     "text": "Interfax published a report on this incident.",
+     "source": 0
+    }
+   ],
+   "referencePoint": {
+    "lat": 50.6,
+    "lon": 36.58,
+    "level": "city",
+    "name": "Belgorod"
+   },
+   "impactReports": [
+    {
+     "asOf": "2026-11-07T05:00+03:00",
+     "n": null,
+     "qual": null,
+     "src": 0,
+     "state": "reported",
+     "type": "damage_residential",
+     "via": "Interfax",
+     "who": {
+      "kind": "role",
+      "id": "party"
+     }
+    },
+    {
+     "asOf": "2026-11-07T05:00+03:00",
+     "n": null,
+     "qual": null,
+     "src": 0,
+     "state": "reported",
+     "type": "fire",
+     "via": "Interfax",
+     "who": {
+      "kind": "role",
+      "id": "party"
+     }
+    }
+   ],
+   "series": [],
+   "plainSummary": {},
+   "autoEnrichments": [],
+   "revision": 4,
+   "media": [],
+   "operationalEffects": [],
+   "followUp": [],
+   "archiveEntity": null,
+   "namedLocation": null,
+   "publisherMedia": [],
+   "reportTiming": null,
+   "archivePattern": null,
+   "assessment": null,
+   "outcome": [],
+   "assessment_scale_version": null,
+   "assessment_operator_subject": null,
+   "assessment_operator_level": null,
+   "assessment_operator_range_low": null,
+   "assessment_operator_range_high": null,
+   "assessment_target_subject": null,
+   "assessment_target_level": null,
+   "assessment_target_range_low": null,
+   "assessment_target_range_high": null,
+   "assessment_droneType_subject": null,
+   "assessment_droneType_level": null,
+   "assessment_droneType_range_low": null,
+   "assessment_droneType_range_high": null,
+   "eventFacts": [],
+   "history": [
+    {
+     "revision": 4,
+     "date": "2026-11-11",
+     "at": "2026-11-11T04:23:48.431+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    }
+   ]
+  },
+  {
    "id": "auto-ru-2026-11-07-8e996813e7",
    "title": "Drone report in Rostov region, Russia",
    "place": "Rostov region",
@@ -4411,6 +6711,102 @@
    ]
   },
   {
+   "id": "auto-in-2026-11-07-e31d11a441",
+   "title": "Drone report in Mohali, India",
+   "place": "Mohali",
+   "country": "India",
+   "countryCode": "IN",
+   "scope": "single",
+   "review": "auto",
+   "corroboration": "single",
+   "dateKind": "event",
+   "date": "2026-11-07",
+   "category": "public-safety",
+   "droneStatus": "reported",
+   "impactStatus": "unknown",
+   "attributionStatus": "none",
+   "lat": null,
+   "lon": null,
+   "locationPrecision": "unknown",
+   "checkedAt": null,
+   "autoCheckedAt": "2026-11-10",
+   "updatedAt": "2026-11-10",
+   "summary": "According to a cited source, drones were reported in Mohali, India on 7 November 2026.",
+   "impact": "No eligible attributed impact claim is included; this does not mean no impact occurred.",
+   "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
+   "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
+   "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
+   "windowStart": null,
+   "windowEnd": null,
+   "windowBasis": null,
+   "droneTypes": [],
+   "claims": [],
+   "droneStatusSources": [
+    0
+   ],
+   "impactStatusSources": [],
+   "attributionSources": [],
+   "sources": [
+    {
+     "label": "thedailyjagran.com (2026-11-10)",
+     "url": "https://www.thedailyjagran.com/india/news/punjab-police-bust-multiple-drug-arms-networks-probe-foreign-handlers-after-rpg-drone-seizure-11-arrested-10335821",
+     "published": "2026-11-10",
+     "family": "thedailyjagran",
+     "publishedAt": "2026-11-10T17:43:00+05:30"
+    }
+   ],
+   "timeline": [
+    {
+     "date": "2026-11-10",
+     "text": "thedailyjagran.com published a report on this incident.",
+     "source": 0
+    }
+   ],
+   "referencePoint": {
+    "lat": 30.68,
+    "lon": 76.72,
+    "level": "city",
+    "name": "Mohali"
+   },
+   "impactReports": [],
+   "series": [],
+   "plainSummary": {},
+   "autoEnrichments": [],
+   "revision": 2,
+   "media": [],
+   "operationalEffects": [],
+   "followUp": [],
+   "archiveEntity": null,
+   "namedLocation": null,
+   "publisherMedia": [],
+   "reportTiming": null,
+   "archivePattern": null,
+   "assessment": null,
+   "outcome": [],
+   "assessment_scale_version": null,
+   "assessment_operator_subject": null,
+   "assessment_operator_level": null,
+   "assessment_operator_range_low": null,
+   "assessment_operator_range_high": null,
+   "assessment_target_subject": null,
+   "assessment_target_level": null,
+   "assessment_target_range_low": null,
+   "assessment_target_range_high": null,
+   "assessment_droneType_subject": null,
+   "assessment_droneType_level": null,
+   "assessment_droneType_range_low": null,
+   "assessment_droneType_range_high": null,
+   "eventFacts": [],
+   "history": [
+    {
+     "revision": 2,
+     "date": "2026-11-10",
+     "at": "2026-11-10T19:25:05.052+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    }
+   ]
+  },
+  {
    "id": "auto-co-2026-11-07-a19117dd39",
    "title": "Drone report in Bogotá, Colombia",
    "place": "Bogotá",
@@ -4526,8 +6922,8 @@
    "locationPrecision": "unknown",
    "checkedAt": null,
    "autoCheckedAt": "2026-11-08",
-   "updatedAt": "2026-11-09T23:49:02+00:00",
-   "summary": "According to metropolitano.com.co, an official source of an involved party and an official source of an involved party (reported by TRT World), drones were reported in Bolívar region, Colombia on 07 Nov 2026. According to UA.News, citing Colombian Army First Division: a reported hit affected a military site.",
+   "updatedAt": "2026-11-10T16:20:05+00:00",
+   "summary": "According to metropolitano.com.co, an official source of an involved party and an official source of an involved party (reported by TRT World), drones were reported in Bolívar region, Colombia on 07 Nov 2026. According to UA.News, citing Colombian Army First Division: a reported hit affected a military site. According to uzax.com, citing Colombian Army First Division: a reported hit affected a military site.",
    "impact": "According to an official source of an involved party, via TRT World, as of 08 Nov 2026 04:41 UTC+00:00: damage. According to an official source of an involved party, via UA.News, as of 07 Nov 2026 23:53 UTC+00:00: 3 people killed.",
    "evidence": "Automatically compiled and published from 4 cited articles that each report drone presence at this place and date. An automatic check found them to describe the same incident and found claims that appear to come from at least two different sources; that independence has not been established by an editor. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
    "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
@@ -4825,6 +7221,16 @@
      "language": "es",
      "role": "additional reporting",
      "publishedAt": "2026-11-08T12:49:50-05:00"
+    },
+    {
+     "label": "Uzax",
+     "url": "https://uzax.com/co/pzyjr",
+     "published": "2026-11-09",
+     "family": "colombian-national-army",
+     "publisher": "Uzax",
+     "language": "en",
+     "role": "additional reporting",
+     "publishedAt": "2026-11-09T08:39:53+03:00"
     }
    ],
    "timeline": [
@@ -4936,9 +7342,38 @@
       "robots": "allowed",
       "digest": "98f97f8fd521709a4620ea519e43b798936e8a0bf4acac0b7a270917dd20a814"
      }
+    },
+    {
+     "field": "eventFacts",
+     "value": {
+      "kind": "hit",
+      "sourceIndex": 29,
+      "support": "3 soldiers killed in explosive drone attack on military base in Colombia\nThree Colombian soldiers were killed and eight others seriously injured after explosive-laden drones struck a military installation in the country's north, the Colombian National Army confirmed.",
+      "frame": {
+       "quote": "3 soldiers killed in explosive drone attack on military base in Colombia\nThree Colombian soldiers were killed and eight others seriously injured after explosive-laden drones struck a military installation in the country's north, the Colombian National Army confirmed.\nThe attack targeted the Cantón Militar de Santa Rosa in the municipality of Santa Rosa del Sur, Bolívar department, on Saturday, November 7, 2026, according to official statements. The Army's First Division reported that unmanned aircraft modified to carry explosive devices were used in the assault.",
+       "place": "Bolívar department",
+       "date": "November 7, 2026"
+      },
+      "object": "military_site"
+     },
+     "sourceUrl": "https://uzax.com/co/pzyjr",
+     "quote": "3 soldiers killed in explosive drone attack on military base in Colombia\nThree Colombian soldiers were killed and eight others seriously injured after explosive-laden drones struck a military installation in the country's north, the Colombian National Army confirmed.",
+     "speaker": "Colombian Army First Division",
+     "role": "party",
+     "asOf": "2026-11-09T08:39:53+03:00",
+     "method": "ai-assisted-source-check",
+     "eventScope": "same-incident",
+     "check": {
+      "checkedAt": "2026-11-10T16:20:05+00:00",
+      "contentHash": "e3379f8d407066985e93be2bf627f2da513392e8b3d28f7f9b7fc8bb966f0eb3",
+      "finalUrl": "https://uzax.com/co/pzyjr",
+      "matchedIn": "article",
+      "robots": "allowed",
+      "digest": "e9f4eaacced78d6b2a121c03c36a1ef4a497b81975defa39603d4b057365dab0"
+     }
     }
    ],
-   "revision": 21,
+   "revision": 22,
    "media": [],
    "operationalEffects": [],
    "followUp": [],
@@ -4981,9 +7416,34 @@
      "method": "ai-assisted-source-check",
      "eventScope": "same-incident",
      "checkedAt": "2026-11-09T23:49:02+00:00"
+    },
+    {
+     "kind": "hit",
+     "sourceIndex": 29,
+     "support": "3 soldiers killed in explosive drone attack on military base in Colombia\nThree Colombian soldiers were killed and eight others seriously injured after explosive-laden drones struck a military installation in the country's north, the Colombian National Army confirmed.",
+     "frame": {
+      "quote": "3 soldiers killed in explosive drone attack on military base in Colombia\nThree Colombian soldiers were killed and eight others seriously injured after explosive-laden drones struck a military installation in the country's north, the Colombian National Army confirmed.\nThe attack targeted the Cantón Militar de Santa Rosa in the municipality of Santa Rosa del Sur, Bolívar department, on Saturday, November 7, 2026, according to official statements. The Army's First Division reported that unmanned aircraft modified to carry explosive devices were used in the assault.",
+      "place": "Bolívar department",
+      "date": "November 7, 2026"
+     },
+     "object": "military_site",
+     "quote": "3 soldiers killed in explosive drone attack on military base in Colombia\nThree Colombian soldiers were killed and eight others seriously injured after explosive-laden drones struck a military installation in the country's north, the Colombian National Army confirmed.",
+     "speaker": "Colombian Army First Division",
+     "role": "party",
+     "sourceUrl": "https://uzax.com/co/pzyjr",
+     "asOf": "2026-11-09T08:39:53+03:00",
+     "method": "ai-assisted-source-check",
+     "eventScope": "same-incident",
+     "checkedAt": "2026-11-10T16:20:05+00:00"
     }
    ],
    "history": [
+    {
+     "revision": 22,
+     "date": "2026-11-10",
+     "at": "2026-11-10T11:36:47.444+00:00",
+     "note": "Additional sources checked with AI; existing assessments retained. Added: Uzax."
+    },
     {
      "revision": 21,
      "date": "2026-11-09",
@@ -6843,8 +9303,8 @@
    "locationPrecision": "unknown",
    "checkedAt": null,
    "autoCheckedAt": "2026-11-05",
-   "updatedAt": "2026-11-05",
-   "summary": "According to Radio Dabanga, drones were reported in Khashm al Qirbah, Sudan on 5 November 2026.",
+   "updatedAt": "2026-11-11T03:51:42+00:00",
+   "summary": "According to Radio Dabanga, drones were reported in Khashm al Qirbah, Sudan on 05 Nov 2026. According to Radio Dabanga, citing local residents: an explosion was reported.",
    "impact": "No eligible attributed impact claim is included; this does not mean no impact occurred.",
    "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
    "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
@@ -6884,7 +9344,36 @@
    "impactReports": [],
    "series": [],
    "plainSummary": {},
-   "autoEnrichments": [],
+   "autoEnrichments": [
+    {
+     "field": "eventFacts",
+     "value": {
+      "kind": "exploded",
+      "sourceIndex": 0,
+      "support": "سمعوا انفجارات عنيفة",
+      "frame": {
+       "quote": "تعرضت مدينة خشم القربة بولاية كسلا، فجر الخميس، لسلسلة هجمات بطائرات مسيرة.وقال مواطنون من المدينة لراديو دبنقا إنهم سمعوا انفجارات عنيفة دون أن يتمكنوا من تحديد المواقع المستهدفة أو حجم الخسائر، فيما أشارت مصادر عسكرية إلى أن المضادات الأرضية تمكنت من التصدي للمسيرات.",
+       "place": "خشم القربة",
+       "date": "الخميس"
+      }
+     },
+     "sourceUrl": "https://www.dabangasudan.org/ar/all-news/article/%d9%87%d8%ac%d9%88%d9%85-%d8%a8%d8%a7%d9%84%d9%85%d8%b3%d9%8a%d8%b1%d8%a7%d8%aa-%d8%b9%d9%84%d9%89-%d8%ae%d8%b4%d9%85-%d8%a7%d9%84%d9%82%d8%b1%d8%a8%d8%a9-%d8%aa%d8%af%d9%85%d8%b1-%d9%85%d8%ad%d8%b7",
+     "quote": "تعرضت مدينة خشم القربة بولاية كسلا، فجر الخميس، لسلسلة هجمات بطائرات مسيرة.وقال مواطنون من المدينة لراديو دبنقا إنهم سمعوا انفجارات عنيفة دون أن يتمكنوا من تحديد المواقع المستهدفة أو حجم الخسائر، فيما أشارت مصادر عسكرية إلى أن المضادات الأرضية تمكنت من التصدي للمسيرات.",
+     "speaker": "Local residents",
+     "role": "witness",
+     "asOf": "2026-11-05T17:37:51+00:00",
+     "method": "ai-assisted-source-check",
+     "eventScope": "same-incident",
+     "check": {
+      "checkedAt": "2026-11-11T03:51:42+00:00",
+      "contentHash": "6d9b0bfe6d7262559be68048fc50eaab221524f20df81b8174ddaea252d816e9",
+      "finalUrl": "https://www.dabangasudan.org/ar/all-news/article/%d9%87%d8%ac%d9%88%d9%85-%d8%a8%d8%a7%d9%84%d9%85%d8%b3%d9%8a%d8%b1%d8%a7%d8%aa-%d8%b9%d9%84%d9%89-%d8%ae%d8%b4%d9%85-%d8%a7%d9%84%d9%82%d8%b1%d8%a8%d8%a9-%d8%aa%d8%af%d9%85%d8%b1-%d9%85%d8%ad%d8%b7",
+      "matchedIn": "article",
+      "robots": "allowed",
+      "digest": "5c561ffbc5d516bc7a3252a8604d7de0d260eb65513a3b697c6470dd40231336"
+     }
+    }
+   ],
    "revision": 2,
    "media": [],
    "operationalEffects": [],
@@ -6909,7 +9398,26 @@
    "assessment_droneType_level": null,
    "assessment_droneType_range_low": null,
    "assessment_droneType_range_high": null,
-   "eventFacts": [],
+   "eventFacts": [
+    {
+     "kind": "exploded",
+     "sourceIndex": 0,
+     "support": "سمعوا انفجارات عنيفة",
+     "frame": {
+      "quote": "تعرضت مدينة خشم القربة بولاية كسلا، فجر الخميس، لسلسلة هجمات بطائرات مسيرة.وقال مواطنون من المدينة لراديو دبنقا إنهم سمعوا انفجارات عنيفة دون أن يتمكنوا من تحديد المواقع المستهدفة أو حجم الخسائر، فيما أشارت مصادر عسكرية إلى أن المضادات الأرضية تمكنت من التصدي للمسيرات.",
+      "place": "خشم القربة",
+      "date": "الخميس"
+     },
+     "quote": "تعرضت مدينة خشم القربة بولاية كسلا، فجر الخميس، لسلسلة هجمات بطائرات مسيرة.وقال مواطنون من المدينة لراديو دبنقا إنهم سمعوا انفجارات عنيفة دون أن يتمكنوا من تحديد المواقع المستهدفة أو حجم الخسائر، فيما أشارت مصادر عسكرية إلى أن المضادات الأرضية تمكنت من التصدي للمسيرات.",
+     "speaker": "Local residents",
+     "role": "witness",
+     "sourceUrl": "https://www.dabangasudan.org/ar/all-news/article/%d9%87%d8%ac%d9%88%d9%85-%d8%a8%d8%a7%d9%84%d9%85%d8%b3%d9%8a%d8%b1%d8%a7%d8%aa-%d8%b9%d9%84%d9%89-%d8%ae%d8%b4%d9%85-%d8%a7%d9%84%d9%82%d8%b1%d8%a8%d8%a9-%d8%aa%d8%af%d9%85%d8%b1-%d9%85%d8%ad%d8%b7",
+     "asOf": "2026-11-05T17:37:51+00:00",
+     "method": "ai-assisted-source-check",
+     "eventScope": "same-incident",
+     "checkedAt": "2026-11-11T03:51:42+00:00"
+    }
+   ],
    "history": [
     {
      "revision": 2,
@@ -12792,7 +15300,7 @@
    "locationPrecision": "unknown",
    "checkedAt": null,
    "autoCheckedAt": "2026-11-02",
-   "updatedAt": "2026-11-05T04:55:20+00:00",
+   "updatedAt": "2026-11-10",
    "summary": "According to Interfax, citing Russian regional governor: a drone was reportedly shot down. According to Ukrinform, citing local residents via ASTRA: an explosion was reported. According to The Insider, citing NASA FIRMS thermal anomalies: a fire was reported. According to RBC-Ukraine, citing Bloomberg via NASA FIRMS: a fire was reported. According to informburo.kz, citing Unspecified social-media reports via Informburo: a fire was reported. According to ukrainetoday.org, citing ASTRA via eyewitness footage / RBC-Ukraine / Ukraine Today: a fire was reported.",
    "impact": "According to a non-involved official body, via Rossiyskaya Gazeta, as of 02 Nov 2026 05:19 UTC+03:00: flight disruption.",
    "evidence": "Automatically compiled and published from 3 cited articles that each report drone presence at this place and date. An automatic check found them to describe the same incident and found claims that appear to come from at least two different sources; that independence has not been established by an editor. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
@@ -12903,6 +15411,16 @@
      "language": "en",
      "role": "additional reporting",
      "publishedAt": "2026-11-03T20:55:40+00:00"
+    },
+    {
+     "label": "Militarnyi",
+     "url": "https://militarnyi.com/uk/news/drony-atakuvaly-stantsiyu-samara/",
+     "published": "2026-11-02",
+     "family": "militarnyi",
+     "publisher": "Militarnyi",
+     "language": "uk",
+     "role": "additional reporting",
+     "publishedAt": "2026-11-02T08:26:45+02:00"
     }
    ],
    "timeline": [
@@ -13115,7 +15633,7 @@
      }
     }
    ],
-   "revision": 14,
+   "revision": 15,
    "media": [],
    "operationalEffects": [],
    "followUp": [],
@@ -13250,6 +15768,12 @@
     }
    ],
    "history": [
+    {
+     "revision": 15,
+     "date": "2026-11-10",
+     "at": "2026-11-10T16:09:46.123+00:00",
+     "note": "Restored previously reviewed additional sources that an automatic update had dropped: Militarnyi."
+    },
     {
      "revision": 14,
      "date": "2026-11-05",
@@ -14747,7 +17271,7 @@
    "locationPrecision": "unknown",
    "checkedAt": null,
    "autoCheckedAt": "2026-11-03",
-   "updatedAt": "2026-11-06",
+   "updatedAt": "2026-11-10",
    "summary": "According to Ukrainska Pravda, Ukrinform, Espreso and an official source of an involved party (reported by tvpworld.com), drones were reported in Kstovo, Russia on 01 Nov 2026. According to an official source of an involved party, via Ukrinform, as of 01 Nov 2026 08:44 UTC+02:00: industrial damage. According to an official source of an involved party, via tvpworld.com, as of 01 Nov 2026 08:50 UTC+01:00: industrial damage.",
    "impact": "According to an official source of an involved party, via Ukrinform, as of 01 Nov 2026 08:44 UTC+02:00: industrial damage. According to an official source of an involved party, via tvpworld.com, as of 01 Nov 2026 08:50 UTC+01:00: industrial damage.",
    "evidence": "Automatically compiled and published from 7 cited articles that each report drone presence at this place and date. An automatic check found them to describe the same incident and found claims that appear to come from at least two different sources; that independence has not been established by an editor. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
@@ -14871,6 +17395,26 @@
      "language": "ru",
      "role": "additional reporting",
      "publishedAt": "2026-11-01T18:47:00+03:00"
+    },
+    {
+     "label": "Fontanka",
+     "url": "https://www.fontanka.ru/2026/11/01/76738082/",
+     "published": "2026-11-01",
+     "family": "fontanka",
+     "publisher": "Fontanka",
+     "language": "ru",
+     "role": "additional reporting",
+     "publishedAt": "2026-11-01T12:29:16+03:00"
+    },
+    {
+     "label": "V Gorode N",
+     "url": "https://www.vgoroden.ru/statyi/bolee-100-bespilotnikov-i-panika-na-zapravkah-hronologiya-rekordnoy-ataki-vsu-na-nizhegorodskuyu-oblast",
+     "published": "2026-11-01",
+     "family": "vgoroden",
+     "publisher": "V Gorode N",
+     "language": "ru",
+     "role": "additional reporting",
+     "publishedAt": "2026-11-01T12:07:00+03:00"
     }
    ],
    "timeline": [
@@ -14947,7 +17491,7 @@
    "series": [],
    "plainSummary": {},
    "autoEnrichments": [],
-   "revision": 21,
+   "revision": 22,
    "media": [],
    "operationalEffects": [],
    "followUp": [],
@@ -14973,6 +17517,12 @@
    "assessment_droneType_range_high": null,
    "eventFacts": [],
    "history": [
+    {
+     "revision": 22,
+     "date": "2026-11-10",
+     "at": "2026-11-10T16:09:46.109+00:00",
+     "note": "Restored previously reviewed additional sources that an automatic update had dropped: Fontanka, V Gorode N."
+    },
     {
      "revision": 21,
      "date": "2026-11-06",
@@ -18602,7 +21152,7 @@
    "locationPrecision": "unknown",
    "checkedAt": null,
    "autoCheckedAt": "2026-11-03",
-   "updatedAt": "2026-11-04T04:18:58+00:00",
+   "updatedAt": "2026-11-10",
    "summary": "According to RBC-Ukraine, TSN, Espreso and Radio Svoboda, drones were reported in Novokuybyshevsk, Russia on 30 Oct 2026. According to RBC-Ukraine, citing Astra: a fire was reported. According to Times Now, citing Exilenova+ monitoring channel: a fire was reported.",
    "impact": "According to Espreso, as of 30 Oct 2026 07:54 UTC+02:00: fire. According to RBC-Ukraine, as of 30 Oct 2026 06:45 UTC+02:00: fire.",
    "evidence": "Automatically compiled and published from 8 cited articles that each report drone presence at this place and date. An automatic check found them to describe the same incident and found claims that appear to come from at least two different sources; that independence has not been established by an editor. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
@@ -18693,6 +21243,16 @@
      "language": "en",
      "role": "additional reporting",
      "publishedAt": "2026-10-30T13:33:57+05:30"
+    },
+    {
+     "label": "UA.News",
+     "url": "https://ua.news/en/war-vs-rf/droni-atakuvali-novokuibishevskii-npz-u-rosiyi-spalakhnula-pozhezha",
+     "published": "2026-10-30",
+     "family": "ua",
+     "publisher": "UA.News",
+     "language": "en",
+     "role": "additional reporting",
+     "publishedAt": "2026-10-30T08:39:09+00:00"
     }
    ],
    "timeline": [
@@ -18875,7 +21435,7 @@
      }
     }
    ],
-   "revision": 19,
+   "revision": 20,
    "media": [],
    "operationalEffects": [],
    "followUp": [],
@@ -18938,6 +21498,12 @@
     }
    ],
    "history": [
+    {
+     "revision": 20,
+     "date": "2026-11-10",
+     "at": "2026-11-10T16:09:46.099+00:00",
+     "note": "Restored previously reviewed additional sources that an automatic update had dropped: UA.News."
+    },
     {
      "revision": 19,
      "date": "2026-11-04",
@@ -45173,7 +47739,7 @@
    "locationPrecision": "unknown",
    "checkedAt": null,
    "autoCheckedAt": "2026-11-06",
-   "updatedAt": "2026-11-08T04:33:02+00:00",
+   "updatedAt": "2026-11-10",
    "summary": "According to life.kyiv.ua and an official source of an involved party (reported by rubryka.com), drones were reported in Kyiv, Ukraine on 15 Oct 2026. According to life.kyiv.ua, citing Kyiv city authorities: a fire was reported. According to life.kyiv.ua, citing Vitali Klitschko, mayor: damage was reported to a residential building. According to Slovo i Dilo, citing Vitali Klitschko, Kyiv mayor: a fire was reported.",
    "impact": "According to an official source of an involved party, via life.kyiv.ua, as of 15 Oct 2026 11:00 UTC+03:00: 5 people injured, residential damage and fire.",
    "evidence": "Automatically compiled and published from 2 cited articles that each report drone presence at this place and date. An automatic check found them to describe the same incident and found claims that appear to come from at least two different sources; that independence has not been established by an editor. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
@@ -45226,6 +47792,26 @@
      "language": "ru",
      "role": "additional reporting",
      "publishedAt": "2026-10-15T11:34:56+03:00"
+    },
+    {
+     "label": "Interfax-Ukraine",
+     "url": "https://en.interfax.com.ua/news/general/1220927.html",
+     "published": "2026-10-15",
+     "family": "kyiv-city-administration",
+     "publisher": "Interfax-Ukraine",
+     "language": "en",
+     "role": "additional reporting",
+     "publishedAt": "2026-10-15T17:47:23.296328+03:00"
+    },
+    {
+     "label": "Рубрика",
+     "url": "https://rubryka.com/2026/10/15/90-reaktyvnyh-droniv/",
+     "published": "2026-10-15",
+     "family": "rubryka",
+     "publisher": "Рубрика",
+     "language": "uk",
+     "role": "additional reporting",
+     "publishedAt": "2026-10-15T17:43:59+00:00"
     }
    ],
    "timeline": [
@@ -45442,7 +48028,7 @@
      }
     }
    ],
-   "revision": 9,
+   "revision": 10,
    "media": [],
    "operationalEffects": [],
    "followUp": [],
@@ -45524,6 +48110,12 @@
     }
    ],
    "history": [
+    {
+     "revision": 10,
+     "date": "2026-11-10",
+     "at": "2026-11-10T16:09:46.135+00:00",
+     "note": "Restored previously reviewed additional sources that an automatic update had dropped: Interfax-Ukraine, Рубрика."
+    },
     {
      "revision": 9,
      "date": "2026-11-08",
@@ -46283,7 +48875,7 @@
    "locationPrecision": "unknown",
    "checkedAt": null,
    "autoCheckedAt": "2026-11-05",
-   "updatedAt": "2026-11-05",
+   "updatedAt": "2026-11-10",
    "summary": "According to an official source of an involved party (reported by Interfax), an official source of an involved party (reported by Ukrinform), an official source of an involved party (reported by 自由時報 (Liberty Times)) and Ukrinform, drones were reported in Ryazan Oblast, Russia on 15 Oct 2026. According to Interfax, citing Russian regional governor: a fire was reported; damage was reported to a vehicle.",
    "impact": "According to an official source of an involved party, via Ukrinform, as of 15 Oct 2026 10:42 UTC+03:00: industrial damage. According to an official source of an involved party, via Interfax, as of 15 Oct 2026 09:34 UTC+03:00: damage and fire. According to an official source of an involved party, via Ukrinform, as of 15 Oct 2026 10:42 UTC+03:00: fire. According to an official source of an involved party, via Interfax, as of 15 Oct 2026 09:34 UTC+03:00: vehicle damage.",
    "evidence": "Automatically compiled and published from 4 cited articles that each report drone presence at this place and date. An automatic check found them to describe the same incident and found claims that appear to come from at least two different sources; that independence has not been established by an editor. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
@@ -46333,6 +48925,16 @@
      "published": "2026-10-16",
      "family": "ukrinform",
      "publishedAt": "2026-10-16T21:27:00+03:00"
+    },
+    {
+     "label": "RTVI",
+     "url": "https://rtvi.com/news/gorit-npz-otmeneny-zanyatiya-v-shkolah-posledstviya-ataki-bpla-15-oktyabrya/",
+     "published": "2026-10-15",
+     "family": "ryazan-governor",
+     "publisher": "RTVI",
+     "language": "ru",
+     "role": "additional reporting",
+     "publishedAt": "2026-10-15T06:49:11.961Z"
     }
    ],
    "timeline": [
@@ -46513,7 +49115,7 @@
      }
     }
    ],
-   "revision": 15,
+   "revision": 17,
    "media": [],
    "operationalEffects": [],
    "followUp": [],
@@ -46577,6 +49179,12 @@
     }
    ],
    "history": [
+    {
+     "revision": 17,
+     "date": "2026-11-10",
+     "at": "2026-11-10T16:09:46.064+00:00",
+     "note": "Restored previously reviewed additional sources that an automatic update had dropped: RTVI."
+    },
     {
      "revision": 15,
      "date": "2026-11-05",
@@ -49495,7 +52103,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "nuremberg-airport",
     "windows": [
      {
@@ -50936,9 +53544,9 @@
    "locationPrecision": "unknown",
    "checkedAt": null,
    "autoCheckedAt": "2026-11-06",
-   "updatedAt": "2026-11-06",
-   "summary": "According to unitel.bo, drones were reported in Rivne, Ukraine on 13 October 2026. According to a cited source (reported by TV8), drones were reported in Rivne, Ukraine on 13 October 2026.",
-   "impact": "According to an official source of an involved party, via TV8, as of 13 Oct 2026 12:39 UTC+00:00: at least 20 people injured.",
+   "updatedAt": "2026-11-10",
+   "summary": "According to unitel.bo and an official source of an involved party (reported by TV8), drones were reported in Rivne, Ukraine on 13 Oct 2026. According to an official source of an involved party, via TV8, as of 13 Oct 2026 12:39 UTC+00:00: at least 20 people injured. According to pik.net.ua, citing Ukrainian regional authority: a fire was reported; 14 people were reported injured.",
+   "impact": "According to an official source of an involved party, via pik.net.ua, as of 13 Oct 2026 12:17 UTC+03:00: 14 people injured. According to an official source of an involved party, via TV8, as of 13 Oct 2026 12:39 UTC+00:00: at least 20 people injured. According to an official source of an involved party, via pik.net.ua, as of 13 Oct 2026 12:17 UTC+03:00: civilian infrastructure damage and fire.",
    "evidence": "Automatically compiled and published from 2 cited articles that each report drone presence at this place and date. An automatic check found them to describe the same incident and found claims that appear to come from at least two different sources; that independence has not been established by an editor. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
    "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
    "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
@@ -50952,7 +53560,8 @@
     1
    ],
    "impactStatusSources": [
-    1
+    1,
+    3
    ],
    "attributionSources": [],
    "sources": [
@@ -50969,6 +53578,46 @@
      "family": "tv8",
      "publisher": "TV8",
      "publishedAt": "2026-10-13T12:39:38.000Z"
+    },
+    {
+     "label": "Ziarul de Garda",
+     "url": "https://www.zdg.md/stiri/stiri-externe/live-text-cel-putin-20-de-persoane-au-fost-ranite-dupa-ce-o-drona-ruseasca-a-lovit-o-institutie-de-invatamant-din-orasul-rivne-razboi-in-ucraina-ziua-1693/",
+     "published": "2026-10-13",
+     "family": "rivne-administration",
+     "publisher": "Ziarul de Garda",
+     "language": "ro",
+     "role": "additional reporting",
+     "publishedAt": "2026-10-13T11:22:00+00:00"
+    },
+    {
+     "label": "PIK",
+     "url": "https://pik.net.ua/2026/10/13/u-tsentri-rivnogo-dron-vluchyv-u-navchalnyj-zaklad-pershi-podrobytsi-ta-video/",
+     "published": "2026-10-13",
+     "family": "rivne-administration",
+     "publisher": "PIK",
+     "language": "uk",
+     "role": "additional reporting",
+     "publishedAt": "2026-10-13T12:17:01+03:00"
+    },
+    {
+     "label": "Ukrainska Pravda",
+     "url": "https://www.pravda.com.ua/eng/news/2026/10/13/8057801/",
+     "published": "2026-10-13",
+     "family": "pravda",
+     "publisher": "Ukrainska Pravda",
+     "language": "en",
+     "role": "additional reporting",
+     "publishedAt": "2026-10-13T12:01:00+00:00"
+    },
+    {
+     "label": "Ukrainska Pravda",
+     "url": "https://www.pravda.com.ua/eng/news/2026/10/13/8057757/",
+     "published": "2026-10-13",
+     "family": "pravda",
+     "publisher": "Ukrainska Pravda",
+     "language": "en",
+     "role": "additional reporting",
+     "publishedAt": "2026-10-13T08:00:00+00:00"
     }
    ],
    "timeline": [
@@ -50992,6 +53641,19 @@
    "impactReports": [
     {
      "type": "injured",
+     "n": 14,
+     "qual": "eq",
+     "who": {
+      "kind": "role",
+      "id": "party"
+     },
+     "via": "pik.net.ua",
+     "asOf": "2026-10-13T12:17:01+03:00",
+     "src": 3,
+     "state": "reported"
+    },
+    {
+     "type": "injured",
      "n": 20,
      "qual": "gte",
      "who": {
@@ -51002,11 +53664,59 @@
      "asOf": "2026-10-13T12:39:38.000Z",
      "src": 1,
      "state": "reported"
+    },
+    {
+     "type": "damage_civilian_infrastructure",
+     "n": null,
+     "qual": null,
+     "who": {
+      "kind": "role",
+      "id": "party"
+     },
+     "via": "pik.net.ua",
+     "asOf": "2026-10-13T12:17:01+03:00",
+     "src": 3,
+     "state": "reported"
+    },
+    {
+     "type": "fire",
+     "n": null,
+     "qual": null,
+     "who": {
+      "kind": "role",
+      "id": "party"
+     },
+     "via": "pik.net.ua",
+     "asOf": "2026-10-13T12:17:01+03:00",
+     "src": 3,
+     "state": "reported"
     }
    ],
    "series": [],
    "plainSummary": {},
    "autoEnrichments": [
+    {
+     "field": "injured",
+     "value": {
+      "n": 14,
+      "qual": "eq"
+     },
+     "sourceUrl": "https://pik.net.ua/2026/10/13/u-tsentri-rivnogo-dron-vluchyv-u-navchalnyj-zaklad-pershi-podrobytsi-ta-video/",
+     "quote": "За останніми даними, поранення отримали 14 людей.",
+     "speaker": "Oleksandr Koval, regional governor",
+     "role": "party",
+     "asOf": "2026-10-13T12:17:01+03:00",
+     "method": "ai-assisted-source-check",
+     "eventScope": "same-incident",
+     "check": {
+      "checkedAt": "2026-10-29T07:16:12+00:00",
+      "contentHash": "34d6b727c9ec80c3b863e8ab3c8eff3d04950a41e88ec67a1e8a2d9c4be2e47f",
+      "finalUrl": "https://pik.net.ua/2026/10/13/u-tsentri-rivnogo-dron-vluchyv-u-navchalnyj-zaklad-pershi-podrobytsi-ta-video/",
+      "matchedIn": "article",
+      "robots": "allowed",
+      "digest": "d7f95fbd802a1d17b49dfc64cdab5eea77cb4647d704929d6d8e1e12d08d1b22"
+     }
+    },
     {
      "field": "injured",
      "value": {
@@ -51036,9 +53746,110 @@
       "robots": "allowed",
       "digest": "cbbc52d8e6fef000fcb4d49f6e9faaabc056031725db47789cff73d5b815d120"
      }
+    },
+    {
+     "field": "damage_civilian_infrastructure",
+     "value": {
+      "n": null,
+      "qual": null
+     },
+     "sourceUrl": "https://pik.net.ua/2026/10/13/u-tsentri-rivnogo-dron-vluchyv-u-navchalnyj-zaklad-pershi-podrobytsi-ta-video/",
+     "quote": "Унаслідок атаки пошкоджено другий поверх навчального корпусу та частково фасад будівлі. Пожежу на місці влучання локалізували.",
+     "speaker": "Oleksandr Koval, regional governor",
+     "role": "party",
+     "asOf": "2026-10-13T12:17:01+03:00",
+     "method": "ai-assisted-source-check",
+     "eventScope": "same-incident",
+     "check": {
+      "checkedAt": "2026-10-29T07:16:13+00:00",
+      "contentHash": "34d6b727c9ec80c3b863e8ab3c8eff3d04950a41e88ec67a1e8a2d9c4be2e47f",
+      "finalUrl": "https://pik.net.ua/2026/10/13/u-tsentri-rivnogo-dron-vluchyv-u-navchalnyj-zaklad-pershi-podrobytsi-ta-video/",
+      "matchedIn": "article",
+      "robots": "allowed",
+      "digest": "3c8a128e1fe7403413a3fcd99f27b79a4e5a68fa9f052fd5041d71c2b0a8fec1"
+     }
+    },
+    {
+     "field": "fire",
+     "value": {
+      "n": null,
+      "qual": null
+     },
+     "sourceUrl": "https://pik.net.ua/2026/10/13/u-tsentri-rivnogo-dron-vluchyv-u-navchalnyj-zaklad-pershi-podrobytsi-ta-video/",
+     "quote": "Пожежу на місці влучання локалізували.",
+     "speaker": "Oleksandr Koval, regional governor",
+     "role": "party",
+     "asOf": "2026-10-13T12:17:01+03:00",
+     "method": "ai-assisted-source-check",
+     "eventScope": "same-incident",
+     "check": {
+      "checkedAt": "2026-10-29T07:16:13+00:00",
+      "contentHash": "34d6b727c9ec80c3b863e8ab3c8eff3d04950a41e88ec67a1e8a2d9c4be2e47f",
+      "finalUrl": "https://pik.net.ua/2026/10/13/u-tsentri-rivnogo-dron-vluchyv-u-navchalnyj-zaklad-pershi-podrobytsi-ta-video/",
+      "matchedIn": "article",
+      "robots": "allowed",
+      "digest": "49e011c49e2094651df1db04c6be608b8d2b3f9fbfc0813a2139dbd8dba30fbc"
+     }
+    },
+    {
+     "field": "eventFacts",
+     "value": {
+      "kind": "fire",
+      "sourceIndex": 3,
+      "support": "Пожежу на місці влучання локалізували.",
+      "frame": {
+       "quote": "13 жовтня повідомив начальник Рівненської обласної військової адміністрації Олександр Коваль, пише ПІК.\n«Маємо приліт БПЛА в центр міста. В корпус навчального закладу. Усі служби на місці, йдуть роботи. Багато ушкоджень, є поранені», — повідомив очільник ОВА.\nЗгодом в обласній військовій адміністрації уточнили кількість постраждалих. За останніми даними, поранення отримали 14 людей. Одна людина перебуває у важкому стані, ще троє — у стані середньої важкості.\nУнаслідок атаки пошкоджено другий поверх навчального корпусу та частково фасад будівлі. Пожежу на місці влучання локалізували.",
+       "place": "Рівне",
+       "date": "13 жовтня"
+      }
+     },
+     "sourceUrl": "https://pik.net.ua/2026/10/13/u-tsentri-rivnogo-dron-vluchyv-u-navchalnyj-zaklad-pershi-podrobytsi-ta-video/",
+     "quote": "Пожежу на місці влучання локалізували.",
+     "speaker": "Ukrainian regional authority",
+     "role": "party",
+     "asOf": "2026-10-13T12:17:01+03:00",
+     "method": "ai-assisted-source-check",
+     "eventScope": "same-incident",
+     "check": {
+      "checkedAt": "2026-11-02T10:55:45+00:00",
+      "contentHash": "ea959c2b025cd1a61368e6007d1f1922b99b9c3763e43a8e668030ed45994eb3",
+      "finalUrl": "https://pik.net.ua/2026/10/13/u-tsentri-rivnogo-dron-vluchyv-u-navchalnyj-zaklad-pershi-podrobytsi-ta-video/",
+      "matchedIn": "article",
+      "robots": "allowed",
+      "digest": "134ecb0d77cc9416b8253f808852b268aa0b1468977d3f062b9eae94bd1e87e3"
+     }
+    },
+    {
+     "field": "eventFacts",
+     "value": {
+      "kind": "injured",
+      "sourceIndex": 3,
+      "support": "14 людей отримали поранення.",
+      "frame": {
+       "quote": "14 людей отримали поранення. Одна людина перебуває у важкому стані.\nПро це 13 жовтня повідомив начальник Рівне",
+       "place": "Рівне",
+       "date": "13 жовтня"
+      },
+      "n": 14
+     },
+     "sourceUrl": "https://pik.net.ua/2026/10/13/u-tsentri-rivnogo-dron-vluchyv-u-navchalnyj-zaklad-pershi-podrobytsi-ta-video/",
+     "quote": "14 людей отримали поранення.",
+     "speaker": "Ukrainian regional authority",
+     "role": "party",
+     "asOf": "2026-10-13T12:17:01+03:00",
+     "method": "ai-assisted-source-check",
+     "eventScope": "same-incident",
+     "check": {
+      "checkedAt": "2026-11-02T10:55:45+00:00",
+      "contentHash": "ea959c2b025cd1a61368e6007d1f1922b99b9c3763e43a8e668030ed45994eb3",
+      "finalUrl": "https://pik.net.ua/2026/10/13/u-tsentri-rivnogo-dron-vluchyv-u-navchalnyj-zaklad-pershi-podrobytsi-ta-video/",
+      "matchedIn": "article",
+      "robots": "allowed",
+      "digest": "bf979bbe258492874e4484acf1415a3d4a8e14d80e02bce28761552b503c1c70"
+     }
     }
    ],
-   "revision": 11,
+   "revision": 12,
    "media": [],
    "operationalEffects": [],
    "followUp": [],
@@ -51062,8 +53873,52 @@
    "assessment_droneType_level": null,
    "assessment_droneType_range_low": null,
    "assessment_droneType_range_high": null,
-   "eventFacts": [],
+   "eventFacts": [
+    {
+     "kind": "fire",
+     "sourceIndex": 3,
+     "support": "Пожежу на місці влучання локалізували.",
+     "frame": {
+      "quote": "13 жовтня повідомив начальник Рівненської обласної військової адміністрації Олександр Коваль, пише ПІК.\n«Маємо приліт БПЛА в центр міста. В корпус навчального закладу. Усі служби на місці, йдуть роботи. Багато ушкоджень, є поранені», — повідомив очільник ОВА.\nЗгодом в обласній військовій адміністрації уточнили кількість постраждалих. За останніми даними, поранення отримали 14 людей. Одна людина перебуває у важкому стані, ще троє — у стані середньої важкості.\nУнаслідок атаки пошкоджено другий поверх навчального корпусу та частково фасад будівлі. Пожежу на місці влучання локалізували.",
+      "place": "Рівне",
+      "date": "13 жовтня"
+     },
+     "quote": "Пожежу на місці влучання локалізували.",
+     "speaker": "Ukrainian regional authority",
+     "role": "party",
+     "sourceUrl": "https://pik.net.ua/2026/10/13/u-tsentri-rivnogo-dron-vluchyv-u-navchalnyj-zaklad-pershi-podrobytsi-ta-video/",
+     "asOf": "2026-10-13T12:17:01+03:00",
+     "method": "ai-assisted-source-check",
+     "eventScope": "same-incident",
+     "checkedAt": "2026-11-02T10:55:45+00:00"
+    },
+    {
+     "kind": "injured",
+     "sourceIndex": 3,
+     "support": "14 людей отримали поранення.",
+     "frame": {
+      "quote": "14 людей отримали поранення. Одна людина перебуває у важкому стані.\nПро це 13 жовтня повідомив начальник Рівне",
+      "place": "Рівне",
+      "date": "13 жовтня"
+     },
+     "n": 14,
+     "quote": "14 людей отримали поранення.",
+     "speaker": "Ukrainian regional authority",
+     "role": "party",
+     "sourceUrl": "https://pik.net.ua/2026/10/13/u-tsentri-rivnogo-dron-vluchyv-u-navchalnyj-zaklad-pershi-podrobytsi-ta-video/",
+     "asOf": "2026-10-13T12:17:01+03:00",
+     "method": "ai-assisted-source-check",
+     "eventScope": "same-incident",
+     "checkedAt": "2026-11-02T10:55:45+00:00"
+    }
+   ],
    "history": [
+    {
+     "revision": 12,
+     "date": "2026-11-10",
+     "at": "2026-11-10T16:09:46.081+00:00",
+     "note": "Restored previously reviewed additional sources that an automatic update had dropped: PIK, Ukrainska Pravda, Ziarul de Garda."
+    },
     {
      "revision": 11,
      "date": "2026-11-06",
@@ -56827,7 +59682,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "yandex-kaluga-data-centre",
     "windows": [
      {
@@ -58667,7 +61522,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "taiba-power-distribution-station",
     "windows": [
      {
@@ -59040,7 +61895,7 @@
     ]
    },
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "berlin-brandenburg-airport",
     "windows": [
      {
@@ -59220,7 +62075,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "san-diego-international-airport",
     "windows": [
      {
@@ -59533,7 +62388,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "munich-airport",
     "windows": [
      {
@@ -59730,7 +62585,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "helsinki-airport",
     "windows": [
      {
@@ -59923,7 +62778,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "el-paso-international-airport",
     "windows": [
      {
@@ -60262,7 +63117,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "hannover-airport",
     "windows": [
      {
@@ -60459,7 +63314,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "eindhoven-airport",
     "windows": [
      {
@@ -60618,7 +63473,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "doel-nuclear-power-station",
     "windows": [
      {
@@ -60786,7 +63641,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "liege-airport",
     "windows": [
      {
@@ -60961,7 +63816,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "gothenburg-landvetter-airport",
     "windows": [
      {
@@ -61165,7 +64020,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "hannover-airport",
     "windows": [
      {
@@ -61418,7 +64273,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "brussels-airport",
     "windows": [
      {
@@ -61601,7 +64456,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "bremen-airport",
     "windows": [
      {
@@ -62022,7 +64877,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "berlin-brandenburg-airport",
     "windows": [
      {
@@ -62421,7 +65276,7 @@
    ],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "munich-airport",
     "windows": [
      {
@@ -62619,7 +65474,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "borris-military-camp",
     "windows": [
      {
@@ -62815,7 +65670,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "billund-airport",
     "windows": [
      {
@@ -63036,7 +65891,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "billund-airport",
     "windows": [
      {
@@ -63234,7 +66089,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "aalborg-airport",
     "windows": [
      {
@@ -63417,7 +66272,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "sonderborg-airport",
     "windows": [
      {
@@ -63775,7 +66630,7 @@
    ],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "oslo-gardermoen-airport",
     "windows": [
      {
@@ -64090,7 +66945,7 @@
    ],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "airport-ekch",
     "windows": [
      {
@@ -64856,7 +67711,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "ramon-airport",
     "windows": [
      {
@@ -65851,7 +68706,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "olenya-air-base",
     "windows": [
      {
@@ -66047,7 +68902,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "belaya-air-base",
     "windows": [
      {
@@ -67199,7 +70054,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "chornobyl-nuclear-power-plant",
     "windows": [
      {
@@ -67396,7 +70251,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "mt-bank-stadium",
     "windows": [
      {
@@ -68396,7 +71251,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "boston-logan-airport",
     "windows": [
      {
@@ -68584,7 +71439,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "wright-patterson-air-force-base",
     "windows": [
      {
@@ -68808,7 +71663,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "stewart-international-airport",
     "windows": [
      {
@@ -69122,7 +71977,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "vandenberg-space-force-base",
     "windows": [
      {
@@ -70730,7 +73585,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "stockholm-arlanda-airport",
     "windows": [
      {
@@ -73317,7 +76172,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "auckland-airport",
     "windows": [
      {
@@ -73535,7 +76390,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "tower-22",
     "windows": [
      {
@@ -73720,7 +76575,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "mt-bank-stadium",
     "windows": [
      {
@@ -74708,7 +77563,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "moscow-city-business-district",
     "windows": [
      {
@@ -74873,7 +77728,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "moscow-city-business-district",
     "windows": [
      {
@@ -75050,7 +77905,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "crimean-bridge",
     "windows": [
      {
@@ -75365,7 +78220,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "pittsburgh-international-airport",
     "windows": [
      {
@@ -75568,7 +78423,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "moscow-kremlin",
     "windows": [
      {
@@ -75763,7 +78618,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "dublin-airport",
     "windows": [
      {
@@ -75989,7 +78844,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "dublin-airport",
     "windows": [
      {
@@ -76367,7 +79222,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "engels-air-base",
     "windows": [
      {
@@ -76532,7 +79387,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "engels-air-base",
     "windows": [
      {
@@ -76745,7 +79600,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "sevastopol-naval-base",
     "windows": [
      {
@@ -76913,7 +79768,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "bergen-airport-flesland",
     "windows": [
      {
@@ -77102,7 +79957,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "stavanger-airport",
     "windows": [
      {
@@ -77451,7 +80306,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "ronald-reagan-washington-national-airport",
     "windows": [
      {
@@ -78295,7 +81150,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "jammu-air-force-station",
     "windows": [
      {
@@ -78562,7 +81417,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "riga-airport",
     "windows": [
      {
@@ -78779,7 +81634,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "frankfurt-airport",
     "windows": [
      {
@@ -79160,7 +82015,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "dubai-international-airport",
     "windows": [
      {
@@ -79586,7 +82441,7 @@
    ],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "abqaiq-processing-facility",
     "windows": [
      {
@@ -79862,7 +82717,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "changi-airport",
     "windows": [
      {
@@ -80069,7 +82924,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "changi-airport",
     "windows": [
      {
@@ -80291,7 +83146,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "dubai-international-airport",
     "windows": [
      {
@@ -80519,7 +83374,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "newark-liberty-airport",
     "windows": [
      {
@@ -80718,7 +83573,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "heathrow-airport",
     "windows": [
      {
@@ -81062,7 +83917,7 @@
    ],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "airport-egkk",
     "windows": [
      {
@@ -81299,7 +84154,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "auckland-airport",
     "windows": [
      {
@@ -81485,7 +84340,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "quebec-jean-lesage-airport",
     "windows": [
      {
@@ -81911,7 +84766,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "indira-gandhi-international-airport",
     "windows": [
      {
@@ -82110,7 +84965,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "cork-airport",
     "windows": [
      {
@@ -82297,7 +85152,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "louis-armstrong-stadium",
     "windows": [
      {
@@ -82454,7 +85309,7 @@
    "publisherMedia": [],
    "reportTiming": null,
    "archivePattern": {
-    "asOf": "2026-11-10T06:40:03+00:00",
+    "asOf": "2026-11-11T06:26:46+00:00",
     "entityKey": "jfk-airport",
     "windows": [
      {
