@@ -1,12 +1,12 @@
 # DroneLedger — source-traced drone incident dossiers
 
-Snapshot 2026-11-22: 615 published dossiers (160 editor-reviewed, 455 automatic).
+Snapshot 2026-11-23: 627 published dossiers (161 editor-reviewed, 466 automatic).
 Archive: https://droneincidents.com · methodology: https://droneincidents.com/methodology/
-Release: 20261122T033754723219-90c9d7; generated: 2026-11-22T03:37:49+00:00. Package SHA-256 hashes: MANIFEST.json.
+Release: 20261123T053828387671-773a75; generated: 2026-11-23T05:37:54+00:00. Package SHA-256 hashes: MANIFEST.json.
 
 ## Unit, coverage and language
 One row is a dossier, not one drone, sortie, attack, casualty or independently verified event.
-The retained dossier dates range from 2015-06-28 to 2026-11-22. This is observed snapshot coverage,
+The retained dossier dates range from 2015-06-28 to 2026-11-23. This is observed snapshot coverage,
 not the start of comprehensive monitoring. Backfilled and source-date records may be included.
 A weekly archive can lag the website; later versions may correct, merge or withdraw dossiers.
 The archive is selective, worldwide in scope, with uneven media/source/language coverage.
@@ -15,6 +15,15 @@ interfaces; that does not imply complete translation or equal source coverage in
 Sources can be official statements, news agencies, publishers and other public reporting.
 Publication repetition is not independent corroboration: follow claims.originId/relay and sources.family.
 Source publication dates are not incident dates or verified local incident times.
+
+## Fields in this package
+- JSON envelope: `generated`, `release`, `coverage`, `license`, `incidents`.
+- JSON dossier fields: `archiveEntity`, `archivePattern`, `assessment`, `assessment_droneType_level`, `assessment_droneType_range_high`, `assessment_droneType_range_low`, `assessment_droneType_subject`, `assessment_operator_level`, `assessment_operator_range_high`, `assessment_operator_range_low`, `assessment_operator_subject`, `assessment_scale_version`, `assessment_target_level`, `assessment_target_range_high`, `assessment_target_range_low`, `assessment_target_subject`, `attribution`, `attributionSources`, `attributionStatus`, `autoCheckedAt`, `autoEnrichments`, `category`, `checkedAt`, `claims`, `corroboration`, `country`, `countryCode`, `date`, `dateKind`, `droneStatus`, `droneStatusSources`, `droneTypes`, `eventFacts`, `evidence`, `followUp`, `history`, `id`, `impact`, `impactReports`, `impactStatus`, `impactStatusSources`, `lat`, `locationPrecision`, `lon`, `media`, `namedLocation`, `operationalEffects`, `outcome`, `place`, `plainSummary`, `publisherMedia`, `referencePoint`, `reportTiming`, `review`, `revision`, `scope`, `series`, `sources`, `summary`, `timeline`, `title`, `unknown`, `updatedAt`, `windowBasis`, `windowEnd`, `windowStart`.
+- CSV columns in order: `id`, `title`, `place`, `country`, `countryCode`, `scope`, `review`, `corroboration`, `dateKind`, `date`, `category`, `droneStatus`, `impactStatus`, `attributionStatus`, `lat`, `lon`, `locationPrecision`, `checkedAt`, `autoCheckedAt`, `updatedAt`, `summary`, `impact`, `evidence`, `unknown`, `attribution`, `windowStart`, `windowEnd`, `windowBasis`, `source_urls`, `source_families`, `sources_json`, `ref_lat`, `ref_lon`, `ref_level`, `impact_reports_json`, `media_json`, `operationalEffects_json`, `followUp_json`, `archiveEntity_json`, `namedLocation_json`, `publisherMedia_json`, `archivePattern_json`, `assessment_scale_version`, `assessment_operator_subject`, `assessment_operator_level`, `assessment_operator_range_low`, `assessment_operator_range_high`, `assessment_target_subject`, `assessment_target_level`, `assessment_target_range_low`, `assessment_target_range_high`, `assessment_droneType_subject`, `assessment_droneType_level`, `assessment_droneType_range_low`, `assessment_droneType_range_high`, `assessment_json`, `outcome_json`, `reportTiming_json`, `revision`, `droneStatusSources_json`, `impactStatusSources_json`, `attributionSources_json`, `claims_json`, `timeline_json`.
+
+Every dossier includes original source URLs in JSON `sources` and CSV `source_urls`.
+The package uses the validated public release. Unpublished dossiers and withdrawn revision entries
+are excluded. Evidence states still apply to the individual claims and fields.
 
 ## Evidence and analysis
 Presence, impact and attribution have separate states. Confirmed presence does not confirm damage,
