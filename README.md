@@ -1,8 +1,8 @@
 # DroneLedger — source-traced drone incident dossiers
 
-Snapshot 2026-11-26: 669 published dossiers (176 editor-reviewed, 493 automatic).
+Snapshot 2026-11-27: 682 published dossiers (179 editor-reviewed, 503 automatic).
 Archive: https://droneincidents.com · methodology: https://droneincidents.com/methodology/
-Release: 20261126T053747487418-3eeab9; generated: 2026-11-26T05:37:36+00:00. Package SHA-256 hashes: MANIFEST.json.
+Release: 20261127T063638954430-24f931; generated: 2026-11-27T06:36:36+00:00. Package SHA-256 hashes: MANIFEST.json.
 
 ## Unit, coverage and language
 One row is a dossier, not one drone, sortie, attack, casualty or independently verified event.
