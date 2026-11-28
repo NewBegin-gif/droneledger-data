@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-27T06:36:36+00:00",
- "release": "20261127T063638954430-24f931",
+ "generated": "2026-11-28T05:36:25+00:00",
+ "release": "20261128T053826586524-afc0ef",
  "coverage": "Curated archive; not a complete or live record.",
  "license": {
   "name": "CC BY 4.0",
@@ -9,6 +9,2323 @@
   "excludes": "Quoted source passages and linked articles remain the copyright of their publishers; they are included as short quotations for verification. Linked media and satellite images remain the rights holders' property; no image or video licence is granted by this dataset. Fonts (SIL OFL) and map data (Natural Earth, public domain) keep their own terms. City and region names in automatically published dossiers are checked against GeoNames (geonames.org, CC BY 4.0). Drone drawings and animations are schematic illustrations of a type, not evidence about any incident."
  },
  "incidents": [
+  {
+   "id": "auto-ru-2026-11-28-e794facc28",
+   "title": "Drone report in Russia",
+   "place": "Russia",
+   "country": "Russia",
+   "countryCode": "RU",
+   "scope": "single",
+   "review": "auto",
+   "corroboration": "single",
+   "dateKind": "event",
+   "date": "2026-11-28",
+   "category": "conflict",
+   "droneStatus": "reported",
+   "impactStatus": "reported",
+   "attributionStatus": "none",
+   "lat": null,
+   "lon": null,
+   "locationPrecision": "country",
+   "checkedAt": null,
+   "autoCheckedAt": "2026-11-28",
+   "updatedAt": "2026-11-28",
+   "summary": "According to RBC-Ukraine, drones were reported in Russia on 28 November 2026.",
+   "impact": "According to RBC-Ukraine, as of 28 Nov 2026 03:54 UTC+02:00: fire.",
+   "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
+   "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
+   "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
+   "windowStart": null,
+   "windowEnd": null,
+   "windowBasis": null,
+   "droneTypes": [],
+   "claims": [],
+   "droneStatusSources": [
+    0
+   ],
+   "impactStatusSources": [
+    0
+   ],
+   "attributionSources": [],
+   "sources": [
+    {
+     "label": "RBC-Ukraine (2026-11-28)",
+     "url": "https://www.rbc.ua/rus/news/droni-vdruge-tizhden-atakuvali-novoshahtinskiy-1795830898.html",
+     "published": "2026-11-28",
+     "family": "rbc",
+     "publishedAt": "2026-11-28T03:54:58+02:00"
+    }
+   ],
+   "timeline": [
+    {
+     "date": "2026-11-28",
+     "text": "RBC-Ukraine published a report on this incident.",
+     "source": 0
+    }
+   ],
+   "referencePoint": {
+    "lat": 58.25,
+    "lon": 44.69,
+    "level": "country",
+    "name": "Russia"
+   },
+   "impactReports": [
+    {
+     "asOf": "2026-11-28T03:54:58+02:00",
+     "n": null,
+     "qual": null,
+     "src": 0,
+     "state": "reported",
+     "type": "fire",
+     "via": "RBC-Ukraine",
+     "who": {
+      "kind": "outlet",
+      "name": "RBC-Ukraine"
+     }
+    }
+   ],
+   "series": [],
+   "plainSummary": {},
+   "autoEnrichments": [],
+   "revision": 2,
+   "media": [],
+   "operationalEffects": [],
+   "followUp": [],
+   "archiveEntity": null,
+   "namedLocation": null,
+   "publisherMedia": [],
+   "reportTiming": null,
+   "archivePattern": null,
+   "assessment": null,
+   "outcome": [],
+   "assessment_scale_version": null,
+   "assessment_operator_subject": null,
+   "assessment_operator_level": null,
+   "assessment_operator_range_low": null,
+   "assessment_operator_range_high": null,
+   "assessment_target_subject": null,
+   "assessment_target_level": null,
+   "assessment_target_range_low": null,
+   "assessment_target_range_high": null,
+   "assessment_droneType_subject": null,
+   "assessment_droneType_level": null,
+   "assessment_droneType_range_low": null,
+   "assessment_droneType_range_high": null,
+   "eventFacts": [],
+   "history": [
+    {
+     "revision": 2,
+     "date": "2026-11-28",
+     "at": "2026-11-28T02:27:37.503+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    }
+   ]
+  },
+  {
+   "id": "auto-ru-2026-11-28-7a9006084b",
+   "title": "Drone report in Novoshakhtinsk, Russia",
+   "place": "Novoshakhtinsk",
+   "country": "Russia",
+   "countryCode": "RU",
+   "scope": "single",
+   "review": "auto",
+   "corroboration": "single",
+   "dateKind": "event",
+   "date": "2026-11-28",
+   "category": "conflict",
+   "droneStatus": "reported",
+   "impactStatus": "reported",
+   "attributionStatus": "none",
+   "lat": null,
+   "lon": null,
+   "locationPrecision": "unknown",
+   "checkedAt": null,
+   "autoCheckedAt": "2026-11-28",
+   "updatedAt": "2026-11-28",
+   "summary": "According to TSN, drones were reported in Novoshakhtinsk, Russia on 28 November 2026.",
+   "impact": "No eligible attributed impact claim is included; this does not mean no impact occurred.",
+   "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
+   "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
+   "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
+   "windowStart": null,
+   "windowEnd": null,
+   "windowBasis": null,
+   "droneTypes": [],
+   "claims": [],
+   "droneStatusSources": [
+    0
+   ],
+   "impactStatusSources": [
+    0
+   ],
+   "attributionSources": [],
+   "sources": [
+    {
+     "label": "TSN (2026-11-28)",
+     "url": "https://tsn.ua/svit/drony-vdruhe-za-tyzden-atakuvaly-odyn-z-naybilshykh-npz-rf-ta-naftoperekachuvalnu-stantsiiu-3229055.html",
+     "published": "2026-11-28",
+     "family": "tsn",
+     "publishedAt": "2026-11-28T04:38:04+02:00"
+    }
+   ],
+   "timeline": [
+    {
+     "date": "2026-11-28",
+     "text": "TSN published a report on this incident.",
+     "source": 0
+    }
+   ],
+   "referencePoint": {
+    "lat": 47.76,
+    "lon": 39.93,
+    "level": "city",
+    "name": "Novoshakhtinsk"
+   },
+   "impactReports": [],
+   "series": [],
+   "plainSummary": {},
+   "autoEnrichments": [],
+   "revision": 2,
+   "media": [],
+   "operationalEffects": [],
+   "followUp": [],
+   "archiveEntity": null,
+   "namedLocation": null,
+   "publisherMedia": [],
+   "reportTiming": null,
+   "archivePattern": null,
+   "assessment": null,
+   "outcome": [],
+   "assessment_scale_version": null,
+   "assessment_operator_subject": null,
+   "assessment_operator_level": null,
+   "assessment_operator_range_low": null,
+   "assessment_operator_range_high": null,
+   "assessment_target_subject": null,
+   "assessment_target_level": null,
+   "assessment_target_range_low": null,
+   "assessment_target_range_high": null,
+   "assessment_droneType_subject": null,
+   "assessment_droneType_level": null,
+   "assessment_droneType_range_low": null,
+   "assessment_droneType_range_high": null,
+   "eventFacts": [],
+   "history": [
+    {
+     "revision": 2,
+     "date": "2026-11-28",
+     "at": "2026-11-28T03:45:53.893+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    }
+   ]
+  },
+  {
+   "id": "auto-ua-2026-11-27-e5510b967b",
+   "title": "Drone report in Kremenchuk, Ukraine",
+   "place": "Kremenchuk",
+   "country": "Ukraine",
+   "countryCode": "UA",
+   "scope": "single",
+   "review": "auto",
+   "corroboration": "single",
+   "dateKind": "event",
+   "date": "2026-11-27",
+   "category": "conflict",
+   "droneStatus": "reported",
+   "impactStatus": "reported",
+   "attributionStatus": "none",
+   "lat": null,
+   "lon": null,
+   "locationPrecision": "unknown",
+   "checkedAt": null,
+   "autoCheckedAt": "2026-11-28",
+   "updatedAt": "2026-11-27",
+   "summary": "According to a cited source, drones were reported in Kremenchuk, Ukraine on 27 November 2026.",
+   "impact": "According to an official source of an involved party, via Ukrinform, as of 27 Nov 2026 21:14 UTC+02:00: civilian infrastructure damage.",
+   "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
+   "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
+   "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
+   "windowStart": null,
+   "windowEnd": null,
+   "windowBasis": null,
+   "droneTypes": [],
+   "claims": [],
+   "droneStatusSources": [
+    0
+   ],
+   "impactStatusSources": [
+    0
+   ],
+   "attributionSources": [],
+   "sources": [
+    {
+     "label": "Ukrinform (2026-11-27)",
+     "url": "https://www.ukrinform.ua/rubric-regions/4189415-u-kremencuci-cerez-ataku-rosijskogo-drona-poskodzeni-zakladi-osviti-travmovani-dvoe-ditej.html",
+     "published": "2026-11-27",
+     "family": "ukrinform",
+     "publishedAt": "2026-11-27T21:14:00+02:00"
+    }
+   ],
+   "timeline": [
+    {
+     "date": "2026-11-27",
+     "text": "Ukrinform published a report on this incident.",
+     "source": 0
+    }
+   ],
+   "referencePoint": {
+    "lat": 49.06,
+    "lon": 33.4,
+    "level": "city",
+    "name": "Kremenchuk"
+   },
+   "impactReports": [
+    {
+     "asOf": "2026-11-27T21:14:00+02:00",
+     "n": null,
+     "qual": null,
+     "src": 0,
+     "state": "reported",
+     "type": "damage_civilian_infrastructure",
+     "via": "Ukrinform",
+     "who": {
+      "kind": "role",
+      "id": "party"
+     }
+    }
+   ],
+   "series": [],
+   "plainSummary": {},
+   "autoEnrichments": [],
+   "revision": 6,
+   "media": [],
+   "operationalEffects": [],
+   "followUp": [],
+   "archiveEntity": null,
+   "namedLocation": null,
+   "publisherMedia": [],
+   "reportTiming": null,
+   "archivePattern": null,
+   "assessment": null,
+   "outcome": [],
+   "assessment_scale_version": null,
+   "assessment_operator_subject": null,
+   "assessment_operator_level": null,
+   "assessment_operator_range_low": null,
+   "assessment_operator_range_high": null,
+   "assessment_target_subject": null,
+   "assessment_target_level": null,
+   "assessment_target_range_low": null,
+   "assessment_target_range_high": null,
+   "assessment_droneType_subject": null,
+   "assessment_droneType_level": null,
+   "assessment_droneType_range_low": null,
+   "assessment_droneType_range_high": null,
+   "eventFacts": [],
+   "history": [
+    {
+     "revision": 6,
+     "date": "2026-11-28",
+     "at": "2026-11-28T00:26:49.990+00:00",
+     "note": "Updated automatically after the new revision passed the automatic checks. (Source revision 5.)"
+    },
+    {
+     "revision": 4,
+     "date": "2026-11-27",
+     "at": "2026-11-27T22:27:28.789+00:00",
+     "note": "Updated automatically after the new revision passed the automatic checks. (Source revision 3.)"
+    },
+    {
+     "revision": 2,
+     "date": "2026-11-27",
+     "at": "2026-11-27T21:46:57.031+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    }
+   ]
+  },
+  {
+   "id": "auto-ua-2026-11-27-a33d59d065",
+   "title": "Drone report in Izyum, Ukraine",
+   "place": "Izyum",
+   "country": "Ukraine",
+   "countryCode": "UA",
+   "scope": "single",
+   "review": "auto",
+   "corroboration": "single",
+   "dateKind": "event",
+   "date": "2026-11-27",
+   "category": "conflict",
+   "droneStatus": "reported",
+   "impactStatus": "reported",
+   "attributionStatus": "none",
+   "lat": null,
+   "lon": null,
+   "locationPrecision": "unknown",
+   "checkedAt": null,
+   "autoCheckedAt": "2026-11-27",
+   "updatedAt": "2026-11-27",
+   "summary": "According to a cited source (reported by Ukrainska Pravda), drones were reported in Izyum, Ukraine on 27 November 2026.",
+   "impact": "No eligible attributed impact claim is included; this does not mean no impact occurred.",
+   "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
+   "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
+   "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
+   "windowStart": null,
+   "windowEnd": null,
+   "windowBasis": null,
+   "droneTypes": [],
+   "claims": [],
+   "droneStatusSources": [
+    0
+   ],
+   "impactStatusSources": [
+    0
+   ],
+   "attributionSources": [],
+   "sources": [
+    {
+     "label": "Ukrainska Pravda (2026-11-27)",
+     "url": "https://www.pravda.com.ua/news/2026/11/27/8064891/",
+     "published": "2026-11-27",
+     "family": "pravda",
+     "publishedAt": "2026-11-27T06:52:00+02:00"
+    }
+   ],
+   "timeline": [
+    {
+     "date": "2026-11-27",
+     "text": "Ukrainska Pravda published a report on this incident.",
+     "source": 0
+    }
+   ],
+   "referencePoint": {
+    "lat": 49.21,
+    "lon": 37.28,
+    "level": "city",
+    "name": "Izyum"
+   },
+   "impactReports": [],
+   "series": [],
+   "plainSummary": {},
+   "autoEnrichments": [],
+   "revision": 3,
+   "media": [],
+   "operationalEffects": [],
+   "followUp": [],
+   "archiveEntity": null,
+   "namedLocation": null,
+   "publisherMedia": [],
+   "reportTiming": null,
+   "archivePattern": null,
+   "assessment": null,
+   "outcome": [],
+   "assessment_scale_version": null,
+   "assessment_operator_subject": null,
+   "assessment_operator_level": null,
+   "assessment_operator_range_low": null,
+   "assessment_operator_range_high": null,
+   "assessment_target_subject": null,
+   "assessment_target_level": null,
+   "assessment_target_range_low": null,
+   "assessment_target_range_high": null,
+   "assessment_droneType_subject": null,
+   "assessment_droneType_level": null,
+   "assessment_droneType_range_low": null,
+   "assessment_droneType_range_high": null,
+   "eventFacts": [],
+   "history": [
+    {
+     "revision": 3,
+     "date": "2026-11-27",
+     "at": "2026-11-27T19:02:09.511+00:00",
+     "note": "The 6 injured are reported for the combined attack (rocket artillery and drones); the source does not apportion injuries by weapon."
+    },
+    {
+     "revision": 2,
+     "date": "2026-11-27",
+     "at": "2026-11-27T12:27:38.224+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    }
+   ]
+  },
+  {
+   "id": "auto-ua-2026-11-27-708547a61e",
+   "title": "Drone report in Kharkiv, Ukraine",
+   "place": "Kharkiv",
+   "country": "Ukraine",
+   "countryCode": "UA",
+   "scope": "single",
+   "review": "auto",
+   "corroboration": "single",
+   "dateKind": "event",
+   "date": "2026-11-27",
+   "category": "conflict",
+   "droneStatus": "reported",
+   "impactStatus": "reported",
+   "attributionStatus": "none",
+   "lat": null,
+   "lon": null,
+   "locationPrecision": "unknown",
+   "checkedAt": null,
+   "autoCheckedAt": "2026-11-27",
+   "updatedAt": "2026-11-27",
+   "summary": "According to a cited source, drones were reported in Kharkiv, Ukraine on 27 November 2026.",
+   "impact": "According to an official source of an involved party, via Ukrainska Pravda, as of 27 Nov 2026 08:26 UTC+02:00: damage.",
+   "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
+   "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
+   "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
+   "windowStart": null,
+   "windowEnd": null,
+   "windowBasis": null,
+   "droneTypes": [],
+   "claims": [],
+   "droneStatusSources": [
+    0
+   ],
+   "impactStatusSources": [
+    0
+   ],
+   "attributionSources": [],
+   "sources": [
+    {
+     "label": "Ukrainska Pravda (2026-11-27)",
+     "url": "https://www.pravda.com.ua/eng/news/2026/11/27/8064903/",
+     "published": "2026-11-27",
+     "family": "pravda",
+     "publishedAt": "2026-11-27T08:26:00+02:00"
+    }
+   ],
+   "timeline": [
+    {
+     "date": "2026-11-27",
+     "text": "Ukrainska Pravda published a report on this incident.",
+     "source": 0
+    }
+   ],
+   "referencePoint": {
+    "lat": 49.98,
+    "lon": 36.25,
+    "level": "city",
+    "name": "Kharkiv"
+   },
+   "impactReports": [
+    {
+     "asOf": "2026-11-27T08:26:00+02:00",
+     "n": null,
+     "qual": null,
+     "src": 0,
+     "state": "reported",
+     "type": "damage_other",
+     "via": "Ukrainska Pravda",
+     "who": {
+      "kind": "role",
+      "id": "party"
+     }
+    }
+   ],
+   "series": [],
+   "plainSummary": {},
+   "autoEnrichments": [],
+   "revision": 4,
+   "media": [],
+   "operationalEffects": [],
+   "followUp": [],
+   "archiveEntity": null,
+   "namedLocation": null,
+   "publisherMedia": [],
+   "reportTiming": null,
+   "archivePattern": null,
+   "assessment": null,
+   "outcome": [],
+   "assessment_scale_version": null,
+   "assessment_operator_subject": null,
+   "assessment_operator_level": null,
+   "assessment_operator_range_low": null,
+   "assessment_operator_range_high": null,
+   "assessment_target_subject": null,
+   "assessment_target_level": null,
+   "assessment_target_range_low": null,
+   "assessment_target_range_high": null,
+   "assessment_droneType_subject": null,
+   "assessment_droneType_level": null,
+   "assessment_droneType_range_low": null,
+   "assessment_droneType_range_high": null,
+   "eventFacts": [],
+   "history": [
+    {
+     "revision": 4,
+     "date": "2026-11-27",
+     "at": "2026-11-27T21:46:56.020+00:00",
+     "note": "Updated automatically after the new revision passed the automatic checks. (Source revision 3.)"
+    },
+    {
+     "revision": 2,
+     "date": "2026-11-27",
+     "at": "2026-11-27T15:26:30.597+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    }
+   ]
+  },
+  {
+   "id": "auto-ua-2026-11-27-6b4441c8f7",
+   "title": "Drone report in Kirovohrad region, Ukraine",
+   "place": "Kirovohrad region",
+   "country": "Ukraine",
+   "countryCode": "UA",
+   "scope": "single",
+   "review": "auto",
+   "corroboration": "single",
+   "dateKind": "event",
+   "date": "2026-11-27",
+   "category": "conflict",
+   "droneStatus": "reported",
+   "impactStatus": "unknown",
+   "attributionStatus": "none",
+   "lat": null,
+   "lon": null,
+   "locationPrecision": "unknown",
+   "checkedAt": null,
+   "autoCheckedAt": "2026-11-27",
+   "updatedAt": "2026-11-27T16:16:34+00:00",
+   "summary": "According to an official source of an involved party (reported by Interfax-Ukraine), drones were reported in Kirovohrad region, Ukraine on 27 Nov 2026. According to Interfax-Ukraine, citing Andriy Raikovych: the source reported no casualties; this is not an independent finding.",
+   "impact": "No eligible attributed impact claim is included; this does not mean no impact occurred.",
+   "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
+   "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
+   "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
+   "windowStart": null,
+   "windowEnd": null,
+   "windowBasis": null,
+   "droneTypes": [],
+   "claims": [],
+   "droneStatusSources": [
+    0
+   ],
+   "impactStatusSources": [],
+   "attributionSources": [],
+   "sources": [
+    {
+     "label": "Interfax-Ukraine (2026-11-27)",
+     "url": "https://en.interfax.com.ua/news/general/1243207.html",
+     "published": "2026-11-27",
+     "family": "interfax",
+     "publishedAt": "2026-11-27T09:11:48.683485+02:00"
+    }
+   ],
+   "timeline": [
+    {
+     "date": "2026-11-27",
+     "text": "Interfax-Ukraine published a report on this incident.",
+     "source": 0
+    }
+   ],
+   "referencePoint": {
+    "lat": 48.51,
+    "lon": 32.27,
+    "level": "region",
+    "name": "Kirovohrad region"
+   },
+   "impactReports": [],
+   "series": [],
+   "plainSummary": {},
+   "autoEnrichments": [
+    {
+     "field": "eventFacts",
+     "sourceUrl": "https://en.interfax.com.ua/news/general/1243207.html",
+     "asOf": "2026-11-27T09:11:48.683485+02:00",
+     "method": "ai-assisted-source-check",
+     "eventScope": "same-incident",
+     "speaker": "Andriy Raikovych",
+     "role": "party",
+     "quote": "there were no fatalities or injuries",
+     "value": {
+      "kind": "none_reported_by_source",
+      "sourceIndex": 0,
+      "support": "there were no fatalities or injuries",
+      "frame": {
+       "quote": "\"Last night, the enemy once again attacked Kirovohrad region with drones. The target was critical infrastructure. All relevant services responded promptly at the scene. Most importantly, there were no fatalities or injuries,\" he wrote on Telegram on Friday morning.",
+       "place": "Kirovohrad region",
+       "date": "Friday"
+      },
+      "absence": "casualties"
+     },
+     "check": {
+      "checkedAt": "2026-11-27T16:16:34+00:00",
+      "contentHash": "26be72632e8f3acbb908d5923a6e05a9c7af2135d4a0331bddac4b6840b43fcf",
+      "finalUrl": "https://en.interfax.com.ua/news/general/1243207.html",
+      "matchedIn": "article",
+      "robots": "allowed",
+      "digest": "d9d38faa33444c955068ddfc5e2247e94f18568305ce94d7557942b9a5ff16d9"
+     }
+    }
+   ],
+   "revision": 4,
+   "media": [],
+   "operationalEffects": [],
+   "followUp": [],
+   "archiveEntity": null,
+   "namedLocation": null,
+   "publisherMedia": [],
+   "reportTiming": null,
+   "archivePattern": null,
+   "assessment": null,
+   "outcome": [],
+   "assessment_scale_version": null,
+   "assessment_operator_subject": null,
+   "assessment_operator_level": null,
+   "assessment_operator_range_low": null,
+   "assessment_operator_range_high": null,
+   "assessment_target_subject": null,
+   "assessment_target_level": null,
+   "assessment_target_range_low": null,
+   "assessment_target_range_high": null,
+   "assessment_droneType_subject": null,
+   "assessment_droneType_level": null,
+   "assessment_droneType_range_low": null,
+   "assessment_droneType_range_high": null,
+   "eventFacts": [
+    {
+     "kind": "none_reported_by_source",
+     "sourceIndex": 0,
+     "support": "there were no fatalities or injuries",
+     "frame": {
+      "quote": "\"Last night, the enemy once again attacked Kirovohrad region with drones. The target was critical infrastructure. All relevant services responded promptly at the scene. Most importantly, there were no fatalities or injuries,\" he wrote on Telegram on Friday morning.",
+      "place": "Kirovohrad region",
+      "date": "Friday"
+     },
+     "absence": "casualties",
+     "quote": "there were no fatalities or injuries",
+     "speaker": "Andriy Raikovych",
+     "role": "party",
+     "sourceUrl": "https://en.interfax.com.ua/news/general/1243207.html",
+     "asOf": "2026-11-27T09:11:48.683485+02:00",
+     "method": "ai-assisted-source-check",
+     "eventScope": "same-incident",
+     "checkedAt": "2026-11-27T16:16:34+00:00"
+    }
+   ],
+   "history": [
+    {
+     "revision": 4,
+     "date": "2026-11-27",
+     "at": "2026-11-27T15:26:36.604+00:00",
+     "note": "Updated automatically after the new revision passed the automatic checks. (Source revision 3.)"
+    },
+    {
+     "revision": 2,
+     "date": "2026-11-27",
+     "at": "2026-11-27T07:43:11.233+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    }
+   ]
+  },
+  {
+   "id": "auto-ua-2026-11-27-5833d3adcc",
+   "title": "Drone report in Dnipro, Ukraine",
+   "place": "Dnipro",
+   "country": "Ukraine",
+   "countryCode": "UA",
+   "scope": "single",
+   "review": "auto",
+   "corroboration": "single",
+   "dateKind": "event",
+   "date": "2026-11-27",
+   "category": "conflict",
+   "droneStatus": "reported",
+   "impactStatus": "reported",
+   "attributionStatus": "none",
+   "lat": null,
+   "lon": null,
+   "locationPrecision": "unknown",
+   "checkedAt": null,
+   "autoCheckedAt": "2026-11-27",
+   "updatedAt": "2026-11-27T16:16:33+00:00",
+   "summary": "According to an official source of an involved party (reported by Interfax-Ukraine), drones were reported in Dnipro, Ukraine on 27 Nov 2026. According to Interfax-Ukraine, citing Oleksandr Hanzha: a fire was reported.",
+   "impact": "According to an official source of an involved party, via Interfax-Ukraine, as of 27 Nov 2026 09:14 UTC+02:00: fire.",
+   "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
+   "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
+   "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
+   "windowStart": null,
+   "windowEnd": null,
+   "windowBasis": null,
+   "droneTypes": [],
+   "claims": [],
+   "droneStatusSources": [
+    0
+   ],
+   "impactStatusSources": [
+    0
+   ],
+   "attributionSources": [],
+   "sources": [
+    {
+     "label": "Interfax-Ukraine (2026-11-27)",
+     "url": "https://en.interfax.com.ua/news/general/1243217.html",
+     "published": "2026-11-27",
+     "family": "interfax",
+     "publishedAt": "2026-11-27T09:14:38.158052+02:00"
+    }
+   ],
+   "timeline": [
+    {
+     "date": "2026-11-27",
+     "text": "Interfax-Ukraine published a report on this incident.",
+     "source": 0
+    }
+   ],
+   "referencePoint": {
+    "lat": 48.47,
+    "lon": 35.04,
+    "level": "city",
+    "name": "Dnipro"
+   },
+   "impactReports": [
+    {
+     "asOf": "2026-11-27T09:14:38.158052+02:00",
+     "n": null,
+     "qual": null,
+     "src": 0,
+     "state": "reported",
+     "type": "fire",
+     "via": "Interfax-Ukraine",
+     "who": {
+      "kind": "role",
+      "id": "party"
+     }
+    }
+   ],
+   "series": [],
+   "plainSummary": {},
+   "autoEnrichments": [
+    {
+     "field": "eventFacts",
+     "sourceUrl": "https://en.interfax.com.ua/news/general/1243217.html",
+     "asOf": "2026-11-27T09:14:38.158052+02:00",
+     "method": "ai-assisted-source-check",
+     "eventScope": "same-incident",
+     "speaker": "Oleksandr Hanzha",
+     "role": "party",
+     "quote": "A private house caught fire.",
+     "value": {
+      "kind": "fire",
+      "sourceIndex": 0,
+      "support": "A private house caught fire.",
+      "frame": {
+       "quote": "\"The enemy attacked Dnipro with a drone. A private house caught fire. Information about possible casualties is being clarified,\" he wrote on Telegram on Friday morning.",
+       "place": "Dnipro",
+       "date": "Friday"
+      }
+     },
+     "check": {
+      "checkedAt": "2026-11-27T16:16:33+00:00",
+      "contentHash": "3e56f22da05946a0ca893e0615509b98e41ec1d27696c7ed00c5ec2dc8a4fa0c",
+      "finalUrl": "https://en.interfax.com.ua/news/general/1243217.html",
+      "matchedIn": "article",
+      "robots": "allowed",
+      "digest": "3b0503fc1c6eb00915ae0769dd132c83251657246028713b5d91d319ed6c01f2"
+     }
+    }
+   ],
+   "revision": 2,
+   "media": [],
+   "operationalEffects": [],
+   "followUp": [],
+   "archiveEntity": null,
+   "namedLocation": null,
+   "publisherMedia": [],
+   "reportTiming": null,
+   "archivePattern": null,
+   "assessment": null,
+   "outcome": [],
+   "assessment_scale_version": null,
+   "assessment_operator_subject": null,
+   "assessment_operator_level": null,
+   "assessment_operator_range_low": null,
+   "assessment_operator_range_high": null,
+   "assessment_target_subject": null,
+   "assessment_target_level": null,
+   "assessment_target_range_low": null,
+   "assessment_target_range_high": null,
+   "assessment_droneType_subject": null,
+   "assessment_droneType_level": null,
+   "assessment_droneType_range_low": null,
+   "assessment_droneType_range_high": null,
+   "eventFacts": [
+    {
+     "kind": "fire",
+     "sourceIndex": 0,
+     "support": "A private house caught fire.",
+     "frame": {
+      "quote": "\"The enemy attacked Dnipro with a drone. A private house caught fire. Information about possible casualties is being clarified,\" he wrote on Telegram on Friday morning.",
+      "place": "Dnipro",
+      "date": "Friday"
+     },
+     "quote": "A private house caught fire.",
+     "speaker": "Oleksandr Hanzha",
+     "role": "party",
+     "sourceUrl": "https://en.interfax.com.ua/news/general/1243217.html",
+     "asOf": "2026-11-27T09:14:38.158052+02:00",
+     "method": "ai-assisted-source-check",
+     "eventScope": "same-incident",
+     "checkedAt": "2026-11-27T16:16:33+00:00"
+    }
+   ],
+   "history": [
+    {
+     "revision": 2,
+     "date": "2026-11-27",
+     "at": "2026-11-27T07:42:52.897+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    }
+   ]
+  },
+  {
+   "id": "auto-ua-2026-11-27-4ae3046c08",
+   "title": "Drone report in Rovenky, Ukraine",
+   "place": "Rovenky",
+   "country": "Ukraine",
+   "countryCode": "UA",
+   "scope": "single",
+   "review": "auto",
+   "corroboration": "single",
+   "dateKind": "event",
+   "date": "2026-11-27",
+   "category": "conflict",
+   "droneStatus": "reported",
+   "impactStatus": "reported",
+   "attributionStatus": "none",
+   "lat": null,
+   "lon": null,
+   "locationPrecision": "unknown",
+   "checkedAt": null,
+   "autoCheckedAt": "2026-11-27",
+   "updatedAt": "2026-11-27",
+   "summary": "According to a cited source, drones were reported in Rovenky, Ukraine on 27 November 2026.",
+   "impact": "According to an official source of an involved party, via TASS, as of 27 Nov 2026 14:46 UTC+00:00: civilian infrastructure damage.",
+   "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
+   "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
+   "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
+   "windowStart": null,
+   "windowEnd": null,
+   "windowBasis": null,
+   "droneTypes": [],
+   "claims": [],
+   "droneStatusSources": [
+    0
+   ],
+   "impactStatusSources": [
+    0
+   ],
+   "attributionSources": [],
+   "sources": [
+    {
+     "label": "TASS (2026-11-27)",
+     "url": "https://tass.com/emergencies/2226027",
+     "published": "2026-11-27",
+     "family": "tass",
+     "publishedAt": "2026-11-27T14:46:17.000Z"
+    }
+   ],
+   "timeline": [
+    {
+     "date": "2026-11-27",
+     "text": "TASS published a report on this incident.",
+     "source": 0
+    }
+   ],
+   "referencePoint": {
+    "lat": 48.08,
+    "lon": 39.38,
+    "level": "city",
+    "name": "Rovenky"
+   },
+   "impactReports": [
+    {
+     "asOf": "2026-11-27T14:46:17.000Z",
+     "n": null,
+     "qual": null,
+     "src": 0,
+     "state": "reported",
+     "type": "damage_civilian_infrastructure",
+     "via": "TASS",
+     "who": {
+      "kind": "role",
+      "id": "party"
+     }
+    }
+   ],
+   "series": [],
+   "plainSummary": {},
+   "autoEnrichments": [],
+   "revision": 2,
+   "media": [],
+   "operationalEffects": [],
+   "followUp": [],
+   "archiveEntity": null,
+   "namedLocation": null,
+   "publisherMedia": [],
+   "reportTiming": null,
+   "archivePattern": null,
+   "assessment": null,
+   "outcome": [],
+   "assessment_scale_version": null,
+   "assessment_operator_subject": null,
+   "assessment_operator_level": null,
+   "assessment_operator_range_low": null,
+   "assessment_operator_range_high": null,
+   "assessment_target_subject": null,
+   "assessment_target_level": null,
+   "assessment_target_range_low": null,
+   "assessment_target_range_high": null,
+   "assessment_droneType_subject": null,
+   "assessment_droneType_level": null,
+   "assessment_droneType_range_low": null,
+   "assessment_droneType_range_high": null,
+   "eventFacts": [],
+   "history": [
+    {
+     "revision": 2,
+     "date": "2026-11-27",
+     "at": "2026-11-27T15:26:51.922+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    }
+   ]
+  },
+  {
+   "id": "auto-ua-2026-11-27-2852b2f625",
+   "title": "Drone report in Chernihiv, Ukraine",
+   "place": "Chernihiv",
+   "country": "Ukraine",
+   "countryCode": "UA",
+   "scope": "single",
+   "review": "auto",
+   "corroboration": "single",
+   "dateKind": "event",
+   "date": "2026-11-27",
+   "category": "conflict",
+   "droneStatus": "reported",
+   "impactStatus": "reported",
+   "attributionStatus": "none",
+   "lat": null,
+   "lon": null,
+   "locationPrecision": "unknown",
+   "checkedAt": null,
+   "autoCheckedAt": "2026-11-27",
+   "updatedAt": "2026-11-27",
+   "summary": "According to a cited source, drones were reported in Chernihiv, Ukraine on 27 November 2026.",
+   "impact": "According to an official source of an involved party, via Ukrainska Pravda, as of 27 Nov 2026 11:39 UTC+02:00: fire.",
+   "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
+   "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
+   "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
+   "windowStart": null,
+   "windowEnd": null,
+   "windowBasis": null,
+   "droneTypes": [],
+   "claims": [],
+   "droneStatusSources": [
+    0
+   ],
+   "impactStatusSources": [
+    0
+   ],
+   "attributionSources": [],
+   "sources": [
+    {
+     "label": "Ukrainska Pravda (2026-11-27)",
+     "url": "https://www.pravda.com.ua/eng/news/2026/11/27/8064927/",
+     "published": "2026-11-27",
+     "family": "pravda",
+     "publishedAt": "2026-11-27T11:39:00+02:00"
+    }
+   ],
+   "timeline": [
+    {
+     "date": "2026-11-27",
+     "text": "Ukrainska Pravda published a report on this incident.",
+     "source": 0
+    }
+   ],
+   "referencePoint": {
+    "lat": 51.51,
+    "lon": 31.29,
+    "level": "city",
+    "name": "Chernihiv"
+   },
+   "impactReports": [
+    {
+     "asOf": "2026-11-27T11:39:00+02:00",
+     "n": null,
+     "qual": null,
+     "src": 0,
+     "state": "reported",
+     "type": "fire",
+     "via": "Ukrainska Pravda",
+     "who": {
+      "kind": "role",
+      "id": "party"
+     }
+    }
+   ],
+   "series": [],
+   "plainSummary": {},
+   "autoEnrichments": [],
+   "revision": 4,
+   "media": [],
+   "operationalEffects": [],
+   "followUp": [],
+   "archiveEntity": null,
+   "namedLocation": null,
+   "publisherMedia": [],
+   "reportTiming": null,
+   "archivePattern": null,
+   "assessment": null,
+   "outcome": [],
+   "assessment_scale_version": null,
+   "assessment_operator_subject": null,
+   "assessment_operator_level": null,
+   "assessment_operator_range_low": null,
+   "assessment_operator_range_high": null,
+   "assessment_target_subject": null,
+   "assessment_target_level": null,
+   "assessment_target_range_low": null,
+   "assessment_target_range_high": null,
+   "assessment_droneType_subject": null,
+   "assessment_droneType_level": null,
+   "assessment_droneType_range_low": null,
+   "assessment_droneType_range_high": null,
+   "eventFacts": [],
+   "history": [
+    {
+     "revision": 4,
+     "date": "2026-11-27",
+     "at": "2026-11-27T14:27:45.542+00:00",
+     "note": "Updated automatically after the new revision passed the automatic checks. (Source revision 3.)"
+    },
+    {
+     "revision": 2,
+     "date": "2026-11-27",
+     "at": "2026-11-27T10:42:32.421+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    }
+   ]
+  },
+  {
+   "id": "auto-sy-2026-11-27-db9f0af7f8",
+   "title": "Drone report in Suwayda region, Syria",
+   "place": "Suwayda region",
+   "country": "Syria",
+   "countryCode": "SY",
+   "scope": "single",
+   "review": "auto",
+   "corroboration": "single",
+   "dateKind": "event",
+   "date": "2026-11-27",
+   "category": "conflict",
+   "droneStatus": "reported",
+   "impactStatus": "unknown",
+   "attributionStatus": "none",
+   "lat": null,
+   "lon": null,
+   "locationPrecision": "unknown",
+   "checkedAt": null,
+   "autoCheckedAt": "2026-11-27",
+   "updatedAt": "2026-11-27",
+   "summary": "According to TRT World, drones were reported in Suwayda region, Syria on 27 November 2026.",
+   "impact": "No eligible attributed impact claim is included; this does not mean no impact occurred.",
+   "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
+   "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
+   "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
+   "windowStart": null,
+   "windowEnd": null,
+   "windowBasis": null,
+   "droneTypes": [],
+   "claims": [],
+   "droneStatusSources": [
+    0
+   ],
+   "impactStatusSources": [],
+   "attributionSources": [],
+   "sources": [
+    {
+     "label": "TRT World (2026-11-27)",
+     "url": "https://www.trtworld.com/article/f15a040f8819",
+     "published": "2026-11-27",
+     "family": "trtworld",
+     "publishedAt": "2026-11-27T18:14:12.617Z"
+    }
+   ],
+   "timeline": [
+    {
+     "date": "2026-11-27",
+     "text": "TRT World published a report on this incident.",
+     "source": 0
+    }
+   ],
+   "referencePoint": {
+    "lat": 32.71,
+    "lon": 36.57,
+    "level": "region",
+    "name": "Suwayda region"
+   },
+   "impactReports": [],
+   "series": [],
+   "plainSummary": {},
+   "autoEnrichments": [],
+   "revision": 2,
+   "media": [],
+   "operationalEffects": [],
+   "followUp": [],
+   "archiveEntity": null,
+   "namedLocation": null,
+   "publisherMedia": [],
+   "reportTiming": null,
+   "archivePattern": null,
+   "assessment": null,
+   "outcome": [],
+   "assessment_scale_version": null,
+   "assessment_operator_subject": null,
+   "assessment_operator_level": null,
+   "assessment_operator_range_low": null,
+   "assessment_operator_range_high": null,
+   "assessment_target_subject": null,
+   "assessment_target_level": null,
+   "assessment_target_range_low": null,
+   "assessment_target_range_high": null,
+   "assessment_droneType_subject": null,
+   "assessment_droneType_level": null,
+   "assessment_droneType_range_low": null,
+   "assessment_droneType_range_high": null,
+   "eventFacts": [],
+   "history": [
+    {
+     "revision": 2,
+     "date": "2026-11-27",
+     "at": "2026-11-27T21:49:11.408+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    }
+   ]
+  },
+  {
+   "id": "auto-sa-2026-11-27-da8798c4f9",
+   "title": "Drone report in Saudi Arabia",
+   "place": "Saudi Arabia",
+   "country": "Saudi Arabia",
+   "countryCode": "SA",
+   "scope": "single",
+   "review": "auto",
+   "corroboration": "single",
+   "dateKind": "event",
+   "date": "2026-11-27",
+   "category": "conflict",
+   "droneStatus": "reported",
+   "impactStatus": "unknown",
+   "attributionStatus": "none",
+   "lat": null,
+   "lon": null,
+   "locationPrecision": "country",
+   "checkedAt": null,
+   "autoCheckedAt": "2026-11-28",
+   "updatedAt": "2026-11-28",
+   "summary": "According to a cited source, drones were reported in Saudi Arabia on 27 November 2026.",
+   "impact": "No eligible attributed impact claim is included; this does not mean no impact occurred.",
+   "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
+   "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
+   "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
+   "windowStart": null,
+   "windowEnd": null,
+   "windowBasis": null,
+   "droneTypes": [],
+   "claims": [],
+   "droneStatusSources": [
+    0
+   ],
+   "impactStatusSources": [],
+   "attributionSources": [],
+   "sources": [
+    {
+     "label": "yemenmonitor.com (2026-11-27)",
+     "url": "https://www.yemenmonitor.com/Details/ArtMID/908/ArticleID/189130",
+     "published": "2026-11-27",
+     "family": "yemenmonitor",
+     "publishedAt": "2026-11-27T13:22:57+00:00"
+    }
+   ],
+   "timeline": [
+    {
+     "date": "2026-11-27",
+     "text": "yemenmonitor.com published a report on this incident.",
+     "source": 0
+    }
+   ],
+   "referencePoint": {
+    "lat": 23.81,
+    "lon": 44.7,
+    "level": "country",
+    "name": "Saudi Arabia"
+   },
+   "impactReports": [],
+   "series": [],
+   "plainSummary": {},
+   "autoEnrichments": [],
+   "revision": 3,
+   "media": [],
+   "operationalEffects": [],
+   "followUp": [],
+   "archiveEntity": null,
+   "namedLocation": null,
+   "publisherMedia": [],
+   "reportTiming": null,
+   "archivePattern": null,
+   "assessment": null,
+   "outcome": [],
+   "assessment_scale_version": null,
+   "assessment_operator_subject": null,
+   "assessment_operator_level": null,
+   "assessment_operator_range_low": null,
+   "assessment_operator_range_high": null,
+   "assessment_target_subject": null,
+   "assessment_target_level": null,
+   "assessment_target_range_low": null,
+   "assessment_target_range_high": null,
+   "assessment_droneType_subject": null,
+   "assessment_droneType_level": null,
+   "assessment_droneType_range_low": null,
+   "assessment_droneType_range_high": null,
+   "eventFacts": [],
+   "history": [
+    {
+     "revision": 3,
+     "date": "2026-11-28",
+     "at": "2026-11-28T00:27:29.087+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    }
+   ]
+  },
+  {
+   "id": "auto-ru-undated-dc8ccfdd6f",
+   "title": "Drone report in Kursk Oblast, Russia",
+   "place": "Kursk Oblast",
+   "country": "Russia",
+   "countryCode": "RU",
+   "scope": "single",
+   "review": "auto",
+   "corroboration": "single",
+   "dateKind": "statement",
+   "date": "2026-11-27",
+   "category": "conflict",
+   "droneStatus": "reported",
+   "impactStatus": "reported",
+   "attributionStatus": "none",
+   "lat": null,
+   "lon": null,
+   "locationPrecision": "unknown",
+   "checkedAt": null,
+   "autoCheckedAt": "2026-11-27",
+   "updatedAt": "2026-11-27",
+   "summary": "According to a cited source (reported by Interfax), drones were reported in Kursk Oblast, Russia during the reporting window 26 Nov 2026–27 Nov 2026.",
+   "impact": "According to Interfax, as of 27 Nov 2026 09:25 UTC+03:00: residential damage and vehicle damage.",
+   "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier. This is a reporting period, not an exact incident day.",
+   "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
+   "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
+   "windowStart": "2026-11-26",
+   "windowEnd": "2026-11-27",
+   "windowBasis": "source-relative-24h",
+   "droneTypes": [],
+   "claims": [],
+   "droneStatusSources": [
+    0
+   ],
+   "impactStatusSources": [
+    0
+   ],
+   "attributionSources": [],
+   "sources": [
+    {
+     "label": "Interfax (2026-11-27)",
+     "url": "https://www.interfax.ru/russia/1131760",
+     "published": "2026-11-27",
+     "family": "interfax",
+     "publishedAt": "2026-11-27T09:25+03:00"
+    }
+   ],
+   "timeline": [
+    {
+     "date": "2026-11-27",
+     "text": "Interfax published a report on this incident.",
+     "source": 0
+    }
+   ],
+   "referencePoint": {
+    "lat": 51.73,
+    "lon": 36.18,
+    "level": "region",
+    "name": "Kursk Oblast"
+   },
+   "impactReports": [
+    {
+     "asOf": "2026-11-27T09:25+03:00",
+     "n": null,
+     "qual": null,
+     "src": 0,
+     "state": "reported",
+     "type": "damage_residential",
+     "via": "Interfax",
+     "who": {
+      "kind": "outlet",
+      "name": "Interfax"
+     }
+    },
+    {
+     "asOf": "2026-11-27T09:25+03:00",
+     "n": null,
+     "qual": null,
+     "src": 0,
+     "state": "reported",
+     "type": "damage_vehicle",
+     "via": "Interfax",
+     "who": {
+      "kind": "outlet",
+      "name": "Interfax"
+     }
+    }
+   ],
+   "series": [],
+   "plainSummary": {},
+   "autoEnrichments": [],
+   "revision": 2,
+   "media": [],
+   "operationalEffects": [],
+   "followUp": [],
+   "archiveEntity": null,
+   "namedLocation": null,
+   "publisherMedia": [],
+   "reportTiming": null,
+   "archivePattern": null,
+   "assessment": null,
+   "outcome": [],
+   "assessment_scale_version": null,
+   "assessment_operator_subject": null,
+   "assessment_operator_level": null,
+   "assessment_operator_range_low": null,
+   "assessment_operator_range_high": null,
+   "assessment_target_subject": null,
+   "assessment_target_level": null,
+   "assessment_target_range_low": null,
+   "assessment_target_range_high": null,
+   "assessment_droneType_subject": null,
+   "assessment_droneType_level": null,
+   "assessment_droneType_range_low": null,
+   "assessment_droneType_range_high": null,
+   "eventFacts": [],
+   "history": [
+    {
+     "revision": 2,
+     "date": "2026-11-27",
+     "at": "2026-11-27T07:43:12.333+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    }
+   ]
+  },
+  {
+   "id": "auto-ru-2026-11-27-f09daa9dd1",
+   "title": "Drone report in Novorossiysk, Russia",
+   "place": "Novorossiysk",
+   "country": "Russia",
+   "countryCode": "RU",
+   "scope": "single",
+   "review": "auto",
+   "corroboration": "single",
+   "dateKind": "event",
+   "date": "2026-11-27",
+   "category": "conflict",
+   "droneStatus": "reported",
+   "impactStatus": "unknown",
+   "attributionStatus": "none",
+   "lat": null,
+   "lon": null,
+   "locationPrecision": "unknown",
+   "checkedAt": null,
+   "autoCheckedAt": "2026-11-27",
+   "updatedAt": "2026-11-28",
+   "summary": "According to a cited source (reported by UNIAN), drones were reported in Novorossiysk, Russia on 27 November 2026.",
+   "impact": "No eligible attributed impact claim is included; this does not mean no impact occurred.",
+   "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
+   "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
+   "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
+   "windowStart": null,
+   "windowEnd": null,
+   "windowBasis": null,
+   "droneTypes": [],
+   "claims": [],
+   "droneStatusSources": [
+    0
+   ],
+   "impactStatusSources": [],
+   "attributionSources": [],
+   "sources": [
+    {
+     "label": "UNIAN (2026-11-27)",
+     "url": "https://www.unian.ua/world/peterburg-vibuhi-shcho-vidomo-pro-masovu-ataku-droniv-27-listopada-13572828.html",
+     "published": "2026-11-27",
+     "family": "unian",
+     "publishedAt": "2026-11-27T10:00:00+02:00"
+    },
+    {
+     "label": "Rossiyskaya Gazeta",
+     "url": "https://rg.ru/2026/11/27/reg-ufo/mer-novorossijska-pokazal-kadry-posledstvij-ataki-bpla-na-gorod.html",
+     "published": "2026-11-27",
+     "family": "rossiyskaya-gazeta",
+     "publisher": "Rossiyskaya Gazeta",
+     "language": "ru",
+     "role": "additional reporting",
+     "publishedAt": "2026-11-27T12:48:00+03:00"
+    }
+   ],
+   "timeline": [
+    {
+     "date": "2026-11-27",
+     "text": "UNIAN published a report on this incident.",
+     "source": 0
+    }
+   ],
+   "referencePoint": {
+    "lat": 44.73,
+    "lon": 37.76,
+    "level": "city",
+    "name": "Novorossiysk"
+   },
+   "impactReports": [],
+   "series": [],
+   "plainSummary": {},
+   "autoEnrichments": [],
+   "revision": 4,
+   "media": [],
+   "operationalEffects": [],
+   "followUp": [],
+   "archiveEntity": null,
+   "namedLocation": null,
+   "publisherMedia": [],
+   "reportTiming": null,
+   "archivePattern": null,
+   "assessment": null,
+   "outcome": [],
+   "assessment_scale_version": null,
+   "assessment_operator_subject": null,
+   "assessment_operator_level": null,
+   "assessment_operator_range_low": null,
+   "assessment_operator_range_high": null,
+   "assessment_target_subject": null,
+   "assessment_target_level": null,
+   "assessment_target_range_low": null,
+   "assessment_target_range_high": null,
+   "assessment_droneType_subject": null,
+   "assessment_droneType_level": null,
+   "assessment_droneType_range_low": null,
+   "assessment_droneType_range_high": null,
+   "eventFacts": [],
+   "history": [
+    {
+     "revision": 4,
+     "date": "2026-11-28",
+     "at": "2026-11-28T03:52:11.372+00:00",
+     "note": "The report covers housing damage and a fire in Novorossiysk. Added: Rossiyskaya Gazeta."
+    },
+    {
+     "revision": 3,
+     "date": "2026-11-27",
+     "at": "2026-11-27T15:26:45.787+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    }
+   ]
+  },
+  {
+   "id": "auto-ru-2026-11-27-dfcf25d20a",
+   "title": "Drone report in Bryansk Oblast, Russia",
+   "place": "Bryansk Oblast",
+   "country": "Russia",
+   "countryCode": "RU",
+   "scope": "single",
+   "review": "auto",
+   "corroboration": "single",
+   "dateKind": "event",
+   "date": "2026-11-27",
+   "category": "conflict",
+   "droneStatus": "reported",
+   "impactStatus": "unknown",
+   "attributionStatus": "none",
+   "lat": null,
+   "lon": null,
+   "locationPrecision": "unknown",
+   "checkedAt": null,
+   "autoCheckedAt": "2026-11-27",
+   "updatedAt": "2026-11-27",
+   "summary": "According to a cited source (reported by The Moscow Times), drones were reported in Bryansk Oblast, Russia on 27 November 2026.",
+   "impact": "No eligible attributed impact claim is included; this does not mean no impact occurred.",
+   "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
+   "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
+   "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
+   "windowStart": null,
+   "windowEnd": null,
+   "windowBasis": null,
+   "droneTypes": [],
+   "claims": [],
+   "droneStatusSources": [
+    0
+   ],
+   "impactStatusSources": [],
+   "attributionSources": [],
+   "sources": [
+    {
+     "label": "The Moscow Times (2026-11-27)",
+     "url": "https://www.themoscowtimes.com/2026/11/27/drone-strikes-kill-2-in-kursk-and-bryansk-regions-amid-overnight-attacks-a812391",
+     "published": "2026-11-27",
+     "family": "themoscowtimes",
+     "publishedAt": "2026-11-27T14:43:51+03:00"
+    }
+   ],
+   "timeline": [
+    {
+     "date": "2026-11-27",
+     "text": "The Moscow Times published a report on this incident.",
+     "source": 0
+    }
+   ],
+   "referencePoint": {
+    "lat": 53.27,
+    "lon": 34.32,
+    "level": "region",
+    "name": "Bryansk Oblast"
+   },
+   "impactReports": [],
+   "series": [],
+   "plainSummary": {},
+   "autoEnrichments": [],
+   "revision": 2,
+   "media": [],
+   "operationalEffects": [],
+   "followUp": [],
+   "archiveEntity": null,
+   "namedLocation": null,
+   "publisherMedia": [],
+   "reportTiming": null,
+   "archivePattern": null,
+   "assessment": null,
+   "outcome": [],
+   "assessment_scale_version": null,
+   "assessment_operator_subject": null,
+   "assessment_operator_level": null,
+   "assessment_operator_range_low": null,
+   "assessment_operator_range_high": null,
+   "assessment_target_subject": null,
+   "assessment_target_level": null,
+   "assessment_target_range_low": null,
+   "assessment_target_range_high": null,
+   "assessment_droneType_subject": null,
+   "assessment_droneType_level": null,
+   "assessment_droneType_range_low": null,
+   "assessment_droneType_range_high": null,
+   "eventFacts": [],
+   "history": [
+    {
+     "revision": 2,
+     "date": "2026-11-27",
+     "at": "2026-11-27T12:27:27.525+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    }
+   ]
+  },
+  {
+   "id": "auto-ru-2026-11-27-d266461122",
+   "title": "Drone report in Saint Petersburg, Russia",
+   "place": "Saint Petersburg",
+   "country": "Russia",
+   "countryCode": "RU",
+   "scope": "single",
+   "review": "auto",
+   "corroboration": "single",
+   "dateKind": "event",
+   "date": "2026-11-27",
+   "category": "conflict",
+   "droneStatus": "reported",
+   "impactStatus": "unknown",
+   "attributionStatus": "none",
+   "lat": null,
+   "lon": null,
+   "locationPrecision": "unknown",
+   "checkedAt": null,
+   "autoCheckedAt": "2026-11-27",
+   "updatedAt": "2026-11-27",
+   "summary": "According to TSN, drones were reported in Saint Petersburg, Russia on 27 November 2026.",
+   "impact": "No eligible attributed impact claim is included; this does not mean no impact occurred.",
+   "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
+   "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
+   "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
+   "windowStart": null,
+   "windowEnd": null,
+   "windowBasis": null,
+   "droneTypes": [],
+   "claims": [],
+   "droneStatusSources": [
+    0
+   ],
+   "impactStatusSources": [],
+   "attributionSources": [],
+   "sources": [
+    {
+     "label": "TSN (2026-11-27)",
+     "url": "https://tsn.ua/svit/dobri-drony-pidryvaiut-peterburh-i-ne-tilky-rf-nakryly-vybukhy-pid-udarom-zavod-poviazanyy-z-iskanderamy-3228203.html",
+     "published": "2026-11-27",
+     "family": "tsn",
+     "publishedAt": "2026-11-27T07:15:43+02:00"
+    }
+   ],
+   "timeline": [
+    {
+     "date": "2026-11-27",
+     "text": "TSN published a report on this incident.",
+     "source": 0
+    }
+   ],
+   "referencePoint": {
+    "lat": 59.94,
+    "lon": 30.31,
+    "level": "city",
+    "name": "Saint Petersburg"
+   },
+   "impactReports": [],
+   "series": [],
+   "plainSummary": {},
+   "autoEnrichments": [],
+   "revision": 4,
+   "media": [],
+   "operationalEffects": [],
+   "followUp": [],
+   "archiveEntity": null,
+   "namedLocation": null,
+   "publisherMedia": [],
+   "reportTiming": null,
+   "archivePattern": null,
+   "assessment": null,
+   "outcome": [],
+   "assessment_scale_version": null,
+   "assessment_operator_subject": null,
+   "assessment_operator_level": null,
+   "assessment_operator_range_low": null,
+   "assessment_operator_range_high": null,
+   "assessment_target_subject": null,
+   "assessment_target_level": null,
+   "assessment_target_range_low": null,
+   "assessment_target_range_high": null,
+   "assessment_droneType_subject": null,
+   "assessment_droneType_level": null,
+   "assessment_droneType_range_low": null,
+   "assessment_droneType_range_high": null,
+   "eventFacts": [],
+   "history": [
+    {
+     "revision": 4,
+     "date": "2026-11-27",
+     "at": "2026-11-27T10:44:43.115+00:00",
+     "note": "Updated automatically after the new revision passed the automatic checks. (Source revision 3.)"
+    },
+    {
+     "revision": 2,
+     "date": "2026-11-27",
+     "at": "2026-11-27T07:44:46.209+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    }
+   ]
+  },
+  {
+   "id": "auto-ru-2026-11-27-57634f2132",
+   "title": "Drone report in Leningradskaya Oblast', Russia",
+   "place": "Leningradskaya Oblast'",
+   "country": "Russia",
+   "countryCode": "RU",
+   "scope": "single",
+   "review": "auto",
+   "corroboration": "multiple",
+   "dateKind": "event",
+   "date": "2026-11-27",
+   "category": "conflict",
+   "droneStatus": "reported",
+   "impactStatus": "unknown",
+   "attributionStatus": "none",
+   "lat": null,
+   "lon": null,
+   "locationPrecision": "unknown",
+   "checkedAt": null,
+   "autoCheckedAt": "2026-11-27",
+   "updatedAt": "2026-11-27T17:17:07+00:00",
+   "summary": "According to Interfax, citing Александр Дрозденко: a drone was reportedly shot down; the area was closed.",
+   "impact": "No eligible attributed impact claim is included; this does not mean no impact occurred.",
+   "evidence": "Automatically compiled and published from 5 cited articles that each report drone presence at this place and date. An automatic check found them to describe the same incident and found claims that appear to come from at least two different sources; that independence has not been established by an editor. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
+   "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
+   "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
+   "windowStart": null,
+   "windowEnd": null,
+   "windowBasis": null,
+   "droneTypes": [],
+   "claims": [],
+   "droneStatusSources": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ],
+   "impactStatusSources": [],
+   "attributionSources": [],
+   "sources": [
+    {
+     "label": "Fontanka (2026-11-27)",
+     "url": "https://www.fontanka.ru/2026/11/27/76793397/",
+     "published": "2026-11-27",
+     "family": "fontanka",
+     "publishedAt": "2026-11-27T07:45:08+03:00"
+    },
+    {
+     "label": "Komsomolskaya Pravda (2026-11-27)",
+     "url": "https://www.spb.kp.ru/daily/277837.5/5334327/",
+     "published": "2026-11-27",
+     "family": "kp",
+     "publishedAt": "2026-11-27T05:00:00.000Z"
+    },
+    {
+     "label": "iz.ru (2026-11-27)",
+     "url": "https://iz.ru/2209134/ladozhskii-most-v-lenoblasti-vremenno-perekryli-iz-za-ataki-ukrainskikh-bpla-izi",
+     "published": "2026-11-27",
+     "family": "iz",
+     "publishedAt": "2026-11-27T08:05:36+03:00"
+    },
+    {
+     "label": "Life (2026-11-27)",
+     "url": "https://life.ru/p/ladozhskiy-most-prevratilsya-v-ognevuyu-pozitsiyu-vo-vremya-massirovannoy-ataki",
+     "published": "2026-11-27",
+     "family": "life",
+     "publishedAt": "2026-11-27T08:05:53+03:00"
+    },
+    {
+     "label": "URA.RU (2026-11-27)",
+     "url": "https://ura.news/articles/1053147886",
+     "published": "2026-11-27",
+     "family": "ura",
+     "publishedAt": "2026-11-27T07:56:11.653909+00:00"
+    },
+    {
+     "label": "Interfax",
+     "url": "https://www.interfax.ru/russia/1131743",
+     "published": "2026-11-27",
+     "family": "interfax",
+     "publisher": "Interfax",
+     "language": "ru",
+     "role": "additional reporting",
+     "publishedAt": "2026-11-27T08:07+03:00"
+    }
+   ],
+   "timeline": [
+    {
+     "date": "2026-11-27",
+     "text": "Fontanka published a report on this incident.",
+     "source": 0
+    },
+    {
+     "date": "2026-11-27",
+     "text": "Komsomolskaya Pravda published a report on this incident.",
+     "source": 1
+    },
+    {
+     "date": "2026-11-27",
+     "text": "iz.ru published a report on this incident.",
+     "source": 2
+    },
+    {
+     "date": "2026-11-27",
+     "text": "Life published a report on this incident.",
+     "source": 3
+    },
+    {
+     "date": "2026-11-27",
+     "text": "URA.RU published a report on this incident.",
+     "source": 4
+    }
+   ],
+   "referencePoint": {
+    "lat": 59.91,
+    "lon": 30.97,
+    "level": "region",
+    "name": "Leningradskaya Oblast'"
+   },
+   "impactReports": [],
+   "series": [],
+   "plainSummary": {},
+   "autoEnrichments": [
+    {
+     "field": "eventFacts",
+     "sourceUrl": "https://www.interfax.ru/russia/1131743",
+     "asOf": "2026-11-27T08:07+03:00",
+     "method": "ai-assisted-source-check",
+     "eventScope": "same-incident",
+     "speaker": "Александр Дрозденко",
+     "role": "party",
+     "quote": "В Ленинградской области за ночь сбили 45 беспилотников",
+     "value": {
+      "kind": "shot_down",
+      "sourceIndex": 4,
+      "support": "В Ленинградской области за ночь сбили 45 беспилотников",
+      "frame": {
+       "quote": "Москва. 27 ноября. INTERFAX.RU - В Ленинградской области за ночь сбили 45 беспилотников, сообщил губернатор региона Александр Дрозденко.\n\"Ладожский мост не пострадал, но был временно перекрыт",
+       "place": "Ленинградской области",
+       "date": "27 ноября"
+      }
+     },
+     "check": {
+      "checkedAt": "2026-11-27T17:17:07+00:00",
+      "contentHash": "d91f9c016a4c8a6dd02daf08ab2fd2b47c75bda123515afed0f2646b5883a3bc",
+      "finalUrl": "https://www.interfax.ru/russia/1131743",
+      "matchedIn": "article",
+      "robots": "allowed",
+      "digest": "8f1b70036f12dc58376ab4bcad5ece988e154e90928b50d3425601d6af7514d0"
+     }
+    },
+    {
+     "field": "eventFacts",
+     "sourceUrl": "https://www.interfax.ru/russia/1131743",
+     "asOf": "2026-11-27T08:07+03:00",
+     "method": "ai-assisted-source-check",
+     "eventScope": "same-incident",
+     "speaker": "Александр Дрозденко",
+     "role": "party",
+     "quote": "Ладожский мост не пострадал, но был временно перекрыт",
+     "value": {
+      "kind": "area_closed",
+      "sourceIndex": 4,
+      "support": "был временно перекрыт",
+      "frame": {
+       "quote": "Москва. 27 ноября. INTERFAX.RU - В Ленинградской области за ночь сбили 45 беспилотников, сообщил губернатор региона Александр Дрозденко.\n\"Ладожский мост не пострадал, но был временно перекрыт",
+       "place": "Ленинградской области",
+       "date": "27 ноября"
+      }
+     },
+     "check": {
+      "checkedAt": "2026-11-27T17:17:07+00:00",
+      "contentHash": "d91f9c016a4c8a6dd02daf08ab2fd2b47c75bda123515afed0f2646b5883a3bc",
+      "finalUrl": "https://www.interfax.ru/russia/1131743",
+      "matchedIn": "article",
+      "robots": "allowed",
+      "digest": "47c6b0dca731010448e0a6c217a90548581a1413ea120224eb5b8d4d52c0df68"
+     }
+    }
+   ],
+   "revision": 9,
+   "media": [],
+   "operationalEffects": [],
+   "followUp": [],
+   "archiveEntity": null,
+   "namedLocation": null,
+   "publisherMedia": [],
+   "reportTiming": null,
+   "archivePattern": null,
+   "assessment": null,
+   "outcome": [],
+   "assessment_scale_version": null,
+   "assessment_operator_subject": null,
+   "assessment_operator_level": null,
+   "assessment_operator_range_low": null,
+   "assessment_operator_range_high": null,
+   "assessment_target_subject": null,
+   "assessment_target_level": null,
+   "assessment_target_range_low": null,
+   "assessment_target_range_high": null,
+   "assessment_droneType_subject": null,
+   "assessment_droneType_level": null,
+   "assessment_droneType_range_low": null,
+   "assessment_droneType_range_high": null,
+   "eventFacts": [
+    {
+     "kind": "shot_down",
+     "sourceIndex": 5,
+     "support": "В Ленинградской области за ночь сбили 45 беспилотников",
+     "frame": {
+      "quote": "Москва. 27 ноября. INTERFAX.RU - В Ленинградской области за ночь сбили 45 беспилотников, сообщил губернатор региона Александр Дрозденко.\n\"Ладожский мост не пострадал, но был временно перекрыт",
+      "place": "Ленинградской области",
+      "date": "27 ноября"
+     },
+     "quote": "В Ленинградской области за ночь сбили 45 беспилотников",
+     "speaker": "Александр Дрозденко",
+     "role": "party",
+     "sourceUrl": "https://www.interfax.ru/russia/1131743",
+     "asOf": "2026-11-27T08:07+03:00",
+     "method": "ai-assisted-source-check",
+     "eventScope": "same-incident",
+     "checkedAt": "2026-11-27T17:17:07+00:00"
+    },
+    {
+     "kind": "area_closed",
+     "sourceIndex": 5,
+     "support": "был временно перекрыт",
+     "frame": {
+      "quote": "Москва. 27 ноября. INTERFAX.RU - В Ленинградской области за ночь сбили 45 беспилотников, сообщил губернатор региона Александр Дрозденко.\n\"Ладожский мост не пострадал, но был временно перекрыт",
+      "place": "Ленинградской области",
+      "date": "27 ноября"
+     },
+     "quote": "Ладожский мост не пострадал, но был временно перекрыт",
+     "speaker": "Александр Дрозденко",
+     "role": "party",
+     "sourceUrl": "https://www.interfax.ru/russia/1131743",
+     "asOf": "2026-11-27T08:07+03:00",
+     "method": "ai-assisted-source-check",
+     "eventScope": "same-incident",
+     "checkedAt": "2026-11-27T17:17:07+00:00"
+    }
+   ],
+   "history": [
+    {
+     "revision": 9,
+     "date": "2026-11-27",
+     "at": "2026-11-27T21:48:43.809+00:00",
+     "note": "Updated automatically after the new revision passed the automatic checks. (Source revision 8.)"
+    },
+    {
+     "revision": 7,
+     "date": "2026-11-27",
+     "at": "2026-11-27T15:55:46.390+00:00",
+     "note": "A later report covers the overnight drone incident in the Leningrad region. Added: Interfax."
+    },
+    {
+     "revision": 6,
+     "date": "2026-11-27",
+     "at": "2026-11-27T10:44:03.499+00:00",
+     "note": "Updated automatically after the new revision passed the automatic checks. (Source revision 5.)"
+    },
+    {
+     "revision": 4,
+     "date": "2026-11-27",
+     "at": "2026-11-27T09:25:39.652+00:00",
+     "note": "Updated automatically after the new revision passed the automatic checks. (Source revision 3.)"
+    },
+    {
+     "revision": 2,
+     "date": "2026-11-27",
+     "at": "2026-11-27T07:44:13.425+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    }
+   ]
+  },
+  {
+   "id": "auto-lv-2026-11-27-71b6b589e3",
+   "title": "Drone sighting reported in Latvia",
+   "place": "Latvia",
+   "country": "Latvia",
+   "countryCode": "LV",
+   "scope": "single",
+   "review": "auto",
+   "corroboration": "single",
+   "dateKind": "event",
+   "date": "2026-11-27",
+   "category": "conflict",
+   "droneStatus": "reported",
+   "impactStatus": "unknown",
+   "attributionStatus": "none",
+   "lat": null,
+   "lon": null,
+   "locationPrecision": "unknown",
+   "checkedAt": null,
+   "autoCheckedAt": "2026-11-27",
+   "updatedAt": "2026-11-27",
+   "summary": "According to Espreso, citing Національні збройні сили Латвії: a drone was detected.",
+   "impact": "No eligible attributed impact claim is included; this does not mean no impact occurred.",
+   "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
+   "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
+   "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
+   "windowStart": null,
+   "windowEnd": null,
+   "windowBasis": null,
+   "droneTypes": [],
+   "claims": [],
+   "droneStatusSources": [
+    0
+   ],
+   "impactStatusSources": [],
+   "attributionSources": [],
+   "sources": [
+    {
+     "label": "Ukrainska Pravda (2026-11-27)",
+     "url": "https://www.pravda.com.ua/eng/news/2026/11/27/8064897/",
+     "published": "2026-11-27",
+     "family": "pravda",
+     "publishedAt": "2026-11-27T08:09:00+02:00"
+    },
+    {
+     "label": "Espreso",
+     "url": "https://espreso.tv/svit-latviya-aktivizuvala-perekhoplyuvach-nevidomiy-dron-porushiv-povitryaniy-prostir-kraini",
+     "published": "2026-11-27",
+     "family": "latvian-national-armed-forces",
+     "publisher": "Espreso",
+     "language": "uk",
+     "role": "additional reporting",
+     "publishedAt": "2026-11-27T09:33:00+02:00"
+    }
+   ],
+   "timeline": [
+    {
+     "date": "2026-11-27",
+     "text": "Ukrainska Pravda published a report on this incident.",
+     "source": 0
+    }
+   ],
+   "referencePoint": {
+    "lat": 57.07,
+    "lon": 25.46,
+    "level": "country",
+    "name": "Latvia"
+   },
+   "impactReports": [],
+   "series": [],
+   "plainSummary": {},
+   "autoEnrichments": [],
+   "revision": 4,
+   "media": [],
+   "operationalEffects": [],
+   "followUp": [],
+   "archiveEntity": null,
+   "namedLocation": null,
+   "publisherMedia": [],
+   "reportTiming": null,
+   "archivePattern": null,
+   "assessment": null,
+   "outcome": [],
+   "assessment_scale_version": null,
+   "assessment_operator_subject": null,
+   "assessment_operator_level": null,
+   "assessment_operator_range_low": null,
+   "assessment_operator_range_high": null,
+   "assessment_target_subject": null,
+   "assessment_target_level": null,
+   "assessment_target_range_low": null,
+   "assessment_target_range_high": null,
+   "assessment_droneType_subject": null,
+   "assessment_droneType_level": null,
+   "assessment_droneType_range_low": null,
+   "assessment_droneType_range_high": null,
+   "eventFacts": [],
+   "history": [
+    {
+     "revision": 4,
+     "date": "2026-11-27",
+     "at": "2026-11-27T19:03:17.796+00:00",
+     "note": "Correction (2026-11-27): The sources report an unidentified drone briefly entering Latvian airspace; Ludza municipality is only where an air-threat warning was issued, not a located position of the drone. Place set to the country level (Latvia). Not withdrawn as untrue."
+    },
+    {
+     "revision": 3,
+     "date": "2026-11-27",
+     "at": "2026-11-27T15:55:50.099+00:00",
+     "note": "The new report describes the drone alert in Ludza Municipality. Added: Espreso."
+    },
+    {
+     "revision": 2,
+     "date": "2026-11-27",
+     "at": "2026-11-27T10:44:04.513+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    }
+   ]
+  },
+  {
+   "id": "auto-ir-2026-11-27-2a9490ff37",
+   "title": "Drone report: Sistan and Baluchestan region, Iran",
+   "place": "Sistan and Baluchestan region",
+   "country": "Iran",
+   "countryCode": "IR",
+   "scope": "single",
+   "review": "auto",
+   "corroboration": "single",
+   "dateKind": "statement",
+   "date": "2026-11-27",
+   "category": "conflict",
+   "droneStatus": "reported",
+   "impactStatus": "unknown",
+   "attributionStatus": "none",
+   "lat": null,
+   "lon": null,
+   "locationPrecision": "unknown",
+   "checkedAt": null,
+   "autoCheckedAt": "2026-11-27",
+   "updatedAt": "2026-11-27",
+   "summary": "On 27 Nov 2026, Interfax reported on drone activity in Sistan and Baluchestan region; no single event date is established.",
+   "impact": "No eligible attributed impact claim is included; this does not mean no impact occurred.",
+   "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
+   "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
+   "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
+   "windowStart": null,
+   "windowEnd": null,
+   "windowBasis": null,
+   "droneTypes": [],
+   "claims": [],
+   "droneStatusSources": [
+    0
+   ],
+   "impactStatusSources": [],
+   "attributionSources": [],
+   "sources": [
+    {
+     "label": "Interfax (2026-11-27)",
+     "url": "https://www.interfax.ru/world/1131879",
+     "published": "2026-11-27",
+     "family": "interfax",
+     "publishedAt": "2026-11-27T16:00+03:00"
+    }
+   ],
+   "timeline": [
+    {
+     "date": "2026-11-27",
+     "text": "Interfax published a report on this incident.",
+     "source": 0
+    }
+   ],
+   "referencePoint": {
+    "lat": 29.5,
+    "lon": 60.86,
+    "level": "region",
+    "name": "Sistan and Baluchestan region"
+   },
+   "impactReports": [],
+   "series": [],
+   "plainSummary": {},
+   "autoEnrichments": [],
+   "revision": 3,
+   "media": [],
+   "operationalEffects": [],
+   "followUp": [],
+   "archiveEntity": null,
+   "namedLocation": null,
+   "publisherMedia": [],
+   "reportTiming": null,
+   "archivePattern": null,
+   "assessment": null,
+   "outcome": [],
+   "assessment_scale_version": null,
+   "assessment_operator_subject": null,
+   "assessment_operator_level": null,
+   "assessment_operator_range_low": null,
+   "assessment_operator_range_high": null,
+   "assessment_target_subject": null,
+   "assessment_target_level": null,
+   "assessment_target_range_low": null,
+   "assessment_target_range_high": null,
+   "assessment_droneType_subject": null,
+   "assessment_droneType_level": null,
+   "assessment_droneType_range_low": null,
+   "assessment_droneType_range_high": null,
+   "eventFacts": [],
+   "history": [
+    {
+     "revision": 3,
+     "date": "2026-11-27",
+     "at": "2026-11-27T19:03:18.189+00:00",
+     "note": "Correction (2026-11-27): 27 November is the Interfax publication date. The quoted Mehr/local police account does not date the reported drone incident, so the date is shown as a reporting date and the exact day of occurrence is unknown. Not withdrawn as untrue."
+    },
+    {
+     "revision": 2,
+     "date": "2026-11-27",
+     "at": "2026-11-27T13:29:26.695+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    }
+   ]
+  },
+  {
+   "id": "auto-co-2026-11-27-68bf3ebe0f",
+   "title": "Drone report in San Estanislao, Colombia",
+   "place": "San Estanislao",
+   "country": "Colombia",
+   "countryCode": "CO",
+   "scope": "single",
+   "review": "auto",
+   "corroboration": "single",
+   "dateKind": "event",
+   "date": "2026-11-27",
+   "category": "conflict",
+   "droneStatus": "reported",
+   "impactStatus": "unknown",
+   "attributionStatus": "none",
+   "lat": null,
+   "lon": null,
+   "locationPrecision": "unknown",
+   "checkedAt": null,
+   "autoCheckedAt": "2026-11-27",
+   "updatedAt": "2026-11-27",
+   "summary": "According to a cited source (reported by eluniversal.com.co), drones were reported in San Estanislao, Colombia on 27 November 2026.",
+   "impact": "No eligible attributed impact claim is included; this does not mean no impact occurred.",
+   "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
+   "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
+   "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
+   "windowStart": null,
+   "windowEnd": null,
+   "windowBasis": null,
+   "droneTypes": [],
+   "claims": [],
+   "droneStatusSources": [
+    0
+   ],
+   "impactStatusSources": [],
+   "attributionSources": [],
+   "sources": [
+    {
+     "label": "eluniversal.com.co (2026-11-27)",
+     "url": "https://www.eluniversal.com.co/sucesos/2026/11/27/oscar-diaz-la-victima-fatal-del-ataque-con-drones-a-estacion-de-policia-en-el-sur-de-bolivar/",
+     "published": "2026-11-27",
+     "family": "eluniversal",
+     "publishedAt": "2026-11-27T21:10:33Z"
+    }
+   ],
+   "timeline": [
+    {
+     "date": "2026-11-27",
+     "text": "eluniversal.com.co published a report on this incident.",
+     "source": 0
+    }
+   ],
+   "referencePoint": {
+    "lat": 10.4,
+    "lon": -75.15,
+    "level": "city",
+    "name": "San Estanislao"
+   },
+   "impactReports": [],
+   "series": [],
+   "plainSummary": {},
+   "autoEnrichments": [],
+   "revision": 2,
+   "media": [],
+   "operationalEffects": [],
+   "followUp": [],
+   "archiveEntity": null,
+   "namedLocation": null,
+   "publisherMedia": [],
+   "reportTiming": null,
+   "archivePattern": null,
+   "assessment": null,
+   "outcome": [],
+   "assessment_scale_version": null,
+   "assessment_operator_subject": null,
+   "assessment_operator_level": null,
+   "assessment_operator_range_low": null,
+   "assessment_operator_range_high": null,
+   "assessment_target_subject": null,
+   "assessment_target_level": null,
+   "assessment_target_range_low": null,
+   "assessment_target_range_high": null,
+   "assessment_droneType_subject": null,
+   "assessment_droneType_level": null,
+   "assessment_droneType_range_low": null,
+   "assessment_droneType_range_high": null,
+   "eventFacts": [],
+   "history": [
+    {
+     "revision": 2,
+     "date": "2026-11-27",
+     "at": "2026-11-27T22:26:38.604+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    }
+   ]
+  },
   {
    "id": "auto-ua-2026-11-26-f91138c675",
    "title": "Drone report in Odesa, Ukraine",
@@ -276,7 +2593,7 @@
    "countryCode": "UA",
    "scope": "single",
    "review": "auto",
-   "corroboration": "single",
+   "corroboration": "multiple",
    "dateKind": "event",
    "date": "2026-11-26",
    "category": "conflict",
@@ -287,23 +2604,34 @@
    "lon": null,
    "locationPrecision": "unknown",
    "checkedAt": null,
-   "autoCheckedAt": "2026-11-26",
-   "updatedAt": "2026-11-26T19:00:08+00:00",
-   "summary": "According to 1svobodnyi.kh.ua, drones were reported in Kharkiv, Ukraine on 26 Nov 2026. According to RBC-Ukraine: 2 people were reported killed. According to RBC-Ukraine, citing Ігор Терехов: a reported hit affected a residential building; a fire was reported.",
-   "impact": "According to 1svobodnyi.kh.ua, as of 26 Nov 2026 05:40 UTC+00:00: fire.",
-   "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
+   "autoCheckedAt": "2026-11-27",
+   "updatedAt": "2026-11-27",
+   "summary": "According to 1svobodnyi.kh.ua and TSN, drones were reported in Kharkiv, Ukraine on 26 Nov 2026. According to RBC-Ukraine: 2 people were reported killed. According to RBC-Ukraine, citing Ігор Терехов: a reported hit affected a residential building; a fire was reported.",
+   "impact": "According to TSN, as of 26 Nov 2026 22:30 UTC+02:00: residential damage. According to 1svobodnyi.kh.ua, as of 26 Nov 2026 05:40 UTC+00:00: fire. According to RBC-Ukraine, as of 26 Nov 2026 05:43 UTC+02:00: 3 people injured.",
+   "evidence": "Automatically compiled and published from 2 cited articles that each report drone presence at this place and date. An automatic check found them to describe the same incident and found claims that appear to come from at least two different sources; that independence has not been established by an editor. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
    "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
    "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
    "windowStart": null,
    "windowEnd": null,
    "windowBasis": null,
-   "droneTypes": [],
+   "droneTypes": [
+    {
+     "asReported": "шахедами",
+     "type": "shahed-family",
+     "count": null,
+     "countMetric": null,
+     "sourceIndex": 1
+    }
+   ],
    "claims": [],
    "droneStatusSources": [
-    0
+    0,
+    1
    ],
    "impactStatusSources": [
-    0
+    0,
+    1,
+    2
    ],
    "attributionSources": [],
    "sources": [
@@ -313,6 +2641,13 @@
      "published": "2026-11-26",
      "family": "1svobodnyi",
      "publishedAt": "2026-11-26T05:40:46+00:00"
+    },
+    {
+     "label": "TSN (2026-11-26)",
+     "url": "https://tsn.ua/ukrayina/u-kharkovi-zahynulo-podruzzia-aytivtsiv-shakhed-vypalyv-yikhnye-pomeshkannia-vshchent-foto-video-3228059.html",
+     "published": "2026-11-26",
+     "family": "tsn",
+     "publishedAt": "2026-11-26T22:30:37+02:00"
     },
     {
      "label": "RBC-Ukraine",
@@ -330,6 +2665,11 @@
      "date": "2026-11-26",
      "text": "1svobodnyi.kh.ua published a report on this incident.",
      "source": 0
+    },
+    {
+     "date": "2026-11-26",
+     "text": "TSN published a report on this incident.",
+     "source": 1
     }
    ],
    "referencePoint": {
@@ -339,6 +2679,19 @@
     "name": "Kharkiv"
    },
    "impactReports": [
+    {
+     "asOf": "2026-11-26T22:30:37+02:00",
+     "n": null,
+     "qual": null,
+     "src": 1,
+     "state": "reported",
+     "type": "damage_residential",
+     "via": "TSN",
+     "who": {
+      "kind": "outlet",
+      "name": "TSN"
+     }
+    },
     {
      "asOf": "2026-11-26T05:40:46+00:00",
      "n": null,
@@ -351,6 +2704,19 @@
       "kind": "outlet",
       "name": "1svobodnyi.kh.ua"
      }
+    },
+    {
+     "type": "injured",
+     "n": 3,
+     "qual": "eq",
+     "who": {
+      "kind": "outlet",
+      "name": "RBC-Ukraine"
+     },
+     "via": "RBC-Ukraine",
+     "asOf": "2026-11-26T05:43:56+02:00",
+     "src": 2,
+     "state": "reported"
     }
    ],
    "series": [],
@@ -441,9 +2807,31 @@
       "robots": "allowed",
       "digest": "b96108f07a984fda4bd663c2d50e7b5cfb68050ff7e2481789e5e54650b938b2"
      }
+    },
+    {
+     "field": "injured",
+     "sourceUrl": "https://www.rbc.ua/rus/news/harkovi-vorozhiy-dron-vluchiv-bagatopoverhivku-1795664636.html",
+     "quote": "Наразі відомо про трьох постраждалих.",
+     "speaker": "RBC-Ukraine",
+     "role": "publisher",
+     "value": {
+      "n": 3,
+      "qual": "eq"
+     },
+     "asOf": "2026-11-26T05:43:56+02:00",
+     "eventScope": "same-incident",
+     "method": "ai-assisted-source-check",
+     "check": {
+      "checkedAt": "2026-11-28T03:52:55+00:00",
+      "contentHash": "19ad9b61cfd9a995ab0f1524a31559704ca50195c34005c798d2328e9d2fe245",
+      "finalUrl": "https://www.rbc.ua/rus/news/harkovi-vorozhiy-dron-vluchiv-bagatopoverhivku-1795664636.html",
+      "matchedIn": "article",
+      "robots": "allowed",
+      "digest": "c983d8dbede815a3d3f7cde99b6882f3b78a6d7c2adc156a43f1ebc2f2c59f6e"
+     }
     }
    ],
-   "revision": 13,
+   "revision": 15,
    "media": [],
    "operationalEffects": [],
    "followUp": [],
@@ -471,7 +2859,7 @@
     {
      "kind": "killed",
      "n": 2,
-     "sourceIndex": 1,
+     "sourceIndex": 2,
      "support": "Внаслідок влучання дрона у багатоповерхівку загинули дві людини.",
      "frame": {
       "quote": "У Харкові вранці 26 листопада російський ударний безпілотник влучив у багатоповерховий житловий будинок у Новобаварському районі, на місці удару виникла пожежа. Також зафіксовано ще одне влучання у Холодногірському районі.\nПро це повідомляє РБК-Україна з посиланням на повідомлення мера Харкова Ігоря Терехова.\n\"Влучання ворожого дрону по багатоповерхівці у Новобаварському районі. На місці пожежа\", - написав Терехов після 5 ранку.\nВін також повідомив про ще одне влучання у Холодногірському районі та написав, що наслідки уточнюються, на місцях працюють відповідні служби.\nПовітряні Сили після 5 ранку писали про рух ворожих дронів у напрямку Харкова.\nУ Новобаварському районі горить квартира на 15 поверсі, також є інформація про заблокованих під завалами людей. Наразі відомо про трьох постраждалих.\nВнаслідок влучання дрона у багатоповерхівку загинули дві людини.",
@@ -489,7 +2877,7 @@
     },
     {
      "kind": "hit",
-     "sourceIndex": 1,
+     "sourceIndex": 2,
      "support": "російський ударний безпілотник влучив у багатоповерховий житловий будинок",
      "frame": {
       "quote": "У Харкові вранці 26 листопада російський ударний безпілотник влучив у багатоповерховий житловий будинок у Новобаварському районі, на місці удару виникла пожежа.",
@@ -508,7 +2896,7 @@
     },
     {
      "kind": "fire",
-     "sourceIndex": 1,
+     "sourceIndex": 2,
      "support": "на місці удару виникла пожежа",
      "frame": {
       "quote": "У Харкові вранці 26 листопада російський ударний безпілотник влучив у багатоповерховий житловий будинок у Новобаварському районі, на місці удару виникла пожежа.",
@@ -526,6 +2914,12 @@
     }
    ],
    "history": [
+    {
+     "revision": 15,
+     "date": "2026-11-27",
+     "at": "2026-11-27T14:28:16.496+00:00",
+     "note": "Updated automatically after the new revision passed the automatic checks. (Source revision 14.)"
+    },
     {
      "revision": 13,
      "date": "2026-11-26",
@@ -696,7 +3090,7 @@
    "autoCheckedAt": "2026-11-26",
    "updatedAt": "2026-11-27T03:38:46+00:00",
    "summary": "According to Arab News, drones were reported in Ghubaysh, Sudan on 26 Nov 2026. According to Arab News, citing AFP: a reported hit affected a vehicle; 9 people were reported injured.",
-   "impact": "No eligible attributed impact claim is included; this does not mean no impact occurred.",
+   "impact": "According to a non-involved official body, via Arab News, as of 26 Nov 2026 16:35 UTC+00:00: at least 11 people killed.",
    "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
    "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
    "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
@@ -734,7 +3128,21 @@
     "level": "city",
     "name": "Ghubaysh"
    },
-   "impactReports": [],
+   "impactReports": [
+    {
+     "type": "killed",
+     "n": 11,
+     "qual": "gte",
+     "who": {
+      "kind": "role",
+      "id": "independent"
+     },
+     "via": "Arab News",
+     "asOf": "2026-11-26T16:35:43.588Z",
+     "src": 0,
+     "state": "reported"
+    }
+   ],
    "series": [],
    "plainSummary": {},
    "autoEnrichments": [
@@ -794,6 +3202,28 @@
       "matchedIn": "article",
       "robots": "allowed",
       "digest": "336c9c2f60f8e132d24e823caa8e15b4b7c80e861971c898bd019a752f96bd8e"
+     }
+    },
+    {
+     "field": "killed",
+     "sourceUrl": "https://www.arabnews.com/middle-east/drone-attack-kills-11-in-sudans-west-kordofan-medical-source-3014164",
+     "quote": "At least 11 people were killed",
+     "speaker": "Local hospital source quoted by AFP",
+     "role": "independent",
+     "value": {
+      "n": 11,
+      "qual": "gte"
+     },
+     "asOf": "2026-11-26T16:35:43.588Z",
+     "eventScope": "same-incident",
+     "method": "ai-assisted-source-check",
+     "check": {
+      "checkedAt": "2026-11-28T03:52:55+00:00",
+      "contentHash": "e510fe07c3fd021e67bfa71a220edd37285dd13a795206ede160372dd9e7d01c",
+      "finalUrl": "https://www.arabnews.com/middle-east/drone-attack-kills-11-in-sudans-west-kordofan-medical-source-3014164",
+      "matchedIn": "article",
+      "robots": "allowed",
+      "digest": "9351abbb0161f47583f73236cb7049d3e61f4b425a110242f43fb83ee9cb27d5"
      }
     }
    ],
@@ -1511,6 +3941,163 @@
    ]
   },
   {
+   "id": "auto-pk-2026-11-26-ee07e8aa7f",
+   "title": "Drone report: Washuk, Pakistan",
+   "place": "Washuk",
+   "country": "Pakistan",
+   "countryCode": "PK",
+   "scope": "single",
+   "review": "auto",
+   "corroboration": "single",
+   "dateKind": "event",
+   "date": "2026-11-26",
+   "category": "conflict",
+   "droneStatus": "reported",
+   "impactStatus": "reported",
+   "attributionStatus": "none",
+   "lat": null,
+   "lon": null,
+   "locationPrecision": "unknown",
+   "checkedAt": null,
+   "autoCheckedAt": "2026-11-27",
+   "updatedAt": "2026-11-27",
+   "summary": "According to news-brief.com, drones were reported in Washuk, Pakistan on 26 Nov 2026.",
+   "impact": "According to a non-involved official body, via thebalochistanpost.net, as of 26 Nov 2026 17:36 UTC+05:00: 1 person injured.",
+   "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
+   "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
+   "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
+   "windowStart": null,
+   "windowEnd": null,
+   "windowBasis": null,
+   "droneTypes": [],
+   "claims": [],
+   "droneStatusSources": [
+    0
+   ],
+   "impactStatusSources": [
+    1
+   ],
+   "attributionSources": [],
+   "sources": [
+    {
+     "label": "news-brief.com (2026-11-27)",
+     "url": "https://news-brief.com/pk/news/elderly-civilian-wounded-in-pakistan-military-drone-strike-as-foreign-secretary-20261127183554",
+     "published": "2026-11-27",
+     "family": "news-brief",
+     "publishedAt": "2026-11-27T13:35:54Z"
+    },
+    {
+     "label": "The Balochistan Post",
+     "url": "https://thebalochistanpost.net/2026/11/elderly-civilian-wounded-in-pakistani-drone-strike-in-washuk-sources-say/",
+     "published": "2026-11-26",
+     "family": "thebalochistanpost",
+     "publisher": "The Balochistan Post",
+     "language": "en-US",
+     "role": "additional reporting",
+     "publishedAt": "2026-11-26T17:36:45+05:00"
+    }
+   ],
+   "timeline": [
+    {
+     "date": "2026-11-27",
+     "text": "news-brief.com published a report on this incident.",
+     "source": 0
+    }
+   ],
+   "referencePoint": {
+    "lat": 27.73,
+    "lon": 64.81,
+    "level": "city",
+    "name": "Washuk"
+   },
+   "impactReports": [
+    {
+     "type": "injured",
+     "n": 1,
+     "qual": "eq",
+     "who": {
+      "kind": "role",
+      "id": "independent"
+     },
+     "via": "thebalochistanpost.net",
+     "asOf": "2026-11-26T17:36:45+05:00",
+     "src": 1,
+     "state": "reported"
+    }
+   ],
+   "series": [],
+   "plainSummary": {},
+   "autoEnrichments": [
+    {
+     "field": "injured",
+     "sourceUrl": "https://thebalochistanpost.net/2026/11/elderly-civilian-wounded-in-pakistani-drone-strike-in-washuk-sources-say/",
+     "quote": "An elderly civilian was wounded",
+     "speaker": "Local sources quoted by The Balochistan Post",
+     "role": "independent",
+     "value": {
+      "n": 1,
+      "qual": "eq"
+     },
+     "asOf": "2026-11-26T17:36:45+05:00",
+     "eventScope": "same-incident",
+     "method": "ai-assisted-source-check",
+     "check": {
+      "checkedAt": "2026-11-28T03:52:56+00:00",
+      "contentHash": "7f74651b744e0f752d8a5dcd269cb9768d3bc02bd2615f79724b42001052cd8e",
+      "finalUrl": "https://thebalochistanpost.net/2026/11/elderly-civilian-wounded-in-pakistani-drone-strike-in-washuk-sources-say/",
+      "matchedIn": "article",
+      "robots": "allowed",
+      "digest": "29b49e856c0cb7be13327981b1ceadc944d5466c4aedac605a8a5d3c786463a5"
+     }
+    }
+   ],
+   "revision": 4,
+   "media": [],
+   "operationalEffects": [],
+   "followUp": [],
+   "archiveEntity": null,
+   "namedLocation": null,
+   "publisherMedia": [],
+   "reportTiming": null,
+   "archivePattern": null,
+   "assessment": null,
+   "outcome": [],
+   "assessment_scale_version": null,
+   "assessment_operator_subject": null,
+   "assessment_operator_level": null,
+   "assessment_operator_range_low": null,
+   "assessment_operator_range_high": null,
+   "assessment_target_subject": null,
+   "assessment_target_level": null,
+   "assessment_target_range_low": null,
+   "assessment_target_range_high": null,
+   "assessment_droneType_subject": null,
+   "assessment_droneType_level": null,
+   "assessment_droneType_range_low": null,
+   "assessment_droneType_range_high": null,
+   "eventFacts": [],
+   "history": [
+    {
+     "revision": 4,
+     "date": "2026-11-27",
+     "at": "2026-11-27T19:06:07.202+00:00",
+     "note": "Correction (2026-11-27): The original report (The Balochistan Post) places the 26 November drone strike in Washuk district (Mulla Dhuni, Raghai area), not Turbat; the Turbat wording in the aggregator copy attributed to ANI is not supported. Place set to Washuk. Not withdrawn as untrue."
+    },
+    {
+     "revision": 3,
+     "date": "2026-11-27",
+     "at": "2026-11-27T19:06:00.015+00:00",
+     "note": "Additional source added (2026-11-27): The Balochistan Post. Additional reporting on the same event; assessments and counts unchanged."
+    },
+    {
+     "revision": 2,
+     "date": "2026-11-27",
+     "at": "2026-11-27T14:29:52.824+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    }
+   ]
+  },
+  {
    "id": "auto-lb-2026-11-26-5157a66f32",
    "title": "Drone report in Beirut, Lebanon",
    "place": "Beirut",
@@ -1734,7 +4321,7 @@
    "locationPrecision": "country",
    "checkedAt": "2026-11-26",
    "autoCheckedAt": null,
-   "updatedAt": "2026-11-26",
+   "updatedAt": "2026-11-27",
    "summary": "Kuwait's Defence Ministry says hostile Iranian drones were detected and intercepted in Kuwaiti airspace on Thursday 26 November 2026, and that falling debris hit what it calls a vital site. Italy's foreign ministry says two Italian technicians of Rheinmetall Italia were working there. According to Italian Foreign Minister Antonio Tajani, the site was an air-defence surveillance station.",
    "impact": "Two Italian technicians of Rheinmetall Italia died of their injuries, according to Kuwait's Defence Ministry and the Italian government; ANSA, as relayed by DW and NOS, gives their ages as 36 and 65. Two other people were injured: a Pakistani national and a Kuwaiti army captain, according to Tajani. Kuwait's Defence Ministry first reported four people injured by falling shrapnel and unspecified material damage at the site. Civilian flights were diverted, according to Euronews.",
    "evidence": "The casualty figures come from government statements: Kuwait's Defence Ministry and Italy's foreign ministry, as reported by Al Jazeera with Reuters, DW with AFP and dpa, and ABC with Reuters and AP. The ministry's first statement gave four injured; it later said the two Italians had died. NOS reports the same account in Dutch. No independent account of the strike itself is available in these sources.",
@@ -1877,6 +4464,26 @@
      "published": "2026-11-26",
      "family": "news-brief",
      "publishedAt": "2026-11-26T13:42:03Z"
+    },
+    {
+     "label": "Arab Times",
+     "url": "https://www.arabtimesonline.com/news/eu-chief-demands-pressure-on-iran-following-deadly-kuwait-drone-attack/",
+     "published": "2026-11-26",
+     "family": "arab-times",
+     "publisher": "Arab Times",
+     "language": "en",
+     "role": "additional reporting",
+     "publishedAt": "2026-11-26T20:21:00+03:00"
+    },
+    {
+     "label": "20minutos",
+     "url": "https://www.20minutos.es/internacional/mueren-dos-ciudadanos-italianos-kuwait-tras-caida-restos-drones-iranies_7066362_0.html",
+     "published": "2026-11-26",
+     "family": "20minutos",
+     "publisher": "20minutos",
+     "language": "es",
+     "role": "additional reporting",
+     "publishedAt": "2026-11-26T18:55:27+01:00"
     }
    ],
    "timeline": [
@@ -1906,7 +4513,7 @@
    "series": [],
    "plainSummary": {},
    "autoEnrichments": [],
-   "revision": 3,
+   "revision": 4,
    "media": [],
    "operationalEffects": [],
    "followUp": [],
@@ -1933,6 +4540,12 @@
    "eventFacts": [],
    "history": [
     {
+     "revision": 4,
+     "date": "2026-11-27",
+     "at": "2026-11-27T16:09:55.688+00:00",
+     "note": "Reviewed supplemental reporting for the incident and selected links that add distinct evidence. Added: 20minutos, Arab Times."
+    },
+    {
      "revision": 3,
      "date": "2026-11-26",
      "at": "2026-11-26T18:05:56.381+00:00",
@@ -1942,6 +4555,101 @@
      "revision": 2,
      "date": "2026-11-26",
      "at": "2026-11-26T14:27:13.383+00:00",
+     "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
+    }
+   ]
+  },
+  {
+   "id": "auto-co-2026-11-26-0ae970581e",
+   "title": "Drone report in Chocó region, Colombia",
+   "place": "Chocó region",
+   "country": "Colombia",
+   "countryCode": "CO",
+   "scope": "single",
+   "review": "auto",
+   "corroboration": "single",
+   "dateKind": "event",
+   "date": "2026-11-26",
+   "category": "conflict",
+   "droneStatus": "reported",
+   "impactStatus": "unknown",
+   "attributionStatus": "none",
+   "lat": null,
+   "lon": null,
+   "locationPrecision": "unknown",
+   "checkedAt": null,
+   "autoCheckedAt": "2026-11-27",
+   "updatedAt": "2026-11-27",
+   "summary": "According to ntn24.com, drones were reported in Chocó region, Colombia on 26 November 2026.",
+   "impact": "No eligible attributed impact claim is included; this does not mean no impact occurred.",
+   "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
+   "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
+   "attribution": "Not assessed in this automatic report; see the cited sources for any claims of responsibility.",
+   "windowStart": null,
+   "windowEnd": null,
+   "windowBasis": null,
+   "droneTypes": [],
+   "claims": [],
+   "droneStatusSources": [
+    0
+   ],
+   "impactStatusSources": [],
+   "attributionSources": [],
+   "sources": [
+    {
+     "label": "ntn24.com (2026-11-27)",
+     "url": "https://www.ntn24.com/noticias-actualidad/panico-en-arenal-bolivar-por-nuevo-ataque-con-drones-asi-se-intentaron-defender-los-uniformados-pese-a-la-gran-altura-desde-la-que-operarian-los-aparatos-669456",
+     "published": "2026-11-27",
+     "family": "ntn24"
+    }
+   ],
+   "timeline": [
+    {
+     "date": "2026-11-27",
+     "text": "ntn24.com published a report on this incident.",
+     "source": 0
+    }
+   ],
+   "referencePoint": {
+    "lat": 5.69,
+    "lon": -76.66,
+    "level": "region",
+    "name": "Chocó region"
+   },
+   "impactReports": [],
+   "series": [],
+   "plainSummary": {},
+   "autoEnrichments": [],
+   "revision": 2,
+   "media": [],
+   "operationalEffects": [],
+   "followUp": [],
+   "archiveEntity": null,
+   "namedLocation": null,
+   "publisherMedia": [],
+   "reportTiming": null,
+   "archivePattern": null,
+   "assessment": null,
+   "outcome": [],
+   "assessment_scale_version": null,
+   "assessment_operator_subject": null,
+   "assessment_operator_level": null,
+   "assessment_operator_range_low": null,
+   "assessment_operator_range_high": null,
+   "assessment_target_subject": null,
+   "assessment_target_level": null,
+   "assessment_target_range_low": null,
+   "assessment_target_range_high": null,
+   "assessment_droneType_subject": null,
+   "assessment_droneType_level": null,
+   "assessment_droneType_range_low": null,
+   "assessment_droneType_range_high": null,
+   "eventFacts": [],
+   "history": [
+    {
+     "revision": 2,
+     "date": "2026-11-27",
+     "at": "2026-11-27T23:23:55.518+00:00",
      "note": "Published automatically after passing the automatic checks (pilot); not yet reviewed by an editor."
     }
    ]
@@ -3228,7 +5936,7 @@
    "locationPrecision": "region",
    "checkedAt": "2026-11-25",
    "autoCheckedAt": null,
-   "updatedAt": "2026-11-26",
+   "updatedAt": "2026-11-27",
    "summary": "Nordland police responded to a report of a drone flying near a stadium in Bodø on 24 November 2026, within a restricted zone near the airport. Police said they seized the drone and were reporting the operator for the flight.",
    "impact": "Police seized the drone. The reviewed accounts give no account of airport operations being interrupted.",
    "evidence": "The police log documents the response and seizure. Avisa Nordland separately identified air traffic control as the party that alerted police, as relayed by NTB. Both accounts attribute the seizure to police.",
@@ -3285,6 +5993,16 @@
      "url": "https://www.aftenposten.no/sport/i/BrRaJ7/drone-floey-ulovlig-over-aspmyra-foer-champions-league-kamp",
      "published": "2026-11-24",
      "family": "avisa-nordland"
+    },
+    {
+     "label": "Flashscore",
+     "url": "https://www.flashscore.com/news/soccer-champions-league-norwegian-police-stops-drone-pilot-affiliated-with-lask-linz-before-champions-league-clash/jJEwCZDD/",
+     "published": "2026-11-24",
+     "family": "flashscore",
+     "publisher": "Flashscore",
+     "language": "en",
+     "role": "additional reporting",
+     "publishedAt": "2026-11-24T15:24:33.000Z"
     }
    ],
    "timeline": [
@@ -3299,7 +6017,7 @@
    "series": [],
    "plainSummary": {},
    "autoEnrichments": [],
-   "revision": 1,
+   "revision": 2,
    "media": [],
    "operationalEffects": [],
    "followUp": [],
@@ -3325,6 +6043,12 @@
    "assessment_droneType_range_high": null,
    "eventFacts": [],
    "history": [
+    {
+     "revision": 2,
+     "date": "2026-11-27",
+     "at": "2026-11-27T16:06:39.572+00:00",
+     "note": "Reviewed supplemental reporting for the incident and selected links that add distinct evidence. Added: Flashscore."
+    },
     {
      "revision": 1,
      "date": "2026-11-26",
@@ -5866,7 +8590,7 @@
    "locationPrecision": "unknown",
    "checkedAt": "2026-11-25",
    "autoCheckedAt": null,
-   "updatedAt": "2026-11-25",
+   "updatedAt": "2026-11-27",
    "summary": "According to RBC-Ukraine, drones were reported in Kyiv, Ukraine on 23 November 2026. According to rubryka.com, drones were reported in Kyiv, Ukraine on 23 November 2026. According to a cited source (reported by uazmi.com), drones were reported in Kyiv, Ukraine on 23 November 2026. According to UA.News, drones were reported in Kyiv, Ukraine on 23 November 2026. According to a cited source (reported by ura-inform.com), drones were reported in Kyiv, Ukraine on 23 November 2026.",
    "impact": "According to UA.News, as of 23 Nov 2026 16:44 UTC+00:00: residential damage. According to an official source of an involved party, via RBC-Ukraine, as of 23 Nov 2026 15:42 UTC+02:00: residential damage. According to an official source of an involved party, via rubryka.com, as of 23 Nov 2026 14:29 UTC+00:00: residential damage. According to an official source of an involved party, via ura-inform.com, as of 23 Nov 2026 23:37 UTC+00:00: residential damage. According to an official source of an involved party, via RBC-Ukraine, as of 23 Nov 2026 15:42 UTC+02:00: vehicle damage. According to rubryka.com, as of 23 Nov 2026 14:29 UTC+00:00: fire. According to ura-inform.com, as of 23 Nov 2026 23:37 UTC+00:00: fire. According to an official source of an involved party, via RBC-Ukraine, as of 23 Nov 2026 15:42 UTC+02:00: fire. According to an official source of an involved party, via uazmi.com, as of 23 Nov 2026 17:58 UTC+02:00: fire. According to an official source of an involved party, via UA.News, as of 23 Nov 2026 16:44 UTC+00:00: fire.",
    "evidence": "Automatically compiled and published from 5 cited articles that each report drone presence at this place and date. An automatic check found them to describe the same incident and found claims that appear to come from at least two different sources; that independence has not been established by an editor. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
@@ -5935,6 +8659,36 @@
      "published": "2026-11-23",
      "family": "ura-inform",
      "publishedAt": "2026-11-23T23:37:00+00:00"
+    },
+    {
+     "label": "Ukrainska Pravda",
+     "url": "https://www.pravda.com.ua/news/2026/11/23/8064126/",
+     "published": "2026-11-23",
+     "family": "pravda-ua",
+     "publisher": "Ukrainska Pravda",
+     "language": "uk",
+     "role": "additional reporting",
+     "publishedAt": "2026-11-23T08:01:00+02:00"
+    },
+    {
+     "label": "Kyiv Post",
+     "url": "https://www.kyivpost.com/post/90944",
+     "published": "2026-11-23",
+     "family": "kyiv-post",
+     "publisher": "Kyiv Post",
+     "language": "en",
+     "role": "additional reporting",
+     "publishedAt": "2026-11-23T16:04:00+02:00"
+    },
+    {
+     "label": "Politarena",
+     "url": "https://politarena.ua/news/u-podilskomu-rayoni-kyyeva-rosiyskyy-dron-vluchyv-u-dakh-zytlovoyi-shestypoverkhivky/",
+     "published": "2026-11-23",
+     "family": "politarena",
+     "publisher": "Politarena",
+     "language": "uk",
+     "role": "additional reporting",
+     "publishedAt": "2026-11-23T19:03:44+02:00"
     }
    ],
    "timeline": [
@@ -6105,7 +8859,7 @@
    "series": [],
    "plainSummary": {},
    "autoEnrichments": [],
-   "revision": 11,
+   "revision": 12,
    "media": [],
    "operationalEffects": [],
    "followUp": [],
@@ -6131,6 +8885,12 @@
    "assessment_droneType_range_high": null,
    "eventFacts": [],
    "history": [
+    {
+     "revision": 12,
+     "date": "2026-11-27",
+     "at": "2026-11-27T16:06:38.188+00:00",
+     "note": "Reviewed supplemental reporting for the incident and selected links that add distinct evidence. Added: Kyiv Post, Politarena, Ukrainska Pravda."
+    },
     {
      "revision": 11,
      "date": "2026-11-25",
@@ -7669,7 +10429,7 @@
    "locationPrecision": "unknown",
    "checkedAt": "2026-11-26",
    "autoCheckedAt": null,
-   "updatedAt": "2026-11-26",
+   "updatedAt": "2026-11-27",
    "summary": "Explosions in Cúcuta before dawn on 23 November 2026 injured three civilians and damaged homes near a police facility, according to local reporting. Authorities cited by EFE and Caracol Radio reported that drones were involved. EFE separately interviewed a resident who heard explosions and reported an interruption to electricity.",
    "impact": "EFE reported three people injured and substantial damage to homes. Regional authorities told Caracol Radio that they had offered a reward for information about who carried out the attack. EFE’s interviews document civilian effects. The published totals reflect early reporting.",
    "evidence": "Caracol Radio directly interviewed the regional security secretary about the official response. EFE independently interviewed residents about the effects of the explosions. The articles also relay official accounts of drone involvement and give different estimates of the time. The witness testimony establishes what residents experienced.",
@@ -7774,6 +10534,16 @@
      "url": "https://efe.com/mundo/2026-11-23/ataque-policia-cucuta-colombia/",
      "published": "2026-11-23",
      "family": "efe"
+    },
+    {
+     "label": "Newsday",
+     "url": "https://www.newsday.com/news/nation/colombia-violence-cucuta-drone-attacks-w38038",
+     "published": "2026-11-23",
+     "family": "ap",
+     "publisher": "Newsday",
+     "language": "en",
+     "role": "additional reporting",
+     "publishedAt": "2026-11-23T17:30:58.995Z"
     }
    ],
    "timeline": [
@@ -7825,7 +10595,7 @@
    "series": [],
    "plainSummary": {},
    "autoEnrichments": [],
-   "revision": 16,
+   "revision": 17,
    "media": [],
    "operationalEffects": [],
    "followUp": [],
@@ -7851,6 +10621,12 @@
    "assessment_droneType_range_high": null,
    "eventFacts": [],
    "history": [
+    {
+     "revision": 17,
+     "date": "2026-11-27",
+     "at": "2026-11-27T16:09:58.583+00:00",
+     "note": "Reviewed supplemental reporting for the incident and selected links that add distinct evidence. Added: Newsday."
+    },
     {
      "revision": 16,
      "date": "2026-11-26",
@@ -7925,11 +10701,11 @@
    "lat": 32.11,
    "lon": 20.05,
    "locationPrecision": "city",
-   "checkedAt": "2026-11-24",
+   "checkedAt": "2026-11-27",
    "autoCheckedAt": null,
-   "updatedAt": "2026-11-25",
+   "updatedAt": "2026-11-27",
    "summary": "An explosion hit a Russian navy ship docked at the Benghazi naval base in eastern Libya on 21–22 November 2026; the eastern Libyan government first said it believed it was a drone attack. On 23 November Ukrainian president Zelensky claimed the attack: according to him, seven Ukrainian naval drones sank the corvette Merkury. Two Libyan officials told AP that sea drones severely damaged the corvette, and NOS reports that satellite images show the ship partly sunk. Russia has not commented.",
-   "impact": "According to Zelensky the corvette Merkury was sunk; NOS reports satellite images showing the ship partly sunk, and two Libyan officials told AP it was severely damaged. Zelensky also claims that the cargo ship MV Angara was struck and a Ka-27 helicopter destroyed; NOS says these claims cannot be confirmed independently. Anonymous hospital sources told Reuters that nobody was killed but people were injured. The eastern government says the fire was brought under control.",
+   "impact": "According to Zelensky the corvette Merkury was sunk; NOS reports satellite images showing the ship partly sunk, and two Libyan officials told AP it was severely damaged. Zelensky also claims that the cargo ship MV Angara was struck and a Ka-27 helicopter destroyed; NOS says these claims cannot be confirmed independently. In the first reports, anonymous hospital sources told Reuters that nobody was killed but people were injured. On Tuesday 24 November two Libyan naval officers wounded in the attack died, according to the Libyan National Army's General Command as reported by AP via NBC News and by DW. The eastern government says the fire was brought under control.",
    "evidence": "Zelensky's claim and the number of drones come from his own statement, relayed by NOS, AP and Ukrainska Pravda, with footage he published. AP relays two Libyan officials who describe a sea drone strike. NOS reports satellite images of the partly sunk ship. The Libyan statements and hospital sources are relayed by The National, NOS and Reuters. No independent technical account of the strike is available in these sources.",
    "unknown": "The attack is claimed by Ukraine; the claim is not an independent finding. Russia has not confirmed the ship's identity or fate. The strike on the cargo ship and the loss of a helicopter are claimed by Zelensky and not independently confirmed. The number of injured is not given. Timing differs between sources: Saturday evening (NOS) or early Sunday (eastern government, AP).",
    "attribution": "Claimed: Ukrainian president Zelensky claimed the attack on 23 November. Not independently confirmed.",
@@ -8175,6 +10951,34 @@
      "sourceIndex": 3,
      "quoteCheckedAt": "2026-11-23",
      "quoteTranslation": {}
+    },
+    {
+     "id": "lna-two-officers-died",
+     "axis": "impact",
+     "statement": "The Libyan National Army says two naval officers wounded in the Sunday attack at the Benghazi Naval Base were pronounced dead on Tuesday evening.",
+     "quote": "The two men were pronounced dead Tuesday evening. They were wounded in the Sunday drone attack at the Benghazi Naval Base",
+     "claimant": "Libyan National Army via AP/NBC News",
+     "originId": "lna-20261124-deaths",
+     "relay": "relayed",
+     "assessment": "supports",
+     "note": "Later deaths; the early Reuters report of no deaths predates them.",
+     "sourceIndex": 13,
+     "quoteCheckedAt": "2026-11-27",
+     "quoteTranslation": {}
+    },
+    {
+     "id": "dw-two-soldiers-died",
+     "axis": "impact",
+     "statement": "DW reports that two Libyan soldiers died of injuries sustained in the attack on the Russian warship in Benghazi.",
+     "quote": "Two Libyan soldiers have died from their injuries sustained during a Ukrainian attack on a Russian warship",
+     "claimant": "Eastern Libyan administration via DW",
+     "originId": "lna-20261124-deaths",
+     "relay": "relayed",
+     "assessment": "supports",
+     "note": "Same report relayed by DW.",
+     "sourceIndex": 12,
+     "quoteCheckedAt": "2026-11-27",
+     "quoteTranslation": {}
     }
    ],
    "droneStatusSources": [
@@ -8294,6 +11098,32 @@
      "language": "fr",
      "role": "additional reporting",
      "publishedAt": "2026-11-23T21:16:48+00:00"
+    },
+    {
+     "label": "Okaz",
+     "url": "https://www.okaz.com.sa/politics/na/2277023",
+     "published": "2026-11-23",
+     "family": "okaz",
+     "publisher": "Okaz",
+     "language": "ar",
+     "role": "additional reporting",
+     "publishedAt": "2026-11-23T21:08:08+03:00"
+    },
+    {
+     "label": "DW: eastern Libyan administration says two soldiers died of their injuries",
+     "url": "https://www.dw.com/en/libya-ukrainian-attack-benghazi-2-dead/a-80042348",
+     "published": "2026-11-25",
+     "family": "dw",
+     "publisher": "DW",
+     "publishedAt": "2026-11-25T04:41:00Z"
+    },
+    {
+     "label": "NBC News with AP: LNA says two naval officers were pronounced dead on Tuesday evening",
+     "url": "https://www.nbcnews.com/world/ukraine/2-libyan-naval-officers-die-wounds-ukrainian-drone-attack-russian-wars-rcna611252",
+     "published": "2026-11-25",
+     "family": "nbc",
+     "publisher": "NBC News",
+     "publishedAt": "2026-11-25T08:35:06Z"
     }
    ],
    "timeline": [
@@ -8316,6 +11146,11 @@
      "date": "2026-11-23",
      "text": "Two Libyan officials tell AP that sea drones severely damaged the corvette; the UN mission in Libya calls for an independent investigation.",
      "source": 3
+    },
+    {
+     "date": "2026-11-24",
+     "text": "The Libyan National Army says two naval officers wounded in the attack died of their injuries.",
+     "source": 13
     }
    ],
    "referencePoint": null,
@@ -8325,7 +11160,7 @@
    ],
    "plainSummary": {},
    "autoEnrichments": [],
-   "revision": 6,
+   "revision": 8,
    "media": [],
    "operationalEffects": [],
    "followUp": [],
@@ -8351,6 +11186,18 @@
    "assessment_droneType_range_high": null,
    "eventFacts": [],
    "history": [
+    {
+     "revision": 8,
+     "date": "2026-11-27",
+     "at": "2026-11-27T16:08:34.176+00:00",
+     "note": "Editor review: two Libyan naval officers wounded in the attack died on 24 November, according to the Libyan National Army (AP via NBC News, DW); the early Reuters report of no deaths is dated."
+    },
+    {
+     "revision": 7,
+     "date": "2026-11-27",
+     "at": "2026-11-27T16:06:34.179+00:00",
+     "note": "Reviewed supplemental reporting for the incident and selected links that add distinct evidence. Added: Okaz."
+    },
     {
      "revision": 6,
      "date": "2026-11-25",
@@ -8504,7 +11351,7 @@
    "locationPrecision": "unknown",
    "checkedAt": "2026-11-25",
    "autoCheckedAt": null,
-   "updatedAt": "2026-11-25",
+   "updatedAt": "2026-11-27",
    "summary": "According to uazmi.com, drones were reported in Dymer, Vyshhorod district, Ukraine on 22 November 2026.",
    "impact": "No eligible attributed impact claim is included; this does not mean no impact occurred.",
    "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
@@ -8527,6 +11374,26 @@
      "published": "2026-11-22",
      "family": "uazmi",
      "publishedAt": "2026-11-22T06:49:11+02:00"
+    },
+    {
+     "label": "The Maitland Mercury",
+     "url": "https://www.maitlandmercury.com.au/story/9396087/two-dead-in-russian-drone-strike-in-kyiv-region/",
+     "published": "2026-11-22",
+     "family": "reuters",
+     "publisher": "The Maitland Mercury",
+     "language": "en",
+     "role": "additional reporting",
+     "publishedAt": "2026-11-22T15:01:00+00:00"
+    },
+    {
+     "label": "Public Television Service",
+     "url": "https://news.pts.org.tw/article/836870",
+     "published": "2026-11-23",
+     "family": "pts",
+     "publisher": "Public Television Service",
+     "language": "zh",
+     "role": "additional reporting",
+     "publishedAt": "2026-11-23T08:18:54+08:00"
     }
    ],
    "timeline": [
@@ -8546,7 +11413,7 @@
    "series": [],
    "plainSummary": {},
    "autoEnrichments": [],
-   "revision": 4,
+   "revision": 6,
    "media": [],
    "operationalEffects": [],
    "followUp": [],
@@ -8572,6 +11439,18 @@
    "assessment_droneType_range_high": null,
    "eventFacts": [],
    "history": [
+    {
+     "revision": 6,
+     "date": "2026-11-27",
+     "at": "2026-11-27T16:07:27.474+00:00",
+     "note": "Reviewed supplemental reporting for the incident and selected links that add distinct evidence. Added: Public Television Service."
+    },
+    {
+     "revision": 5,
+     "date": "2026-11-27",
+     "at": "2026-11-27T16:06:36.988+00:00",
+     "note": "Reviewed supplemental reporting for the incident and selected links that add distinct evidence. Added: The Maitland Mercury."
+    },
     {
      "revision": 4,
      "date": "2026-11-25",
@@ -8966,7 +11845,7 @@
    "locationPrecision": "unknown",
    "checkedAt": "2026-11-25",
    "autoCheckedAt": null,
-   "updatedAt": "2026-11-25",
+   "updatedAt": "2026-11-27",
    "summary": "According to a cited source (reported by UA.News), drones were reported in Kharkiv, Ukraine on 22 November 2026.",
    "impact": "No eligible attributed impact claim is included; this does not mean no impact occurred.",
    "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
@@ -8997,6 +11876,16 @@
      "published": "2026-11-22",
      "family": "ua",
      "publishedAt": "2026-11-22T14:20:37+00:00"
+    },
+    {
+     "label": "Fakty ICTV",
+     "url": "https://fakty.com.ua/ru/proisshestvija/20261122-vybuhy-v-harkovi-shho-stalosya-sogodni-22-lystopada-2026/",
+     "published": "2026-11-22",
+     "family": "fakty-ictv",
+     "publisher": "Fakty ICTV",
+     "language": "ru",
+     "role": "additional reporting",
+     "publishedAt": "2026-11-22T11:16:22Z"
     }
    ],
    "timeline": [
@@ -9016,7 +11905,7 @@
    "series": [],
    "plainSummary": {},
    "autoEnrichments": [],
-   "revision": 3,
+   "revision": 4,
    "media": [],
    "operationalEffects": [],
    "followUp": [],
@@ -9042,6 +11931,12 @@
    "assessment_droneType_range_high": null,
    "eventFacts": [],
    "history": [
+    {
+     "revision": 4,
+     "date": "2026-11-27",
+     "at": "2026-11-27T16:06:35.993+00:00",
+     "note": "Reviewed supplemental reporting for the incident and selected links that add distinct evidence. Added: Fakty ICTV."
+    },
     {
      "revision": 3,
      "date": "2026-11-25",
@@ -28027,8 +30922,8 @@
    "locationPrecision": "unknown",
    "checkedAt": null,
    "autoCheckedAt": "2026-11-15",
-   "updatedAt": "2026-11-16",
-   "summary": "According to The Kyiv Independent, drones were reported in Kyiv, Ukraine on 13 November 2026.",
+   "updatedAt": "2026-11-27T16:16:34+00:00",
+   "summary": "According to The Kyiv Independent, drones were reported in Kyiv, Ukraine on 13 Nov 2026. According to The Kyiv Independent: 3 people were reported injured; an evacuation was reported; a fire was reported.",
    "impact": "According to an official source of an involved party, via The Kyiv Independent, as of 13 Nov 2026 05:35 UTC+00:00: civilian infrastructure damage and fire. According to The Kyiv Independent, as of 13 Nov 2026 05:35 UTC+00:00: 3 people injured.",
    "evidence": "Single-source report, automatically published: one source reports drone presence at this place and date. It has not been corroborated by a second independent source and may be incomplete or wrong. It is shown so that early and local reports are visible; treat it as unverified. Claims are shown as made by the named source; claims by a party to a conflict remain claims. For conflict incidents only the city or region named in the reports is shown, never a precise location, and no operational details; the cited articles may contain more precise details than this dossier. This is not a warning service: for incoming threats, follow official alerts. DroneLedger has not independently verified the claims and an editor has not yet reviewed this dossier.",
    "unknown": "Not yet assessed by an editor: impact, exact location, operator and intent.",
@@ -28130,7 +31025,93 @@
    ],
    "series": [],
    "plainSummary": {},
-   "autoEnrichments": [],
+   "autoEnrichments": [
+    {
+     "field": "eventFacts",
+     "sourceUrl": "https://kyivindependent.com/3-injured-dozens-evacuated-after-russian-drone-damages-kyiv-medical-facility-in-overnight-attack/",
+     "asOf": "2026-11-13T05:35:14.000Z",
+     "method": "ai-assisted-source-check",
+     "eventScope": "same-incident",
+     "speaker": "The Kyiv Independent",
+     "role": "publisher",
+     "quote": "Three people were injured",
+     "value": {
+      "kind": "injured",
+      "sourceIndex": 0,
+      "support": "Three people were injured",
+      "frame": {
+       "quote": "Three people were injured, and 30 others evacuated, after debris from a drone sparked a fire at a medical facility in Kyiv during a Russian overnight attack on Ukraine's capital on Nov. 13.",
+       "place": "Kyiv",
+       "date": "Nov. 13"
+      },
+      "n": 3
+     },
+     "check": {
+      "checkedAt": "2026-11-27T16:16:34+00:00",
+      "contentHash": "c2519ed23eac03c29bf9a759b0c92970c3fa516f8771b72181cee7a521acbc76",
+      "finalUrl": "https://kyivindependent.com/3-injured-dozens-evacuated-after-russian-drone-damages-kyiv-medical-facility-in-overnight-attack/",
+      "matchedIn": "article",
+      "robots": "allowed",
+      "digest": "043665149a5780b9b606e98a77d815f90e68ca908545069de399edbcbfd9250b"
+     }
+    },
+    {
+     "field": "eventFacts",
+     "sourceUrl": "https://kyivindependent.com/3-injured-dozens-evacuated-after-russian-drone-damages-kyiv-medical-facility-in-overnight-attack/",
+     "asOf": "2026-11-13T05:35:14.000Z",
+     "method": "ai-assisted-source-check",
+     "eventScope": "same-incident",
+     "speaker": "The Kyiv Independent",
+     "role": "publisher",
+     "quote": "30 others evacuated",
+     "value": {
+      "kind": "evacuation",
+      "sourceIndex": 0,
+      "support": "30 others evacuated",
+      "frame": {
+       "quote": "Three people were injured, and 30 others evacuated, after debris from a drone sparked a fire at a medical facility in Kyiv during a Russian overnight attack on Ukraine's capital on Nov. 13.",
+       "place": "Kyiv",
+       "date": "Nov. 13"
+      }
+     },
+     "check": {
+      "checkedAt": "2026-11-27T16:16:34+00:00",
+      "contentHash": "c2519ed23eac03c29bf9a759b0c92970c3fa516f8771b72181cee7a521acbc76",
+      "finalUrl": "https://kyivindependent.com/3-injured-dozens-evacuated-after-russian-drone-damages-kyiv-medical-facility-in-overnight-attack/",
+      "matchedIn": "article",
+      "robots": "allowed",
+      "digest": "61372118e5f3cdcf39f20b4dd0dfe44066c164f19ca0f5d402a36f97cafba1ad"
+     }
+    },
+    {
+     "field": "eventFacts",
+     "sourceUrl": "https://kyivindependent.com/3-injured-dozens-evacuated-after-russian-drone-damages-kyiv-medical-facility-in-overnight-attack/",
+     "asOf": "2026-11-13T05:35:14.000Z",
+     "method": "ai-assisted-source-check",
+     "eventScope": "same-incident",
+     "speaker": "The Kyiv Independent",
+     "role": "publisher",
+     "quote": "debris from a drone sparked a fire at a medical facility in Kyiv",
+     "value": {
+      "kind": "fire",
+      "sourceIndex": 0,
+      "support": "debris from a drone sparked a fire at a medical facility in Kyiv",
+      "frame": {
+       "quote": "Three people were injured, and 30 others evacuated, after debris from a drone sparked a fire at a medical facility in Kyiv during a Russian overnight attack on Ukraine's capital on Nov. 13.",
+       "place": "Kyiv",
+       "date": "Nov. 13"
+      }
+     },
+     "check": {
+      "checkedAt": "2026-11-27T16:16:34+00:00",
+      "contentHash": "c2519ed23eac03c29bf9a759b0c92970c3fa516f8771b72181cee7a521acbc76",
+      "finalUrl": "https://kyivindependent.com/3-injured-dozens-evacuated-after-russian-drone-damages-kyiv-medical-facility-in-overnight-attack/",
+      "matchedIn": "article",
+      "robots": "allowed",
+      "digest": "b3aa3d46b47eba13013aa108f9c44032712856be9d4ef765f4ac6fe1b88c0ab7"
+     }
+    }
+   ],
    "revision": 7,
    "media": [],
    "operationalEffects": [],
@@ -28155,7 +31136,63 @@
    "assessment_droneType_level": null,
    "assessment_droneType_range_low": null,
    "assessment_droneType_range_high": null,
-   "eventFacts": [],
+   "eventFacts": [
+    {
+     "kind": "injured",
+     "sourceIndex": 0,
+     "support": "Three people were injured",
+     "frame": {
+      "quote": "Three people were injured, and 30 others evacuated, after debris from a drone sparked a fire at a medical facility in Kyiv during a Russian overnight attack on Ukraine's capital on Nov. 13.",
+      "place": "Kyiv",
+      "date": "Nov. 13"
+     },
+     "n": 3,
+     "quote": "Three people were injured",
+     "speaker": "The Kyiv Independent",
+     "role": "publisher",
+     "sourceUrl": "https://kyivindependent.com/3-injured-dozens-evacuated-after-russian-drone-damages-kyiv-medical-facility-in-overnight-attack/",
+     "asOf": "2026-11-13T05:35:14.000Z",
+     "method": "ai-assisted-source-check",
+     "eventScope": "same-incident",
+     "checkedAt": "2026-11-27T16:16:34+00:00"
+    },
+    {
+     "kind": "evacuation",
+     "sourceIndex": 0,
+     "support": "30 others evacuated",
+     "frame": {
+      "quote": "Three people were injured, and 30 others evacuated, after debris from a drone sparked a fire at a medical facility in Kyiv during a Russian overnight attack on Ukraine's capital on Nov. 13.",
+      "place": "Kyiv",
+      "date": "Nov. 13"
+     },
+     "quote": "30 others evacuated",
+     "speaker": "The Kyiv Independent",
+     "role": "publisher",
+     "sourceUrl": "https://kyivindependent.com/3-injured-dozens-evacuated-after-russian-drone-damages-kyiv-medical-facility-in-overnight-attack/",
+     "asOf": "2026-11-13T05:35:14.000Z",
+     "method": "ai-assisted-source-check",
+     "eventScope": "same-incident",
+     "checkedAt": "2026-11-27T16:16:34+00:00"
+    },
+    {
+     "kind": "fire",
+     "sourceIndex": 0,
+     "support": "debris from a drone sparked a fire at a medical facility in Kyiv",
+     "frame": {
+      "quote": "Three people were injured, and 30 others evacuated, after debris from a drone sparked a fire at a medical facility in Kyiv during a Russian overnight attack on Ukraine's capital on Nov. 13.",
+      "place": "Kyiv",
+      "date": "Nov. 13"
+     },
+     "quote": "debris from a drone sparked a fire at a medical facility in Kyiv",
+     "speaker": "The Kyiv Independent",
+     "role": "publisher",
+     "sourceUrl": "https://kyivindependent.com/3-injured-dozens-evacuated-after-russian-drone-damages-kyiv-medical-facility-in-overnight-attack/",
+     "asOf": "2026-11-13T05:35:14.000Z",
+     "method": "ai-assisted-source-check",
+     "eventScope": "same-incident",
+     "checkedAt": "2026-11-27T16:16:34+00:00"
+    }
+   ],
    "history": [
     {
      "revision": 7,
@@ -91647,13 +94684,13 @@
    "lat": 42.87,
    "lon": 28.3,
    "locationPrecision": "region",
-   "checkedAt": "2026-10-21",
+   "checkedAt": "2026-11-27",
    "autoCheckedAt": null,
-   "updatedAt": "2026-10-21",
-   "summary": "Bulgarian Prime Minister Rumen Radev said the Maltese-flagged cargo ship Chelsea 3 was hit by three aerial drones about 18 nautical miles east of Byala, in Bulgaria's exclusive economic zone in the Black Sea, during the night of 12 to 13 October 2026. All 15 crew members were rescued.",
+   "updatedAt": "2026-11-27",
+   "summary": "Bulgarian authorities reported that drones struck the cargo ship Chelsea 3 off the Bulgarian Black Sea coast overnight on 12–13 October 2026. Rescuers brought all 15 crew members ashore. On 16 October, military prosecutors opened a pre-trial investigation.",
    "impact": "The Border Police rescued all 15 crew members (seven Ukrainian and eight Azerbaijani nationals) and took them to Varna; five received treatment for minor injuries, according to BTA and BNT, while Sega reports six hurt, mostly with light burns. The ship, sailing empty from Giresun (Türkiye) to Giurgiulești (Moldova), stayed afloat and was at anchor.",
-   "evidence": "Drone involvement rests on the statement of Bulgaria's prime minister, whose country is not a party to the war, and on the crew, who described three strikes on the deck and side. The national news agency BTA and the public broadcaster BNT report the statement; Sega adds the ship's route and management. A distress signal reached Bulgaria's maritime rescue centre at about 01:30 (Sega: 01:57). Sources give the distance as 15 or 18 nautical miles off Byala.",
-   "unknown": "Who launched the drones and from where is not established. The exact time of the strike is not given in the cited sources.",
+   "evidence": "Drone involvement rests on the statement of Bulgaria's prime minister, whose country is not a party to the war, and on the crew, who described three strikes on the deck and side. The national news agency BTA and the public broadcaster BNT report the statement; Sega adds the ship's route and management. A distress signal reached Bulgaria's maritime rescue centre at about 01:30 (Sega: 01:57). Sources give the distance as 15 or 18 nautical miles off Byala. The military prosecutor’s notice is a separate original record of the case opening. It describes allegations received and the investigation ordered.",
+   "unknown": "Who launched the drones and from where is not established. The exact time of the strike is not given in the cited sources. The pre-trial notice leaves liability and the outcome of proceedings unresolved.",
    "attribution": "Not established. Radev said there was no solid, clear evidence against any party, while arguing that the outcome benefits the Russian Federation; he said he would summon Russia's ambassador for talks.",
    "windowStart": null,
    "windowEnd": null,
@@ -91688,6 +94725,20 @@
      "note": "Official acknowledgment via BNT rests on crew evidence; drone origin/model and responsible party remain unestablished.",
      "sourceIndex": 1,
      "quoteCheckedAt": "2026-10-20",
+     "quoteTranslation": {}
+    },
+    {
+     "id": "chelsea-criminal-inquiry",
+     "axis": "operations",
+     "statement": "Military prosecutors opened pre-trial proceedings on 16 October.",
+     "quote": "С постановление от 16.10.2026 г. е образувано досъдебно производство",
+     "claimant": "Bulgarian Military District Prosecutor’s Office",
+     "originId": "bulgaria-chelsea-pretrial-20261016",
+     "relay": "direct",
+     "assessment": "supports",
+     "note": "The notice records a procedural decision after a complaint. It supplies no finding of guilt.",
+     "sourceIndex": 10,
+     "quoteCheckedAt": "2026-11-27",
      "quoteTranslation": {}
     }
    ],
@@ -91790,6 +94841,12 @@
      "language": "en",
      "role": "additional reporting",
      "publishedAt": "2026-10-13T08:19:06Z"
+    },
+    {
+     "label": "Bulgarian Military District Prosecutor’s Office, Sofia",
+     "url": "https://prb.bg/bg/news/aktualno/79884-voenno-okrazhna-prokuratura-sofiya-obrazuva-dosadebno-proizvodstvo-za-napadeni",
+     "published": "2026-10-16",
+     "family": "bulgarian-military-prosecutor"
     }
    ],
    "timeline": [
@@ -91802,6 +94859,11 @@
      "date": "2026-10-13",
      "text": "Prime Minister Radev called the attacks absolutely unacceptable, convened the Security Council of the Council of Ministers and said he would summon the Russian ambassador.",
      "source": 0
+    },
+    {
+     "date": "2026-10-16",
+     "text": "Military prosecutors opened pre-trial proceedings over the reported attack on Chelsea 3.",
+     "source": 10
     }
    ],
    "referencePoint": null,
@@ -91811,7 +94873,7 @@
    ],
    "plainSummary": {},
    "autoEnrichments": [],
-   "revision": 9,
+   "revision": 10,
    "media": [],
    "operationalEffects": [],
    "followUp": [],
@@ -91890,6 +94952,12 @@
    "eventFacts": [],
    "history": [
     {
+     "revision": 10,
+     "date": "2026-11-27",
+     "at": "2026-11-27T09:27:45.501+00:00",
+     "note": "Added the military prosecutor’s notice of pre-trial proceedings and preserved the existing rescue and attribution caveats."
+    },
+    {
      "revision": 9,
      "date": "2026-10-21",
      "at": "2026-10-21T05:32:20.480+00:00",
@@ -91963,13 +95031,13 @@
    "lat": 43.63,
    "lon": 28.95,
    "locationPrecision": "region",
-   "checkedAt": "2026-10-21",
+   "checkedAt": "2026-11-27",
    "autoCheckedAt": null,
-   "updatedAt": "2026-10-21",
-   "summary": "Bulgarian Prime Minister Rumen Radev said a second merchant ship was hit and sank about 17 nautical miles east of Krapets in Bulgaria's exclusive economic zone, in the same series of drone attacks in which the Chelsea 3 was struck off Byala on the night of 12 to 13 October 2026. President Iliana Iotova identified the sunken ship as the Guinea-Bissau-flagged cargo ship HS Dignity. Early reports had named the Azov Concord; Sega later reported that the Azov Concord had helped in the rescue.",
+   "updatedAt": "2026-11-27",
+   "summary": "The Guinea-Bissau-flagged cargo ship HS Dignity sank off Bulgaria during a reported drone attack overnight on 12–13 October 2026. Bulgarian officials reported five rescued and 11 missing. The Bulgarian transport ministry ended its search on 14 October, and Syrian officials later described consular assistance to survivors.",
    "impact": "The ship sank. Bulgarian officials said five crew members were rescued and 11 were missing; the prime minister had first reported one crew member rescued. According to Sega, the HS Dignity had a crew of 16 and was sailing without cargo from Algeria to Braila, Romania.",
-   "evidence": "Reported by Bulgaria's prime minister, whose country is not a party to the war, as one of the ships hit in the night's drone attacks; the ship was identified by President Iliana Iotova. Carried by the national news agency BTA, the public broadcaster BNT, Sega and Al Jazeera. The number of drones that hit this ship is not given.",
-   "unknown": "Who launched the drones and how many hit the ship were not clear at the time of reporting. Sega places the sinking 17 miles east of Shabla rather than Krapets.",
+   "evidence": "Reported by Bulgaria's prime minister, whose country is not a party to the war, as one of the ships hit in the night's drone attacks; the ship was identified by President Iliana Iotova. Carried by the national news agency BTA, the public broadcaster BNT, Sega and Al Jazeera. The number of drones that hit this ship is not given. The Bulgarian transport ministry separately recorded the end of its search after the weather deteriorated. Syria’s consular affairs director described its diplomatic mission’s visits to survivors and efforts to clarify the fate of those missing.",
+   "unknown": "Who launched the drones and how many hit the ship were not clear at the time of reporting. Sega places the sinking 17 miles east of Shabla rather than Krapets. Bulgaria announced the end of its search on 14 October. SANA later referred to continuing search efforts without identifying the operation. The eventual fate of the missing crew remains unresolved in these sources.",
    "attribution": "Not established. Radev said there was no solid, clear evidence against any party, while arguing that the outcome benefits the Russian Federation; he said he would summon Russia's ambassador for talks.",
    "windowStart": null,
    "windowEnd": null,
@@ -92002,6 +95070,34 @@
      "note": "Official sinking confirmation; initial rescue counts are provisional and are not transferred into the claim.",
      "sourceIndex": 1,
      "quoteCheckedAt": "2026-10-20",
+     "quoteTranslation": {}
+    },
+    {
+     "id": "dignity-search-ended",
+     "axis": "operations",
+     "statement": "Bulgaria’s transport ministry announced the end of its search and rescue operation on 14 October.",
+     "quote": "е обявен официален край на операцията по търсене и спасяване.",
+     "claimant": "Bulgarian transport ministry",
+     "originId": "bulgaria-hs-dignity-sar-20261014",
+     "relay": "direct",
+     "assessment": "supports",
+     "note": "The ministry cited deteriorating weather after the search resumed earlier that day.",
+     "sourceIndex": 8,
+     "quoteCheckedAt": "2026-11-27",
+     "quoteTranslation": {}
+    },
+    {
+     "id": "dignity-consular-contact",
+     "axis": "operations",
+     "statement": "Syria’s consular affairs director said its diplomatic mission had visited survivors.",
+     "quote": "the head of Syria’s diplomatic mission in Sofia visited the survivors",
+     "claimant": "Syrian Foreign Ministry via SANA",
+     "originId": "syria-hs-dignity-consular-report-20261018",
+     "relay": "relayed",
+     "assessment": "supports",
+     "note": "This is a separate account of Syria’s own consular activity. SANA separately reported ongoing search efforts without identifying which operation it meant.",
+     "sourceIndex": 9,
+     "quoteCheckedAt": "2026-11-27",
      "quoteTranslation": {}
     }
    ],
@@ -92079,6 +95175,18 @@
      "language": "pl",
      "role": "additional reporting",
      "publishedAt": "2026-10-13T10:56:05Z"
+    },
+    {
+     "label": "Bulgarian transport ministry announcement ending the search",
+     "url": "https://www.mtc.government.bg/bg/category/1/obyaven-e-oficialen-kray-na-operaciyata-po-trsene-i-spasyavane-na-moryaci-ot-porazeniya-v-cherno-more-korab-hs-dignity",
+     "published": "2026-10-14",
+     "family": "bulgarian-transport-ministry"
+    },
+    {
+     "label": "SANA interview with Syria’s consular affairs director",
+     "url": "https://sana.sy/en/syria/2351960/",
+     "published": "2026-10-18",
+     "family": "syrian-consular-service"
     }
    ],
    "timeline": [
@@ -92096,6 +95204,16 @@
      "date": "2026-10-13",
      "text": "Bulgarian officials said five crew members had been rescued and 11 remained missing.",
      "source": 3
+    },
+    {
+     "date": "2026-10-14",
+     "text": "Bulgaria’s transport ministry announced the end of its search and rescue operation.",
+     "source": 8
+    },
+    {
+     "date": "2026-10-18",
+     "text": "Syria’s consular affairs director described visits to survivors and assistance to those affected.",
+     "source": 9
     }
    ],
    "referencePoint": null,
@@ -92105,7 +95223,7 @@
    ],
    "plainSummary": {},
    "autoEnrichments": [],
-   "revision": 7,
+   "revision": 8,
    "media": [],
    "operationalEffects": [],
    "followUp": [],
@@ -92153,6 +95271,12 @@
    "assessment_droneType_range_high": null,
    "eventFacts": [],
    "history": [
+    {
+     "revision": 8,
+     "date": "2026-11-27",
+     "at": "2026-11-27T09:27:49.209+00:00",
+     "note": "Added the official end of Bulgaria’s search and the later Syrian consular follow-up."
+    },
     {
      "revision": 7,
      "date": "2026-10-21",
@@ -96964,13 +100088,13 @@
    "lat": 24.53,
    "lon": 56.66,
    "locationPrecision": "region",
-   "checkedAt": "2026-10-12",
+   "checkedAt": "2026-11-27",
    "autoCheckedAt": null,
-   "updatedAt": "2026-10-16",
-   "summary": "UK Maritime Trade Operations (UKMTO) reclassified an incident at Sohar anchorage in Oman as an attack after confirming that a tanker was struck by a drone. India's shipping minister said nine of the 11 Indian crew members were rescued and two remain missing.",
-   "impact": "India's minister of ports, shipping and waterways said the tanker carried 11 Indian nationals; nine were rescued and two remained missing while the local coast guard searched. A social-media post embedded by The Maritime Executive, citing preliminary information, gives 12 people on board (11 Indian nationals and one Bangladeshi national) with 10 rescued. That is compatible with the minister's figures if the non-Indian crew member was among those rescued, but it is not an official statement. UKMTO said damage and environmental impact were unknown at the time of its update.",
-   "evidence": "Drone involvement was confirmed by UKMTO, the maritime security reporting centre, which first logged the incident as suspicious activity; 'confirmed' here means confirmed by UKMTO. Both cited articles relay the same UKMTO update and the same Indian ministerial statement, so they are not two independent confirmations. The Maritime Executive dates UKMTO's confirmation to Sunday 11 October; Reuters, via The Jerusalem Post, reported it on Monday 12 October. The Indian government identified the vessel as the Petro Dolphin, a small product tanker.",
-   "unknown": "Who launched the drone is not established in the cited sources; The Maritime Executive describes it as the latest suspected Iranian strike, without official attribution. The fate of the two missing seafarers and the extent of the damage were not known at the time of reporting.",
+   "updatedAt": "2026-11-27",
+   "summary": "UK Maritime Trade Operations reported a drone strike on the tanker Petro Dolphin at Sohar anchorage on 11 October 2026. India’s maritime administration later recorded ten rescued from a crew of twelve, with two Indian seafarers still missing in its October report.",
+   "impact": "India’s maritime administration recorded ten crew members rescued and two missing. The two missing crew were Indian nationals. The aggregate totals and the minister’s earlier nationality-specific figures describe different groups.",
+   "evidence": "UK Maritime Trade Operations supplied the account of the strike. India’s shipping minister initially counted Indian nationals only, reporting nine rescued and two missing. The maritime administration’s October report covers the entire crew and records ten rescued.",
+   "unknown": "The available sources leave the identity of those responsible, the final damage assessment and the fate of the two missing crew open after the October report.",
    "attribution": "Not established in the cited sources.",
    "windowStart": null,
    "windowEnd": null,
@@ -97060,6 +100184,20 @@
      "sourceIndex": 1,
      "quoteCheckedAt": "2026-10-12",
      "quoteTranslation": {}
+    },
+    {
+     "id": "dgma-petro-october",
+     "axis": "impact",
+     "statement": "The October maritime administration report records ten rescued from a crew of twelve, with two Indian crew missing.",
+     "quote": "Ten of the 12 crew members were rescued; two Indian seafarers remained missing.",
+     "claimant": "Indian Directorate General of Maritime Administration",
+     "originId": "india-dgma-october-2026-petro-dolphin",
+     "relay": "direct",
+     "assessment": "supports",
+     "note": "The shipping minister’s initial figures covered Indian nationals. The October report covers the whole crew.",
+     "sourceIndex": 5,
+     "quoteCheckedAt": "2026-11-27",
+     "quoteTranslation": {}
     }
    ],
    "droneStatusSources": [
@@ -97067,8 +100205,7 @@
     1
    ],
    "impactStatusSources": [
-    0,
-    1
+    5
    ],
    "attributionSources": [],
    "sources": [
@@ -97113,6 +100250,12 @@
      "language": "ur",
      "role": "additional reporting",
      "publishedAt": "2026-10-12T09:51:59+05:30"
+    },
+    {
+     "label": "Indian Directorate General of Maritime Administration, October monthly report",
+     "url": "https://www.dgma.gov.in/download/1794547563_6af69f6bca1e2_r1-monthly-report-for-dgma-october-2026.pdf",
+     "published": "2026-11-13",
+     "family": "india-dgma"
     }
    ],
    "timeline": [
@@ -97130,6 +100273,11 @@
      "date": "2026-10-12",
      "text": "Reuters reported that UKMTO had reclassified the incident as an attack after confirming the tanker was struck by a drone.",
      "source": 0
+    },
+    {
+     "date": "2026-11-13",
+     "text": "India’s October maritime report recorded ten crew rescued and two still missing.",
+     "source": 5
     }
    ],
    "referencePoint": null,
@@ -97137,7 +100285,7 @@
    "series": [],
    "plainSummary": {},
    "autoEnrichments": [],
-   "revision": 4,
+   "revision": 5,
    "media": [],
    "operationalEffects": [],
    "followUp": [],
@@ -97163,6 +100311,12 @@
    "assessment_droneType_range_high": null,
    "eventFacts": [],
    "history": [
+    {
+     "revision": 5,
+     "date": "2026-11-27",
+     "at": "2026-11-27T09:27:56.516+00:00",
+     "note": "Added the October maritime administration report, which separates the whole-crew total from early nationality-specific counts."
+    },
     {
      "revision": 4,
      "date": "2026-10-16",
@@ -102248,18 +105402,18 @@
    "category": "airport",
    "droneStatus": "confirmed",
    "impactStatus": "reported",
-   "attributionStatus": "none",
+   "attributionStatus": "claimed",
    "lat": null,
    "lon": null,
    "locationPrecision": "unknown",
-   "checkedAt": "2026-11-15",
+   "checkedAt": "2026-11-27",
    "autoCheckedAt": null,
-   "updatedAt": "2026-11-15",
-   "summary": "Saxon investigators reported finding a drone carrying an explosive device overnight on 4–5 August 2026. AP also reported the incident, including a federal minister’s account. This dossier uses the statement date and the expressly reported overnight window.",
+   "updatedAt": "2026-11-27",
+   "summary": "Saxon investigators reported finding a drone carrying an explosive device at Leipzig/Halle Airport overnight on 4–5 August 2026. Germany’s federal government attributed the attempted attack to Russia on 1 September.",
    "impact": "As of the Saxon investigators’ statement of 5 August at 13:45 local time (CEST, UTC+02:00), flight operations had initially stopped and partially resumed overnight. A separately described unidentified flying object reportedly damaged a freight aircraft; that damage is not attributed here to the recovered drone.",
-   "evidence": "Saxon investigators are the primary source for the recovered device. AP is a separate newsroom and additionally reports a federal minister’s statement and scene photography, but the device finding rests on the same official investigation, not an independent forensic examination. Later Euronews reporting relays other newspapers’ allegations; it is not a second physical verification.",
-   "unknown": "The operator, intended target and any connection between the recovered drone and the other unidentified object are unresolved. Later reports concerning a Ukrainian freight aircraft do not independently establish intent or Russian responsibility. Exact flight-suspension times are not provided.",
-   "attribution": "Not established.",
+   "evidence": "Saxon investigators documented the recovery and temporary flight suspension. The federal government later publicly attributed the incident to Russia and informed parliament of consultations with NATO allies. Those federal statements share a source family.",
+   "unknown": "The cited authorities left individual responsibility open in the public material; the October parliamentary response describes the government’s response.",
+   "attribution": "Germany’s federal government attributed the attempted attack to Russia. The public statements provide the government’s assessment and leave individual responsibility unresolved.",
    "windowStart": "2026-08-04",
    "windowEnd": "2026-08-05",
    "windowBasis": "explicit",
@@ -102292,6 +105446,34 @@
      "sourceIndex": 0,
      "quoteCheckedAt": "2026-11-15",
      "quoteTranslation": {}
+    },
+    {
+     "id": "federal-attribution",
+     "axis": "attribution",
+     "statement": "Germany attributed the attempted attack at Leipzig/Halle Airport to Russia.",
+     "quote": "Die Bundesregierung geht deshalb gegen Russland als Urheber des hybriden Angriffs von Leipzig vor.",
+     "claimant": "German federal government",
+     "originId": "german-federal-leipzig-attribution-20260901",
+     "relay": "direct",
+     "assessment": "supports",
+     "note": "This is the federal government’s attribution. The Saxon investigation is the separate source for the initial incident.",
+     "sourceIndex": 3,
+     "quoteCheckedAt": "2026-11-27",
+     "quoteTranslation": {}
+    },
+    {
+     "id": "parliamentary-followup",
+     "axis": "attribution",
+     "statement": "The government told parliament it had discussed the incident with NATO allies.",
+     "quote": "mit ihren Alliierten in der Nato beraten",
+     "claimant": "German federal government via the Bundestag",
+     "originId": "german-federal-response-21-8770-20261027",
+     "relay": "relayed",
+     "assessment": "supports",
+     "note": "A later statement from the same federal government source family.",
+     "sourceIndex": 4,
+     "quoteCheckedAt": "2026-11-27",
+     "quoteTranslation": {}
     }
    ],
    "droneStatusSources": [
@@ -102301,7 +105483,9 @@
    "impactStatusSources": [
     0
    ],
-   "attributionSources": [],
+   "attributionSources": [
+    3
+   ],
    "sources": [
     {
      "label": "Saxon investigators: explosive-device investigation",
@@ -102320,6 +105504,18 @@
      "url": "https://www.euronews.com/2026/08/11/explosive-drone-at-leipzig-airport-whose-dna-trail-is-it",
      "published": "2026-08-11",
      "family": "zeit-bild-relay"
+    },
+    {
+     "label": "German Foreign Office, 1 September federal attribution statement",
+     "url": "https://www.auswaertiges-amt.de/de/newsroom/2800598-2800598",
+     "published": "2026-09-01",
+     "family": "german-federal-government"
+    },
+    {
+     "label": "Bundestag summary of the federal government’s parliamentary response",
+     "url": "https://www.bundestag.de/presse/hib/kurzmeldungen-1229850",
+     "published": "2026-10-27",
+     "family": "german-federal-government"
     }
    ],
    "timeline": [
@@ -102332,6 +105528,16 @@
      "date": "2026-08-11",
      "text": "Euronews relayed subsequent newspaper reporting; intent and responsibility remain allegations.",
      "source": 2
+    },
+    {
+     "date": "2026-09-01",
+     "text": "Germany’s federal government attributed the attempted attack to Russia.",
+     "source": 3
+    },
+    {
+     "date": "2026-10-27",
+     "text": "The government told parliament it had discussed the incident with NATO allies.",
+     "source": 4
     }
    ],
    "referencePoint": {
@@ -102344,7 +105550,7 @@
    "series": [],
    "plainSummary": {},
    "autoEnrichments": [],
-   "revision": 3,
+   "revision": 4,
    "media": [],
    "operationalEffects": [],
    "followUp": [],
@@ -102375,6 +105581,12 @@
    "assessment_droneType_range_high": null,
    "eventFacts": [],
    "history": [
+    {
+     "revision": 4,
+     "date": "2026-11-27",
+     "at": "2026-11-27T09:27:51.670+00:00",
+     "note": "Added the September federal attribution and October parliamentary follow-up while retaining the original incident window."
+    },
     {
      "revision": 3,
      "date": "2026-11-15",
@@ -118406,13 +121618,13 @@
    "lat": -37.81,
    "lon": 144.96,
    "locationPrecision": "region",
-   "checkedAt": "2026-10-21",
+   "checkedAt": "2026-11-27",
    "autoCheckedAt": null,
-   "updatedAt": "2026-10-21",
-   "summary": "Hundreds of drones entered the water during a light-show accident in Melbourne on 14 July 2023.",
-   "impact": "Hundreds of drones entered the water and a recovery operation followed. No exact loss or recovery count asserted.",
-   "evidence": "ABC independently covered recovery and interviewed the operator. DroneXL relays contemporary reports, including The Age and embedded7News material. Both repeat the operator’s preliminary account; that shared origin is not independent technical confirmation. Physical recovery supports drone involvement.",
-   "unknown": "The incident date is 14 July 2023, not June or either article’s publication date. Contemporary missing-device estimates are not a final loss count. Fleet size, missing aircraft and recovered aircraft are different metrics. ABC uses Yarra River; DroneXL also includes Victoria Harbour framing. No injury assessment, final technical cause or precise drone position adopted from these contemporary accounts.",
+   "updatedAt": "2026-11-27",
+   "summary": "A 500-drone light show lost control shortly after launch at Melbourne’s Docklands on 14 July 2023. Australia’s transport safety investigator later found that winds exceeded the aircraft’s operating capability. Its final report recorded 427 drones entering Victoria Harbour and 236 recovered.",
+   "impact": "Of the 500 drones, 427 entered the water and divers recovered 236, according to the final report. 7NEWS documented the retrieval effort two days after the accident. The operator subsequently reported improved training and pre-flight wind checks to the safety investigator.",
+   "evidence": "The Australian Transport Safety Bureau reconstructed the flight using flight records and interviews. It found that the crew lacked a wind measurement at show height before launch and did not recognise the limit exceedance after take-off. Separately, ABC interviewed the operator and 7NEWS interviewed a recovery diver. Their early accounts document the retrieval effort. The final totals come from the safety investigation.",
+   "unknown": "Early reports gave different numbers of missing and recovered drones. The ATSB final report provides the counts used here. Its findings address what increased the safety risk and leave questions of legal liability outside the investigation.",
    "attribution": "No hostile actor assigned. Australian Traffic Network operated the display; safety findings do not establish criminal or civil liability.",
    "windowStart": null,
    "windowEnd": null,
@@ -118446,6 +121658,34 @@
      "sourceIndex": 1,
      "quoteCheckedAt": "2026-10-17",
      "quoteTranslation": {}
+    },
+    {
+     "id": "atsb-final-count",
+     "axis": "impact",
+     "statement": "The final investigation recorded 427 submerged aircraft and 236 recovered.",
+     "quote": "427 of the 500 aircraft in the swarm were lost into the water, with divers subsequently recovering 236.",
+     "claimant": "Australian Transport Safety Bureau",
+     "originId": "atsb-ao-2023-033-final",
+     "relay": "relayed",
+     "assessment": "supports",
+     "note": "The reproduced primary report supersedes contemporary estimates for the final totals.",
+     "sourceIndex": 2,
+     "quoteCheckedAt": "2026-11-27",
+     "quoteTranslation": {}
+    },
+    {
+     "id": "seven-recovery",
+     "axis": "impact",
+     "statement": "7NEWS interviewed a recovery diver and reported retrieval work two days after the accident.",
+     "quote": "Recovery divers braved the cold temperatures to retrieve the drones on Sunday",
+     "claimant": "7NEWS",
+     "originId": "seven-news-docklands-diver-interview",
+     "relay": "direct",
+     "assessment": "supports",
+     "note": "Independent on-scene contribution. Its early recovery estimate differs from the later ATSB count.",
+     "sourceIndex": 3,
+     "quoteCheckedAt": "2026-11-27",
+     "quoteTranslation": {}
     }
    ],
    "droneStatusSources": [
@@ -118454,7 +121694,8 @@
    ],
    "impactStatusSources": [
     0,
-    1
+    2,
+    3
    ],
    "attributionSources": [],
    "sources": [
@@ -118471,6 +121712,19 @@
      "published": "2023-07-16",
      "family": "dronexl",
      "publishedAt": "2023-07-17T01:41:01.000Z"
+    },
+    {
+     "label": "ATSB final report AO-2023-033 (reproduced by sUAS News)",
+     "url": "https://www.suasnews.com/2025/07/control-issues-and-ditching-involving-rpa-swarm-of-500-damoda-newton-2-2-rpa-victoria-harbour-docklands-victoria-on-14-july-2023/",
+     "published": "2025-07-15",
+     "family": "atsb"
+    },
+    {
+     "label": "7NEWS: local recovery reporting and diver interview",
+     "url": "https://7news.com.au/news/vic/hundreds-of-drones-retrieved-from-victoria-harbour-docklands-following-light-show-malfunction--c-11297934",
+     "published": "2023-07-17",
+     "family": "seven-news",
+     "publishedAt": "2023-07-16T22:29:55.000Z"
     }
    ],
    "timeline": [
@@ -118483,6 +121737,11 @@
      "date": "2023-07-16",
      "text": "Contemporary accounts describe the operator’s preliminary assessment and recovery efforts.",
      "source": 0
+    },
+    {
+     "date": "2025-07-15",
+     "text": "The ATSB published its final report, identifying excessive wind and shortcomings in how the crew assessed and monitored wind conditions.",
+     "source": 2
     }
    ],
    "referencePoint": null,
@@ -118490,7 +121749,7 @@
    "series": [],
    "plainSummary": {},
    "autoEnrichments": [],
-   "revision": 3,
+   "revision": 4,
    "media": [],
    "operationalEffects": [],
    "followUp": [],
@@ -118516,6 +121775,12 @@
    "assessment_droneType_range_high": null,
    "eventFacts": [],
    "history": [
+    {
+     "revision": 4,
+     "date": "2026-11-27",
+     "at": "2026-11-27T09:27:54.097+00:00",
+     "note": "Added the ATSB final findings, the final loss and recovery counts, and independently reported recovery work."
+    },
     {
      "revision": 3,
      "date": "2026-10-21",
